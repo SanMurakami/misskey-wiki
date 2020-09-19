@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2020-09-19T17:40:40.763Z
+date: 2020-09-19T17:42:46.817Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T16:49:55.936Z
@@ -11,7 +11,7 @@ dateCreated: 2020-09-19T16:49:55.936Z
 **Misskey Wiki**へようこそ！どなたの編集も歓迎です。
 インスタンスの宣伝、自己紹介、アプリの宣伝などにもお使いいただけます。
 
-[![藍](/ai.png)](/ja/ai)
+[![藍](/ai.png =300x)](/ja/ai)
 
 # Misskeyとは
 
