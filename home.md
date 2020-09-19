@@ -1,8 +1,8 @@
 ---
-title: Home
+title: ホーム
 description: 
 published: true
-date: 2020-09-19T17:42:46.817Z
+date: 2020-09-19T17:44:06.806Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T16:49:55.936Z
