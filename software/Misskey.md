@@ -2,7 +2,7 @@
 title: Misskey
 description: 
 published: true
-date: 2020-09-19T17:40:54.583Z
+date: 2020-09-19T17:43:19.930Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T17:40:11.825Z
@@ -68,8 +68,8 @@ Misskeyは大きなバージョンアップごとにコードネームが変わ�
 
 # 主要なフォーク
 ## nighthikeベース
-- [めいすきー](/meisskey)
-- [twista](/twista)
+- [めいすきー](/ja/software/meisskey)
+- [twista](/ja/software/twista)
 
 ## daybreakベース
 
