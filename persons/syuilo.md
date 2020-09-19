@@ -2,7 +2,7 @@
 title: syuilo
 description: syuiloは、Misskeyの作者である。
 published: true
-date: 2020-09-19T18:09:55.946Z
+date: 2020-09-19T18:17:24.664Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T18:09:55.946Z
@@ -18,7 +18,7 @@ dateCreated: 2020-09-19T18:09:55.946Z
 
 # 主な作品
 - [Misskey](/ja/software/misskey)
-- [Ai](/ja/ai)
+- [Ai](/ja/aichan)
 - [Kiwi](/ja/software/kiwi)
 
 # アカウント
