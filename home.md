@@ -2,7 +2,7 @@
 title: ホーム
 description: 
 published: true
-date: 2020-09-19T17:46:05.625Z
+date: 2020-09-19T17:46:37.198Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T16:49:55.936Z
@@ -19,7 +19,7 @@ dateCreated: 2020-09-19T16:49:55.936Z
 
 ---
 
-[**はじめに**](/ja/first) ･ [**よくある質問**](/ja/help/faq) - Misskeyについての第一歩
+[**はじめに**](/ja/first) ･ [**よくある質問**](/ja/help/FAQ) - Misskeyについての第一歩
 **インスタンス** ･ [joinmisskeyのインスタンスリスト](https://joinmisskey.github.io/ja/wiki/instances/) - インスタンスを探そう
 [機能](/ja/features) - Misskeyの機能についての詳細
 [バージョン履歴](/ja/releases)
