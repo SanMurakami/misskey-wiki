@@ -2,7 +2,7 @@
 title: ホーム
 description: 
 published: true
-date: 2020-09-19T17:44:06.806Z
+date: 2020-09-19T17:46:05.625Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T16:49:55.936Z
@@ -15,11 +15,11 @@ dateCreated: 2020-09-19T16:49:55.936Z
 
 # Misskeyとは
 
-**[Misskey](/ja/misskey)** は、2014年から開発されているオープンソースの分散マイクロブログソフトウェアです。[さらに詳しく](/ja/misskey)
+**[Misskey](/ja/software/misskey)** は、2014年から開発されているオープンソースの分散マイクロブログソフトウェアです。[さらに詳しく](/ja/software/misskey)
 
 ---
 
-[**はじめに**](/ja/first) ･ [**よくある質問**](/ja/faq) - Misskeyについての第一歩
+[**はじめに**](/ja/first) ･ [**よくある質問**](/ja/help/faq) - Misskeyについての第一歩
 **インスタンス** ･ [joinmisskeyのインスタンスリスト](https://joinmisskey.github.io/ja/wiki/instances/) - インスタンスを探そう
 [機能](/ja/features) - Misskeyの機能についての詳細
 [バージョン履歴](/ja/releases)
