@@ -2,7 +2,7 @@
 title: Misskey
 description: 
 published: true
-date: 2020-09-19T17:40:11.825Z
+date: 2020-09-19T17:40:54.583Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T17:40:11.825Z
@@ -52,7 +52,7 @@ Misskeyは大きなバージョンアップごとにコードネームが変わ�
   - ~~[OpenCollective](https://opencollective.com/misskey)~~と[Patreon](https://www.patreon.com/syuilo)のアカウント開設。
   - misskey.wtf開設
     * Knzk.me氏によって開設→現在は閉鎖
-- 2018年7月10日 [joinmisskey](/joinmisskey)がaqzにより開設される。
+- 2018年7月10日 [joinmisskey](/ja/software/joinmisskey)がaqzにより開設される。
 - 2018年8月11日 Hostdonのベータプログラムとして、初のMisskeyホスティングサービスの募集申込みが始まる [記事](https://joinmisskey.github.io/ja/blog/2018/08/12_3_hostdon/)
 - 2018年8月12日 Wiki機能をzawazawaからjoinmisskeyに移管。zawazawaは閉鎖。
 - 2018年8月20日 misskey.xyzが数時間ダウンするものの、村上さんの手により蘇生。 [^4]
