@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2020-09-19T17:38:48.778Z
+date: 2020-09-19T17:40:40.763Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T16:49:55.936Z
@@ -14,7 +14,8 @@ dateCreated: 2020-09-19T16:49:55.936Z
 [![藍](/ai.png)](/ja/ai)
 
 # Misskeyとは
-**[Misskey](/ja/misskey)**は、2014年から開発されているオープンソースの分散マイクロブログソフトウェアです。[さらに詳しく](/ja/misskey)
+
+**[Misskey](/ja/misskey)** は、2014年から開発されているオープンソースの分散マイクロブログソフトウェアです。[さらに詳しく](/ja/misskey)
 
 ---
 
