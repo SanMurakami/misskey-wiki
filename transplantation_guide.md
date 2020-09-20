@@ -2,7 +2,7 @@
 title: Misskey.wiki からの移植ガイド
 description: Misskey.wiki から情報を移植する際の注意点などをまとめています。
 published: true
-date: 2020-09-20T02:41:50.853Z
+date: 2020-09-20T02:44:13.128Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T01:32:29.340Z
@@ -64,7 +64,7 @@ Markdown
 ### 例
 「機能」カテゴリ内の[「ノート」](/ja/function/note)より
 
-投稿のURL
+ページのURL
 ```
 /ja/function/note
 ```
@@ -72,6 +72,10 @@ Markdown
 ```
 /ja_jp/function/note/note_form.png
 ```
+
+ページのURLが`ja`なのにディレクトリが`ja_jp`なのはWiki.jsの仕様でルートには3文字以下のページやディレクトリを作成できないためです。
+
+なので、他の言語のファイルをアップロードする際も`en`なら`en_us`という形にしてください。
 
 
 
