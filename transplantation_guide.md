@@ -2,7 +2,7 @@
 title: Misskey.wiki からの移植ガイド
 description: Misskey.wiki から情報を移植する際の注意点などをまとめています。
 published: true
-date: 2020-09-20T02:22:13.653Z
+date: 2020-09-20T02:41:50.853Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T01:32:29.340Z
@@ -45,3 +45,36 @@ Markdown
 ```md
 [未掲載項目の例](/ja/demo/notfound_demo)
 ```
+
+# 画像ファイル等のアップロード時の注意点
+
+## ファイルパスについて
+
+**rootディレクトリには何も置かないでください**
+ディレクトリは必ず以下のようにしてください
+
+
+#### 言語が関係ない共通ファイル
+`/root/common/[ページのカテゴリ]/[ページタイトル]/[ファイル]`
+
+#### UIのスクリーンショット等、言語の影響を受けるファイル
+`/root/[言語]/[ページのカテゴリ]/[ページタイトル]/[ファイル]`
+
+
+### 例
+「機能」カテゴリ内の[「ノート」](/ja/function/note)より
+
+投稿のURL
+```
+/ja/function/note
+```
+画像ファイルのURL
+```
+/ja_jp/function/note/note_form.png
+```
+
+
+
+## ディレクトリの移動
+Wiki.jsはディレクトリの移動が独特なので気づきにくいですが、画像の赤枠の部分でディレクトリの移動が可能です。
+![directory_guide_1.png](/ja_jp/wiki_guide/directory_guide_1.png)
