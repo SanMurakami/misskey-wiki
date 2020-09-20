@@ -2,7 +2,7 @@
 title: ノート
 description: ノートとは、Misskeyの投稿のこと。
 published: true
-date: 2020-09-20T02:06:32.715Z
+date: 2020-09-20T02:12:13.015Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T02:05:32.032Z
@@ -12,7 +12,7 @@ dateCreated: 2020-09-20T02:05:32.032Z
 
 ノートには以下のような設定がある。
 
-![v12デスクトップの投稿フォーム](/ja/function/note/note_form.png)
+![note_form.png](/ja_jp/function/note/note_form.png)
 デスクトップの投稿フォーム
 
 - ファイルの添付
