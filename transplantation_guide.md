@@ -2,7 +2,7 @@
 title: Misskey.wiki からの移植ガイド
 description: Misskey.wiki から情報を移植する際の注意点などをまとめています。
 published: true
-date: 2020-09-20T01:34:35.959Z
+date: 2020-09-20T01:38:48.906Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T01:32:29.340Z
@@ -28,6 +28,16 @@ dateCreated: 2020-09-20T01:32:29.340Z
 
 
 # 未掲載項目のURL化
-未掲載項目は以下のように赤文字になりクリックすると新規ページを作成できる様になるので、掲載できそうな項目はなるべくすべてにリンクを貼っていってください。
+未掲載項目は赤文字になりクリックすると新規ページを作成できる様になるので、掲載できそうな項目はなるべくすべてにリンクを貼っていってください。
 
-![transplantation_guide_3.png](/wiki_guide/transplantation_guide_3.png)
+例えば`ヘルプ`カテゴリ内の`よくある質問`を未掲載リンクとして記述する場合は以下の通りになります。
+
+ページパス
+```
+/ja/help/faq
+```
+
+Markdown
+```md
+[よくある質問](/ja/help/faq)
+```
