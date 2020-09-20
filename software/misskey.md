@@ -2,7 +2,7 @@
 title: Misskey
 description: 
 published: true
-date: 2020-09-19T17:47:53.881Z
+date: 2020-09-20T01:16:23.981Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T17:40:11.825Z
@@ -49,7 +49,7 @@ Misskeyは大きなバージョンアップごとにコードネームが変わ�
   - CloudFlareのCDNが未知の理由で破壊され、misskey.xyzがダウン。翌日、CloudFlareを外して復活
 - 2018年4月 このころ、i18nなどの多言語化や、インスタンスの立て方などのユーザーコンテンツが整備され始める。
 - 2018年4月15日
-  - ~~[OpenCollective](https://opencollective.com/misskey)~~と[Patreon](https://www.patreon.com/syuilo)のアカウント開設。
+  - ~~[OpenCollective](https://opencollective.com/misskey)~~ と[Patreon](https://www.patreon.com/syuilo)のアカウント開設。
   - misskey.wtf開設
     * Knzk.me氏によって開設→現在は閉鎖
 - 2018年7月10日 [joinmisskey](/ja/software/joinmisskey)がaqzにより開設される。
