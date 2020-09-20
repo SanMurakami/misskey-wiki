@@ -2,7 +2,7 @@
 title: Misskey.wiki からの移植ガイド
 description: Misskey.wiki から情報を移植する際の注意点などをまとめています。
 published: true
-date: 2020-09-20T01:50:43.962Z
+date: 2020-09-20T01:51:56.426Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T01:32:29.340Z
@@ -33,15 +33,15 @@ dateCreated: 2020-09-20T01:32:29.340Z
 例えば`ヘルプ`カテゴリ内の`よくある質問`を未掲載リンクとして記述する場合は以下の通りになります。
 
 未掲載項目のリンクは以下のようになります
-※以下のページはデモ用ですので、実際には作成しないでください
-[未掲載項目の例](/ja/notfound_demo)
+<small>※以下のページはデモ用ですので、実際には作成しないでください</small>
+[未掲載項目の例](/ja/demo/notfound_demo)
 
 ページパス
 ```
-/ja/help/faq
+/ja/demo/notfound_demo
 ```
 
 Markdown
 ```md
-[よくある質問](/ja/help/faq)
+[未掲載項目の例](/ja/demo/notfound_demo)
 ```
