@@ -2,7 +2,7 @@
 title: ノート
 description: ノートとは、Misskeyの投稿のこと。
 published: true
-date: 2020-09-20T08:03:14.520Z
+date: 2020-09-20T08:07:38.668Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T02:05:32.032Z
