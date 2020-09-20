@@ -2,7 +2,7 @@
 title: Misskey.wiki からの移植ガイド
 description: Misskey.wiki から情報を移植する際の注意点などをまとめています。
 published: true
-date: 2020-09-20T01:51:56.426Z
+date: 2020-09-20T02:22:13.653Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T01:32:29.340Z
@@ -21,10 +21,10 @@ dateCreated: 2020-09-20T01:32:29.340Z
 
 ## 移植例
 ### 移植元
-![transplantation_guide_1.png](/wiki_guide/transplantation_guide_1.png)
+![transplantation_guide_1.png](/ja_jp/wiki_guide/transplantation_guide_1.png)
 
 ### 移植先
-![transplantation_guide_2.png](/wiki_guide/transplantation_guide_2.png)
+![transplantation_guide_2.png](/ja_jp/wiki_guide/transplantation_guide_2.png)
 
 
 # 未掲載項目のURL化
