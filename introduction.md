@@ -2,7 +2,7 @@
 title: はじめに
 description: Misskeyを利用する上で最低限知っておきたいこと。
 published: true
-date: 2020-09-20T01:57:44.176Z
+date: 2020-09-20T02:52:31.059Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T01:57:44.176Z
