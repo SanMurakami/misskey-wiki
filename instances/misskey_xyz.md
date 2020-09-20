@@ -1,8 +1,8 @@
 ---
 title: misskey.xyz
-description: 
+description: misskey.xyzは、Misskeyの旧公式インスタンス。現在はその役割をmisskey.ioに譲り閉鎖されている。
 published: true
-date: 2020-09-20T07:57:05.247Z
+date: 2020-09-20T07:57:40.447Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T07:57:05.247Z
