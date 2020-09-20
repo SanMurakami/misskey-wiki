@@ -2,7 +2,7 @@
 title: Introduction
 description: Some basic concepts in Misskey
 published: true
-date: 2020-09-20T11:52:10.886Z
+date: 2020-09-20T11:56:37.489Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T11:52:10.886Z
