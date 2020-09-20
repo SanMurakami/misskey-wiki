@@ -1,8 +1,8 @@
 ---
 title: misskey.io
-description: 
+description: misskey.ioは、Misskeyの公式インスタンス。syuiloが運営し村上さんがサーバー資源を提供する。
 published: true
-date: 2020-09-20T07:50:52.749Z
+date: 2020-09-20T07:51:38.419Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T07:50:52.749Z
