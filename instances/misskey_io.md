@@ -2,7 +2,7 @@
 title: misskey.io
 description: misskey.ioは、Misskeyの公式インスタンス。syuiloが運営し村上さんがサーバー資源を提供する。
 published: true
-date: 2020-09-20T08:34:32.653Z
+date: 2020-09-20T09:02:35.823Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T07:50:52.749Z
@@ -21,6 +21,7 @@ misskey.ioを頻繁に利用し、このWikiに記事があるユーザーの一
 
 - [syuilo](/persons/syuilo)
 - [村上さん](/persons/aureoleark)
+- [ゆずりょー](/persons/yuzuryo61)
 - [aqz](/persons/aqz)
 
 # 関連項目
