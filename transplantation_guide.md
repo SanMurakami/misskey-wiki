@@ -2,7 +2,7 @@
 title: Misskey.wiki からの移植ガイド
 description: Misskey.wiki から情報を移植する際の注意点などをまとめています。
 published: true
-date: 2020-09-20T02:44:13.128Z
+date: 2020-09-20T02:49:58.995Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T01:32:29.340Z
@@ -82,3 +82,9 @@ Markdown
 ## ディレクトリの移動
 Wiki.jsはディレクトリの移動が独特なので気づきにくいですが、画像の赤枠の部分でディレクトリの移動が可能です。
 ![directory_guide_1.png](/ja_jp/wiki_guide/directory_guide_1.png)
+
+
+## 一度作ったフォルダは消せません
+Wiki.jsは現在開発中のためまだフォルダの管理は未実装で、現状では間違って作成したフォルダはデータベースからしか消せないため、フォルダを作る際は十分気をつけてください。
+
+もし間違ったフォルダを作ってしまった場合は [@AureoleArk@misskey.io](https://misskey.io/@AureoleArk) までご連絡ください。
