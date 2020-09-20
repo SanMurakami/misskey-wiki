@@ -2,7 +2,7 @@
 title: ゆずりょー
 description: Misskey.pyの開発者＆Yuzulia-MisSocialの管理者
 published: true
-date: 2020-09-20T08:38:58.251Z
+date: 2020-09-20T08:40:30.367Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T08:38:58.251Z
@@ -16,8 +16,11 @@ dateCreated: 2020-09-20T08:38:58.251Z
 # 概要
 
 2017年12月にTwitterをやめることになり、元Mastodonユーザー。
+
 後に、2018年ごろにMastodon経由でMisskeyという存在を知る。
+
 Misskey.pyの開発に着手したことにより、Misskey本家インスタンス(misskey.xyz)の浮上瀕率が上昇。
+
 2020年8月下旬から諸事情によりMisskeyに亡命。
 
 # 関係のあるインスタンス
