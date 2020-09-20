@@ -2,14 +2,14 @@
 title: syuilo
 description: syuiloは、Misskeyの作者である。
 published: true
-date: 2020-09-19T18:17:24.664Z
+date: 2020-09-20T05:10:45.943Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T18:09:55.946Z
 ---
 
 **syuilo**または**しゅいろ**は、[Misskey](/ja/software/misskey)の開発者で、Ownerつまり作者でありプロジェクトリーダーにあたる人物である。Twitterのフォロワー数は15000を超えている（2019年6月4日現在）。  
-1997年12月06日生まれで、現在は無職。C#ライブラリMisqの作者。
+1997年12月06日生まれで、現在は[Repro](https://repro.io/)社員。C#ライブラリMisqの作者。
 
 # 概要
 17歳の若さでMisskeyを開発したデベロッパーである。Web技術に長けている上、DTMの作成を行え、作成した音楽をSoundCloudやMisskey上で発表している。
