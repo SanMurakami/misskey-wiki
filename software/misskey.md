@@ -2,7 +2,7 @@
 title: Misskey
 description: 
 published: true
-date: 2020-09-20T01:16:23.981Z
+date: 2020-09-20T07:58:33.606Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T17:40:11.825Z
@@ -27,7 +27,7 @@ Misskeyは大きなバージョンアップごとにコードネームが変わ�
 - 2014年8月 本格的に運用が始まる
 - 2014年9月 しゅいろのミスでデータ全消滅
 - 2014年9月上旬 DDOS攻撃を受ける
-- 2015年2月 [misskey.xyz](/ja/instances/misskey-xyz)死亡
+- 2015年2月 [misskey.xyz](/ja/instances/misskey_xyz)死亡
 - 2015年2月 misskey.xyz復活
 - 2015年3月 misskey.xyz死亡
 - 2015年4月 misskey.xyz復活（データ全消滅）
