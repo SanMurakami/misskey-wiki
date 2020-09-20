@@ -2,7 +2,7 @@
 title: 公開範囲
 description: 公開範囲とは、ノートを公開する範囲の設定である。
 published: true
-date: 2020-09-20T02:55:34.920Z
+date: 2020-09-20T02:57:46.235Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T02:55:34.920Z
@@ -12,7 +12,7 @@ dateCreated: 2020-09-20T02:55:34.920Z
 
 # 公開範囲の一覧
 ## 公開
-[ローカルタイムライン](/ja/function/tl#%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB)や[グローバルタイムライン](/tl#%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB)にノートが表示される。
+[ローカルタイムライン](/ja/function/tl#ローカル)や[グローバルタイムライン](/ja/function/tl#グローバル)にノートが表示される。
 
 [モデレーター](/ja/function/moderator)によってアカウントが[サイレンス](/ja/function/silence)にされている場合、公開範囲が公開の投稿は強制的に公開範囲がホームになる。
 
