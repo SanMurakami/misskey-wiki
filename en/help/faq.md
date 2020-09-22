@@ -2,7 +2,7 @@
 title: FAQ
 description: Frequently Asked Questions
 published: true
-date: 2020-09-20T05:04:12.109Z
+date: 2020-09-22T12:42:57.593Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T05:04:12.109Z
@@ -29,7 +29,7 @@ Misskey Web makes use of a lot of animations. It is a known issue that it freeze
 
 # Is Misskey an Mastodon instance?
 
-No. It is not Mastodon covered with new designs, either. Misskey does not have to do anything with Mastodon except that these instances can be connected over ActivityPub.
+No. It is not Mastodon with new appearances, either. Misskey does not have to do anything with Mastodon except that these instances can be connected over ActivityPub.
 
 # Can Misskey cooperate with Mastodon?
 
@@ -49,7 +49,7 @@ Use [Misskey Flavored Markdown (MFM)](/en/mfm).
 
 # Some users have "nekomimi (cat ears)" on their icons. What is "Cat"?
 
-"Cat" is one of Misskey's mysterious feature. "Cat" users have cat ears on their icons, and 「な」(na) in notes are replaced with 「にゃ」(nya).
+"Cat" is one of Misskey's mysterious features. "Cat" users have cat ears on their icons, and 「な」(na) in notes are replaced with 「にゃ」(nya).
 
 You can enable "Cat" in Settings. Remote users will see you as a "Cat" too. 
 
