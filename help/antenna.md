@@ -1,8 +1,8 @@
 ---
-title: アンテナ
+title: アンテナ（検索タイムライン）
 description: 
 published: true
-date: 2020-11-19T08:21:53.766Z
+date: 2020-11-19T08:25:41.643Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-19T08:19:26.946Z
