@@ -2,7 +2,7 @@
 title: よくある質問
 description: 
 published: true
-date: 2020-09-19T17:48:34.142Z
+date: 2020-11-19T06:53:04.944Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T17:30:57.943Z
@@ -36,11 +36,6 @@ MisskeyからMastodonのユーザーをフォローできるし、逆にMastodon
 
 MisskeyやMastodonは、別のソフトウェアの他のインスタンスのユーザーとも、同じサービスであるかのように交流できる。
 
-# 自分に関係のない通知が届く
-「投稿の自動ウォッチ」機能が有効になっているかもしれない。  
-不要であれば、`設定` > `通知` から`投稿の自動ウォッチ`をオフにしよう。
-**[→ 機能: 投稿のウォッチ機能](/ja/function/watch)**
-
 # 文字装飾、検索窓や文字のアニメーションはどうやるのか？
 Misskey独自の構文「Misskey Flavored Markdown (MFM)」を使うことで表現できる。  
 **[→ 機能: Misskey Flavored Markdown)](/ja/function/mfm)**
@@ -52,20 +47,23 @@ Misskey独自の構文「Misskey Flavored Markdown (MFM)」を使うことで表
 Catは設定画面から設定できる。  
 なお、リモートにも反映される。
 
-# 「検索機能はインスタンスの設定で無効になっています。」
-検索機能は、インスタンス管理者がサーバーにElasticSearchをインストールし、Misskeyに接続しないと利用できない。
-
 # 不具合を見つけた。こんな機能がほしい。
-[@aqz@misskey.io](/ja/persons/aqz)か[@syuilo@misskey.io](/ja/persons/syuilo)にリプライを送ってほしい。
+**Misskey.io**に登録している場合は、[Misskey Feedback Channel](https://misskey.io/channels/8b79iuz1af)を利用することができる。
 
 **GitHub**を使ったことがある方は*その内容のIssueが立っていないか確認してから*[Issue](https://github.com/syuilo/misskey/issues/new/choose)で報告をお願いしたい。  
 Pull Requestももちろん歓迎している。
 
+上記のどちらも難しい場合は[@syuilo@misskey.io](https://misskey.io/@syuilo)へリプライを送ることも可能。
+
 # Misskeyに寄付したい。
-ほしいものリストやPatreonのリンクなどがあるので[**joinmisskey（トップページの一番最後のセクション）**](https://joinmisskey.github.io/ja/#section_7)を参照されたい。
+ほしいものリストやPatreonのリンクなどがあるので[**joinmisskey（トップページの一番最後のセクション）**](https://join.misskey.page/ja/#section_7)を参照されたい。
 
 # パスワードを忘れた
-メールで連絡するか新しいアカウントを作成するなどして、インスタンスの管理者（admin）に相談してほしい。インスタンスの管理者がそのアカウントがあなたのものであると確認できたら、管理者はパスワードを初期化して新しいパスワードをあなたに伝える。こうして新しいパスワードでログインできるようになる。念のため設定画面からパスワードを変更しておくとよいだろう。
+メールで連絡するか新しいアカウントを作成するなどして、インスタンスの管理者（admin）に相談してほしい。
+
+インスタンスの管理者がそのアカウントがあなたのものであると確認できたら、管理者はパスワードを初期化して新しいパスワードをあなたに伝える。
+
+こうして新しいパスワードでログインできるようになる。念のため設定画面からパスワードを変更しておくとよいだろう。
 
 # ログアウトできない
-ブラウザのクッキーを削除してみてほしい。
+ブラウザのローカルストレージを削除してみてほしい。
