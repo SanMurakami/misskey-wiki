@@ -2,7 +2,7 @@
 title: インスタンス情報
 description: InstanceTicker 的なもの
 published: true
-date: 2020-11-19T11:14:43.345Z
+date: 2020-11-19T11:21:44.721Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-19T10:30:41.443Z
@@ -10,7 +10,7 @@ dateCreated: 2020-11-19T10:30:41.443Z
 
 # インスタンス情報とは
 
-「**インスタンス情報**」とは、**Misskey** および **めいすきー** において、所属インスタンスを投稿者名の下に表示される機能のこと。
+「**インスタンス情報**」とは、**[Misskey](/ja/software/misskey)** および **[めいすきー](/ja/software/meisskey)** において、所属インスタンスを投稿者名の下に表示される機能のこと。
 
 Misskey では [v12.51.0](https://github.com/syuilo/misskey/releases/tag/12.51.0) (2020/10/27) に搭載された。 
 
@@ -26,9 +26,9 @@ Misskey では [v12.51.0](https://github.com/syuilo/misskey/releases/tag/12.51.0
 
 元ネタの #InstanceTicker と区別され、Misskey では「インスタンス情報」と言う名称である。
 
-「インスタンス情報」という名称と機能搭載は、Misskey フォークの「めいすきー」が先行し [10.102.293-m544](https://github.com/mei23/misskey/releases/tag/10.102.293-m544) (2020/07/30) に搭載しており、その事情を[syuilo](/ja/persons/syuilo)氏は把握しないまま、Misskey に同名称で搭載したのは、「[偶然](https://misskey.io/notes/8e8hbfqim7)」であるとしている。
+「インスタンス情報」という名称と機能搭載は、[めいすきー](/ja/software/meisskey) が先行し [10.102.293-m544](https://github.com/mei23/misskey/releases/tag/10.102.293-m544) (2020/07/30) に搭載しており、その事情を[syuilo](/ja/persons/syuilo)氏は把握しないまま、[Misskey](/ja/software/misskey) に同名称で搭載したのは、「[偶然](https://misskey.io/notes/8e8hbfqim7)」であるとしている。
 
-そういった経緯から、Misskey と めいすきー では、「インスタンス情報」という名称は共通であっても、仕様は共通ではないという事情を抱えている。
+そういった経緯から、[Misskey](/ja/software/misskey) と [めいすきー](/ja/software/meisskey) では、「インスタンス情報」という名称は共通であっても、仕様は共通ではないという事情を抱えている。
 
 # 有効にするには
 
