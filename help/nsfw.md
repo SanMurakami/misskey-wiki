@@ -1,8 +1,8 @@
 ---
-title: 閲覧注意
+title: 閲覧注意（NSFW）
 description: 閲覧注意とは、ドライブのファイルに付けるフラグである。
 published: true
-date: 2020-09-20T08:03:31.287Z
+date: 2020-11-19T08:30:27.921Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T08:02:53.535Z
