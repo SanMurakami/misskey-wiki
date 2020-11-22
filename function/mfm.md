@@ -2,7 +2,7 @@
 title: Misskey Flavored Markdown
 description: Misskeyで使えるMarkdown風の構文
 published: true
-date: 2020-11-22T19:55:23.245Z
+date: 2020-11-22T20:11:10.806Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T08:21:41.404Z
@@ -62,7 +62,7 @@ MFMといえばこれを連想する者が多い。テキストを特定の記�
 ```
 　
 ### 小さい字
-テキストを`<small>`と`</small>`で囲うと内容を <small>小さく</small> 表示させることができる。
+テキストを`<small>`と`</small>`で囲うと文字を <small>小さく</small> 表示させることができる。
 > へ、編集してくれたって別にあんたのコトなんて何とも思ってないんだからね！
 <small>･･････でもほんのちょっとだけ嬉しい、かも･･･</small>
 ```
@@ -133,7 +133,10 @@ https://misskey.io/mfm-cheat-sheet
 ```
 :ai_icon:
 ```
-　
+> カスタム絵文字はメンションやハッシュタグのように、コロン`:`を打ち込んだ瞬間、候補リストが出現し、文字を入力するにつれだんだんと候補が絞り込まれていく仕組みだ！もちろん、お目当ての絵文字がリスト内に表示されたらそれを選ぶと入力を確定できるから大変便利だ。すごいぞMisskey！
+{.is-info}
+
+![ss_customemoji_list.png](/ja_jp/mfm/ss_customemoji_list.png)
 
 　
 ### インラインコード
@@ -148,7 +151,9 @@ https://misskey.io/mfm-cheat-sheet
 
 ``````
 ```
-
+なんか創作的かつ
+Misskeyに関係のある
+面白いコード
 ```
 ``````
 
