@@ -2,7 +2,7 @@
 title: Misskey Flavored Markdown
 description: Misskeyで使えるMarkdown風の構文
 published: true
-date: 2020-11-22T09:57:59.490Z
+date: 2020-11-22T10:26:26.292Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T08:21:41.404Z
@@ -25,24 +25,25 @@ Misskeyサーバ同士であれば他のサーバでも表示されるが、Acti
 - インスタンスのお知らせ
 
 # 基本的なMFMの書き方
-MFMを使う
+MFMはメンションやハッシュタグといったMisskeyの基本的な機能にも使われている。
 ### メンション
 アットマーク`@` + ユーザー名で、特定のユーザーにメンションを送ることができる。
 ![mention.png](/ja_jp/mfm/mention.png)
 ```
 @ai
 ```
-> アットマーク`@`の後に文字を入力すると、その文字から始まるユーザーのリストが出現する。 このリストは名前を入力していくにつれて絞り込まれていくので、探しているユーザーがリスト内に見つかったら、矢印キーやTabを使って選択し、`Enter`キーで入力を完了することができる。
-{.is-info}
 
-![ss_mention_selection.png](/ja_jp/mfm/ss_mention_selection.png)
-　
 ### ハッシュタグ
-ナンバーサイン + タグ名で、ハッシュタグを付けることができる。
+ナンバーサイン`#` + タグ名で、ハッシュタグを付けることができる。
 ![ss_hashtag.png](/ja_jp/mfm/ss_hashtag.png)
 ```
 #Misskey自己紹介部
 ```
+
+> アットマーク`@`やナンバーサイン`#`の後に文字を入力するとリストが出現する。 このリストは文字を入力していくにつれて絞り込まれていくので、探しているユーザーやハッシュタグがリスト内に見つかったら、矢印キーやTabを使って選択し、`Enter`キーで入力を完了することができる。
+{.is-info}
+
+{.align-center}![ss_mention_selection.png](/ja_jp/mfm/ss_mention_selection.png)![ss_hashtag2.png](/ja_jp/mfm/ss_hashtag2.png)
 　
 ### テキストの引用
 行頭に`> `を付けると内容が引用であることを示すことができる。
