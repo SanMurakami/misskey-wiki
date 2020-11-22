@@ -2,7 +2,7 @@
 title: Misskey Flavored Markdown
 description: Misskeyで使えるMarkdown風の構文
 published: true
-date: 2020-11-22T21:27:19.740Z
+date: 2020-11-22T22:06:48.962Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T08:21:41.404Z
@@ -105,13 +105,20 @@ MFMといえばこれを連想する者が多い。テキストを特定の記�
 #### 上下反転
 テキストを`[flip.v ` と`]`で囲うことによって上下反転表示させることができる。
 ちなみにこの`.v`は "vertical(ly)"（垂直方向に）の略字である。
+![ss_flip_v.png](/ja_jp/mfm/ss_flip_v.png)
 ```
-
+水面を　反射するのが　ヴァーティカル。
+[flip.v 水面を　反射するのが　ヴァーティカル。]
 ```
 #### 上下左右反転（180度回転）
-
+テキストを`[flip.h,v ` と`]`で囲うことによって上下左右反転表示（180度回転）させることができる。
+![ss_fliphv.png](/ja_jp/mfm/ss_fliphv.png)
 ```
-
+かの有名なラパ・ヌイの
+[flip.h,v 未解読古代文字「ロンゴ]
+ロンゴ」はなんと逆牛耕
+[flip.h,v 式（リバース・ブストロ]
+フェドン）で書かれている。
 ```
 > もし`[flip`の後に続く`.h`や`.v`を省略した場合は自動的に左右反転（`.h`）扱いとなる。
 {.is-info}
