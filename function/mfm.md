@@ -2,7 +2,7 @@
 title: Misskey Flavored Markdown
 description: Misskeyで使えるMarkdown風の構文
 published: true
-date: 2020-11-22T10:26:26.292Z
+date: 2020-11-22T10:44:24.845Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T08:21:41.404Z
@@ -39,11 +39,15 @@ MFMはメンションやハッシュタグといったMisskeyの基本的な機�
 ```
 #Misskey自己紹介部
 ```
+　
+　
+ ---
+　
 
 > アットマーク`@`やナンバーサイン`#`の後に文字を入力するとリストが出現する。 このリストは文字を入力していくにつれて絞り込まれていくので、探しているユーザーやハッシュタグがリスト内に見つかったら、矢印キーやTabを使って選択し、`Enter`キーで入力を完了することができる。
 {.is-info}
 
-{.align-center}![ss_mention_selection.png](/ja_jp/mfm/ss_mention_selection.png)![ss_hashtag2.png](/ja_jp/mfm/ss_hashtag2.png)
+![ss_hashtag2.png](/ja_jp/mfm/ss_hashtag2.png)
 　
 ### テキストの引用
 行頭に`> `を付けると内容が引用であることを示すことができる。
