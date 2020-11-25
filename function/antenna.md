@@ -2,14 +2,13 @@
 title: アンテナ（検索タイムライン）
 description: 
 published: true
-date: 2020-11-25T16:18:05.175Z
+date: 2020-11-25T16:47:41.894Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-19T08:19:26.946Z
 ---
 
-# アンテナについて
-アンテナとは登録したキーワードを含む[ノート](/ja/function/note)投稿の通知、または一覧表示を行うmisskeyの機能である。
+アンテナとは、登録したキーワードを含む[ノート](/ja/function/note)投稿の通知、または一覧表示を行うmisskeyの機能である。
 
 # アンテナの登録
 アンテナの登録は`もっと！>アンテナ>追加`から行うことができる。  
