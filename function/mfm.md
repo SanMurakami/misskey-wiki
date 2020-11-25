@@ -2,7 +2,7 @@
 title: Misskey Flavored Markdown
 description: Misskeyで使えるMarkdown風の構文
 published: true
-date: 2020-11-25T23:35:05.367Z
+date: 2020-11-25T23:37:12.952Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T08:21:41.404Z
@@ -82,7 +82,7 @@ MFMといえばこれを連想する者が多い。テキストを特定の記�
 <center>　ハ　ム　ス　タ　ー　</center>
 ```
 
-### 文字反転
+## 文字反転
 テキストを反転させることができる。角括弧とコマンドを使用するMisskey.v12の新機能らしい。
 #### 左右反転
 テキストを`[flip.h ` と`]`で囲うことによって左右反転表示させることができる。
