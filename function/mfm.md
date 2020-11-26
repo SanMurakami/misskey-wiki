@@ -2,7 +2,7 @@
 title: Misskey Flavored Markdown
 description: Misskeyで使えるMarkdown風の構文
 published: true
-date: 2020-11-26T01:22:13.062Z
+date: 2020-11-26T01:22:57.664Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T08:21:41.404Z
@@ -329,7 +329,7 @@ Y軸（モニターからみて縦軸）を起点に回転を行います。
 > もし`[spin`の後に続く軸指定子を省略した場合は自動的にZ軸回転（`.z`）扱いとなる。また、`,`の後に続く回転方向指定子を省略した場合は自動的に右回転（`right`）扱いとなる。
 {.is-info}
 ```
-　[spin.z 🍮] = [spin.z,right 🍮]
+ㅤ　[spin.z 🍮] = [spin.z,right 🍮]
 　[spin.right 🍮] = [spin.z,right 🍮]
 ∴[spin 🍮] = [spin.z,right 🍮]
 ```
