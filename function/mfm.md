@@ -2,7 +2,7 @@
 title: Misskey Flavored Markdown
 description: Misskeyで使えるMarkdown風の構文
 published: true
-date: 2020-11-26T03:34:16.949Z
+date: 2020-11-26T03:38:29.459Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T08:21:41.404Z
@@ -359,7 +359,7 @@ Y軸（モニターからみて縦軸）を起点に回転を行います。
 - https://misskey.io/mfm-cheat-sheet
 Misskey.io公式のチートシート。最新のMFMが実例ともに記載されている。
 - https://yuzulia.xyz/@aqz/pages/mfm 
-[Yuzulia-MisSocial](instances/yuzulia_xyz)の@aqz氏によって書かれたMFM一覧表。かなり昔からある一覧表であり、また [ページ](/function/page)で書かれているのでソースを簡単に見ることができる。
+[Yuzulia-MisSocial](/ja/instances/yuzulia_xyz)の@aqz氏によって書かれたMFM一覧表。かなり昔からある一覧表であり、また [ページ](/function/page)で書かれているのでソースを簡単に見ることができる。
 - https://katex.org/docs/support_table.html
 アルファベット順にソートされたTeX関数の一覧。
 - https://katex.org/docs/supported.html
