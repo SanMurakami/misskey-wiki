@@ -2,27 +2,24 @@
 title: Misskey Flavored Markdown
 description: Misskeyで使えるMarkdown風の構文
 published: true
-date: 2020-11-26T02:40:16.000Z
+date: 2020-11-26T03:29:40.927Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T08:21:41.404Z
 ---
 
-**Misskey Flavored Markdown**または**MFM**とは、Misskey内の様々な場所で使用できる文字装飾。
+**Misskey Flavored Markdown**または**MFM**とは、Misskey内の様々な場所で使用できる専用のマークアップ言語だ。ここでは、MFMで使用可能な構文一覧が確認できる。
 
-Misskeyサーバ同士であれば他のサーバでも表示されるが、ActivityPub対応の他のSNSサービスでは装飾が全て表示されることは保証されない。
-
-- MFMが適用される部分
-
+# MFMが適用される部分
 - [ノート](/function/note)
 > ノートメニューで`内容をコピー`すると元のテキストがクリップボードにコピーされるため、メモ帳等にペーストすることでどのようなMFMが使われているかが確認できる。
 {.is-info}
-
+- [プロフィールの自己紹介](/function/user_profile)
 - [トーク](/function/messaging)のメッセージ
 - [ページ](/function/page)
-- [プロフィールの自己紹介](/function/user_profile)
-- インスタンスの説明文
-- インスタンスのお知らせ
+- [インスタンス](/instances)の説明文やお知らせなど
+> なお、MFMはMisskeyサーバ同士であれば他のサーバでも表示されるが、ActivityPub対応の他のSNSサービスで装飾等が全て表示されることは保証されない。
+{.is-warning}
 
 # 基本的なMFM
 実はこのMFM、メンションやハッシュタグといったMisskeyの身近なところでも使われている。
@@ -53,6 +50,13 @@ MFMといえばこれを連想する者が多い。テキストを特定の記�
 ![ss_bold.png](/ja_jp/mfm/ss_bold.png)
 ```
 今のはメラゾーマではない、**メラ**だ…
+```
+　
+### 斜体
+テキストを`<i>`と`</i>`で囲むと、文字を *斜体* にすることができる。
+
+```
+
 ```
 　
 ### 削除線
@@ -352,7 +356,15 @@ Y軸（モニターからみて縦軸）を起点に回転を行います。
 
 
 # 外部リンク
-- https://yuzulia.xyz/@aqz/pages/mfm - MFM一覧。
+- https://misskey.io/mfm-cheat-sheet
+Misskey.io公式のチートシート。最新のMFMが実例ともに記載されている。
+- https://yuzulia.xyz/@aqz/pages/mfm 
+[Yuzulia-MisSocial](instances/yuzulia_xyz)の@aqz氏によって書かれたMFM一覧表。かなり昔からある一覧表であり、また [ページ](/function/page)で書かれているのでソースを簡単に見ることができる。
+- https://katex.org/docs/support_table.html
+アルファベット順にソートされたTeX関数の一覧。
+- https://katex.org/docs/supported.html
+ロジカルグループにソートされたTeX関数の一覧表集。
+
 
 
 
