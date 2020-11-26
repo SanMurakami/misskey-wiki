@@ -2,7 +2,7 @@
 title: Misskey Flavored Markdown
 description: Misskeyで使えるMarkdown風の構文
 published: true
-date: 2020-11-26T04:01:39.186Z
+date: 2020-11-26T04:20:18.631Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T08:21:41.404Z
@@ -200,12 +200,15 @@ https://misskey.io/mfm-cheat-sheet
 　
 ## ブロックコード
 複数行のコード等をシンタックスハイライトしたい場合、三連グレイヴアクセント` ``` `と` ``` `で囲むとコードブロックを作成することができる。どうやら[Prism.js](https://prismjs.com/)を使用しているらしく<small>[要検証]</small> 、もしそうであればなんと**236言語**のシンタックスハイライティングに対応していることとなる。ヤバいぞMisskey！
-
+![ss_blockcode.png](/ja_jp/mfm/ss_blockcode.png)
 ``````
 ```
-なんか創作的かつ
-Misskeyに関係のある
-面白いコード
+~ (#i, 100) {
+	<: ? ((i % 15) = 0) "FizzBuzz"
+		.? ((i % 3) = 0) "Fizz"
+		.? ((i % 5) = 0) "Buzz"
+		. i
+}
 ```
 ``````
 
