@@ -2,7 +2,7 @@
 title: Misskey Flavored Markdown
 description: Misskeyで使えるMarkdown風の構文
 published: true
-date: 2020-11-26T00:13:46.377Z
+date: 2020-11-26T00:21:51.020Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T08:21:41.404Z
@@ -127,7 +127,8 @@ MFMといえばこれを連想する者が多い。テキストを特定の記�
 ```
 [flip 救急車(AMBULANCE) ]
 ```
-### テキストの引用
+
+## テキストの引用
 行頭に`> `を付けると内容が引用であることを示すことができる。
 ![ss_quote.png](/ja_jp/mfm/ss_quote.png)
 ```
@@ -141,8 +142,6 @@ MFMといえばこれを連想する者が多い。テキストを特定の記�
 > ↑言ってない
 たまたまそういうとこが描かれてないだけで普通に言ってるんだよなぁ
 ```
-
-
 
 # 高度なMFM
 高度と言っても内部処理が高度なだけで、構文自体は非常に書きやすい親切設計となっている。
