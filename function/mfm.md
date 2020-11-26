@@ -2,13 +2,13 @@
 title: Misskey Flavored Markdown
 description: Misskeyで使えるMarkdown風の構文
 published: true
-date: 2020-11-26T03:38:29.459Z
+date: 2020-11-26T03:40:31.948Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T08:21:41.404Z
 ---
 
-**Misskey Flavored Markdown**または**MFM**とは、Misskey内の様々な場所で使用できる専用のマークアップ言語だ。ここでは、MFMで使用可能な構文一覧が確認できる。
+**Misskey Flavored Markdown**または**MFM**とは、Misskey内の様々な場所で使用できる専用のマークアップ言語だ。ここでは、Misskeyで使用可能なMFM構文の一覧が確認できる。
 
 # MFMが適用される部分
 - [ノート](/function/note)
@@ -18,7 +18,7 @@ dateCreated: 2020-09-20T08:21:41.404Z
 - [トーク](/function/messaging)のメッセージ
 - [ページ](/function/page)
 - [インスタンス](/instances)の説明文やお知らせなど
-> なお、MFMはMisskeyサーバ同士であれば他のサーバでも表示されるが、ActivityPub対応の他のSNSサービスで装飾等が全て表示されることは保証されない。
+> MFMはMisskeyサーバ同士であれば他のサーバでも表示されるが、ActivityPub対応の他のSNSサービスで装飾等が全て表示されるとは限らない。
 {.is-warning}
 
 # 基本的なMFM
