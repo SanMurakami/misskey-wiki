@@ -2,7 +2,7 @@
 title: Misskey Flavored Markdown
 description: Misskeyで使えるMarkdown風の構文
 published: true
-date: 2020-11-26T01:22:57.664Z
+date: 2020-11-26T01:56:58.201Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T08:21:41.404Z
@@ -286,24 +286,24 @@ MFM最大の特徴と言っても過言ではないのがこのアニメーシ�
 Z軸（モニターからみて中心の点）を起点に回転を行います。
 #### Z軸右回転（時計回り）
 ```
-[spin.z,right 🍮]
+[spin.z,right 🕒🕕🕘]
 ```
 #### Z軸左回転（反時計回り）
 ```
-[spin.z,left 🍮]
+[spin.z,left 🌏🌀🌍]
 ```
 #### Z軸交互回転
 ```
-[spin.z,alternate 🍮]
+[spin.z,alternate 📀⚙💿]
 ```
 
 ### X軸回転
 X軸（モニターからみて横軸）を起点に回転を行います。
-#### X軸右回転（時計回り）
+#### X軸右回転
 ```
 [spin.x,right 🍮]
 ```
-#### X軸左回転（反時計回り）
+#### X軸左回転
 ```
 [spin.x,left 🍮]
 ```
@@ -314,18 +314,19 @@ X軸（モニターからみて横軸）を起点に回転を行います。
 
 ### Y軸回転
 Y軸（モニターからみて縦軸）を起点に回転を行います。
-#### Y軸右回転（時計回り）
+#### Y軸右回転
 ```
 [spin.y,right 🍮]
 ```
-#### Y軸左回転（反時計回り）
+#### Y軸左回転
 ```
 [spin.y,left 🍮]
 ```
 #### Y軸交互回転
 ```
-[spin.y,alternate 🍮]
+[spin.y,alternate ]
 ```
+ ---
 > もし`[spin`の後に続く軸指定子を省略した場合は自動的にZ軸回転（`.z`）扱いとなる。また、`,`の後に続く回転方向指定子を省略した場合は自動的に右回転（`right`）扱いとなる。
 {.is-info}
 ```
