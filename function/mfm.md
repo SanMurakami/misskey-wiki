@@ -2,7 +2,7 @@
 title: Misskey Flavored Markdown
 description: Misskeyで使えるMarkdown風の構文
 published: true
-date: 2020-11-26T04:20:18.631Z
+date: 2020-11-27T19:56:36.049Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T08:21:41.404Z
@@ -356,18 +356,79 @@ Y軸（モニターからみて縦軸）を起点に回転を行います。
 [spin.y,left,speed=100ms 🌓　　　☀　　　🌏]
 ```
 # LaTeX表現
+Misskeyが最強のSNSサイトと呼ばれる理由の一つがこのLaTeXだ。
+バックスラッシュと丸括弧`\(`と`\)`で囲うことによって使うことができる。
+
+## フォント
+
+### サンズセリフフォント
+`\sf`
+### ボールドフォント
+`\bf`
+### イタリック
+`\it`
+### タイプライターテキスト
+`\tt`
+### ブラックボード（黒板太字）
+`\Bbb`
+### カリグラフィック
+`\cal`
+### スクリプト（数学書体）
+`\mathscr{}`
+
+## サイズ
+
+### Huge
+`\Huge`
+### huge
+`\huge`
+### LARGE
+`\LARGE`
+### Large
+`\Large`
+### large
+`\large`
+### normalsize
+`\normalsize`
+### small
+`\small`
+### footsizenote
+`\footsizenote`
+### scriptsize
+`\scriptsize`
+### tiny
+`\tiny`
+
+## カラー
+色はHTML標準色名を使える他、直接16進数カラーコードを指定できる。
+
+### テキストカラー
+`\textcolor{chocolate}{チョコレートうめぇ}`
+### カラーボックス
+`\colorbox{aqua}{$F=ma$}`
+#### 枠ありカラーボックス
+`\fcolorbox{red}{aqua}{$F=ma$}`
+## その他
+
+### ボックス
+`\boxed{`と`}`
 
 
 # 外部リンク
-- https://misskey.io/mfm-cheat-sheet
-Misskey.io公式のチートシート。最新のMFMが実例ともに記載されている。
 - https://yuzulia.xyz/@aqz/pages/mfm 
 [Yuzulia-MisSocial](/ja/instances/yuzulia_xyz)の@aqz氏によって書かれたMFM一覧表。かなり昔からある一覧表であり、また [ページ](/function/page)で書かれているのでソースを簡単に見ることができる。
+
+- https://misskey.io/mfm-cheat-sheet
+Misskey.io公式のチートシート。最新のMFMが実例ともに記載されている。
+
 - https://katex.org/docs/support_table.html
 アルファベット順にソートされたTeX関数の一覧。
+
 - https://katex.org/docs/supported.html
 ロジカルグループでソートされたTeX関数の一覧表集。
 
+- https://developer.mozilla.org/en-US/docs/Web/CSS/color_value#Color_keywords
+HTML標準色名表。
 
 
 
