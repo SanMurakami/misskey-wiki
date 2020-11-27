@@ -2,7 +2,7 @@
 title: Misskey Flavored Markdown
 description: Misskeyで使えるMarkdown風の構文
 published: true
-date: 2020-11-27T19:56:36.049Z
+date: 2020-11-27T20:36:18.681Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T08:21:41.404Z
@@ -359,6 +359,9 @@ Y軸（モニターからみて縦軸）を起点に回転を行います。
 Misskeyが最強のSNSサイトと呼ばれる理由の一つがこのLaTeXだ。
 バックスラッシュと丸括弧`\(`と`\)`で囲うことによって使うことができる。
 
+> LaTeXは非常に多くの関数があり、ここで紹介されているものはごく一部に過ぎない。関数の完全なリストは[公式ドキュメント](https://katex.org/docs/supported.html)からチェックできる。
+{.is-info}
+
 ## フォント
 
 ### サンズセリフフォント
@@ -403,16 +406,28 @@ Misskeyが最強のSNSサイトと呼ばれる理由の一つがこのLaTeXだ�
 色はHTML標準色名を使える他、直接16進数カラーコードを指定できる。
 
 ### テキストカラー
-`\textcolor{chocolate}{チョコレートうめぇ}`
+`\textcolor{}{}`で使用できる。始めの中括弧で`{`色`}`を指定し、二番目の中括弧に`{`テキスト`}`を入れることができる。
+![ss_textcolor.png](/ja_jp/mfm/ss_textcolor.png)
+```
+🍫\(\textcolor{chocolate}{チョコレート}\)🍫うめぇｗｗｗ
+```
 ### カラーボックス
-`\colorbox{aqua}{$F=ma$}`
+`\fcolorbox{}{}`で使用できる。始めの中括弧で`{`色`}`を指定し、二番目の中括弧に`{`テキスト`}`を入れることができる。
+![ss_colorbox.png](/ja_jp/mfm/ss_colorbox.png)
+```
+\(\colorbox{yellow}{大事なことなのでハイライトしました}\)
+```
 #### 枠ありカラーボックス
-`\fcolorbox{red}{aqua}{$F=ma$}`
+`\fcolorbox{}{}{}`で使用できる。最初の中括弧には`{`縁の色`}`、二番目の中括弧には`{`内箱の色`}`、そして三番目の中括弧には`{`テキスト`}`が入る。
+![ss_fcolorbox.png](/ja_jp/mfm/ss_fcolorbox.png)
+```
+\(\fcolorbox{red}{yellow}{検閲により削除されました}\)
+```
+
 ## その他
 
 ### ボックス
-`\boxed{`と`}`
-
+`\boxed{`と`}`でボックスを作ることができる。
 
 # 外部リンク
 - https://yuzulia.xyz/@aqz/pages/mfm 
