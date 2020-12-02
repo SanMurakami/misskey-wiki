@@ -2,7 +2,7 @@
 title: /info
 description: phpinfo?
 published: true
-date: 2020-12-02T07:24:24.955Z
+date: 2020-12-02T07:25:44.634Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-02T06:46:54.262Z
@@ -15,7 +15,7 @@ dateCreated: 2020-12-02T06:46:54.262Z
 # 概要
 **misskey.domain/info** にアクセスすることで表示できる。
 
-バージョン情報のほかに、使用サーバーのスペックやOSの構成、利用者数、投稿数、カスタム絵文字の設定数など、やたら事細かくリストで表示されるという Misskey 鯖缶にとっては、えちな機能！
+バージョン情報のほかに、使用サーバーのスペックやOSの構成、利用者数、投稿数、カスタム絵文字の設定詳細など、やたら事細かくリスト化で表示されるという **Misskey 鯖缶にとっては、えちな機能であろう！**
 
 見た目が [phpinfo](https://www.google.com/search?q=phpinfo&tbm=isch) を思わせるようなデザインとなっている（これも、[syuilo](/ja/persons/syuilo)氏 の PHP愛なの？）。
 
