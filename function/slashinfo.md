@@ -2,7 +2,7 @@
 title: /info
 description: phpinfo?
 published: true
-date: 2020-12-02T07:23:31.108Z
+date: 2020-12-02T07:24:24.955Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-02T06:46:54.262Z
@@ -15,9 +15,9 @@ dateCreated: 2020-12-02T06:46:54.262Z
 # 概要
 **misskey.domain/info** にアクセスすることで表示できる。
 
-バージョン情報のほかに、使用サーバーのスペックやOSの構成、利用者数、投稿数、カスタム絵文字の設定数など、やたら事細かくリストで表示されるというMisskey鯖缶にとっては、えちな機能！
+バージョン情報のほかに、使用サーバーのスペックやOSの構成、利用者数、投稿数、カスタム絵文字の設定数など、やたら事細かくリストで表示されるという Misskey 鯖缶にとっては、えちな機能！
 
-見た目が [phpinfo](https://www.google.com/search?q=phpinfo&tbm=isch) を思わせるようなデザインとなっている（[syuilo](/ja/persons/syuilo)氏 の PHP愛？）。
+見た目が [phpinfo](https://www.google.com/search?q=phpinfo&tbm=isch) を思わせるようなデザインとなっている（これも、[syuilo](/ja/persons/syuilo)氏 の PHP愛なの？）。
 
 あまりにも意識しすぎだったのか v12 からは右上のロゴが削除される変貌があるが、それ以外の変更は見られない（以下の画像参照）。
 
