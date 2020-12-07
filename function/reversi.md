@@ -2,7 +2,7 @@
 title: リバーシ
 description: Misskeyで利用できるゲームの一つ
 published: true
-date: 2020-12-07T08:17:49.719Z
+date: 2020-12-07T08:23:50.544Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T09:28:37.880Z
@@ -115,27 +115,47 @@ Misskeyユーザであれば誰でもプレイすることができる。ユー�
 ![char_x.png](/ja_jp/reversi/walls.png)
 
 # Special
+常識の枠に捉えられない独特な盤面です。
 ## Big Board
+![char_x.png](/ja_jp/reversi/big_board.png)
 ## Deal with it!
+![char_x.png](/ja_jp/reversi/deal_with_it.png)
 ## Let's Experiment
+![char_x.png](/ja_jp/reversi/let's_experiment.png)
 ## Galaxy
+![char_x.png](/ja_jp/reversi/galaxy.png)
 ## iPhone X
+![char_x.png](/ja_jp/reversi/iphone_x.png)
 ## Islands
+![char_x.png](/ja_jp/reversi/islands.png)
 ## 6x8
+![char_x.png](/ja_jp/reversi/6x8.png)
 ## Spark
+![char_x.png](/ja_jp/reversi/spark.png)
 ## Triangle
+![char_x.png](/ja_jp/reversi/triangle.png)
 ## Two Board
+![char_x.png](/ja_jp/reversi/two_board.png)
 
 
 # Test
+まだ名前が付いていない、テスト中の盤面です。
 ## Test 1
+![char_x.png](/ja_jp/reversi/test1.png)
 ## Test 2
+![char_x.png](/ja_jp/reversi/test2.png)
 ## Test 3
+![char_x.png](/ja_jp/reversi/test3.png)
 ## Test 4
-## Test 5
+![char_x.png](/ja_jp/reversi/test4.png)
+
+
 ## Test 6
+![char_x.png](/ja_jp/reversi/test6.png)
 ## Test 7
+![char_x.png](/ja_jp/reversi/test7.png)
 ## Test 8
+![char_x.png](/ja_jp/reversi/test8.png)
 
 
 
