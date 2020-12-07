@@ -2,7 +2,7 @@
 title: リバーシ
 description: Misskeyで利用できるゲームの一つ
 published: true
-date: 2020-12-06T11:03:11.975Z
+date: 2020-12-07T02:30:43.573Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T09:28:37.880Z
@@ -28,6 +28,38 @@ Misskeyユーザであれば誰でもプレイすることができる。ユー�
 ## ループマップ
 盤面の上下左右がループするモードである。
 
+
+# 4x4
+## 4x4
+
+# 6x6
+## 6x6
+## 6x6 Rounded
+## 6x6 Rounded 2
+
+# 8x8
+みんな知ってる定番のリバーシ。
+## 8x8 
+## 8x8 Handicap 1
+## 8x8 Handicap 2
+## 8x8 Handicap 3
+## 8x8 Handicap 4
+## 8x8 Handicap 28
+## 8x8 with notch
+## 8x8 with some holes
+## 8x8 Rounded
+## 8x8 Rounded 2
+## 8x8 Rounded 3
+## Circle
+## Lack of black
+## Minesweeper
+## Parallel
+## Reserved
+## Smile
+## Square Party
+## Window
+## X
+
 # 10x10
 グランドリバーシ。
 ## 10x10
@@ -46,37 +78,7 @@ Misskeyユーザであれば誰でもプレイすることができる。ユー�
 ## Japanese Curry
 ## Mosaic
 ## Reactor
-
 ## Walls
-
-
-# 8x8
-定番のリバーシ。
-## 8x8 
-
-## 8x8 Handicap 1
-## 8x8 Handicap 2
-## 8x8 Handicap 3
-## 8x8 Handicap 4
-## 8x8 Handicap 28
-## 8x8 with notch
-## 8x8 with some holes
-## Circle
-## 
-## 
-
-## Lack of black
-## Minesweeper
-## Parallel
-## Reserved
-## 
-
-
-
-
-# 6x6
-
-# 4x4
 
 # Special
 ## Big Board
@@ -92,7 +94,14 @@ Misskeyユーザであれば誰でもプレイすることができる。ユー�
 
 
 # Test
-
+## Test 1
+## Test 2
+## Test 3
+## Test 4
+## Test 5
+## Test 6
+## Test 7
+## Test 8
 
 
 
