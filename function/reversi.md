@@ -2,7 +2,7 @@
 title: リバーシ
 description: Misskeyで利用できるゲームの一つ
 published: true
-date: 2020-12-07T14:06:27.486Z
+date: 2020-12-07T14:22:23.087Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T09:28:37.880Z
