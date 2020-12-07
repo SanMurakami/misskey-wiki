@@ -2,7 +2,7 @@
 title: リバーシ
 description: Misskeyで利用できるゲームの一つ
 published: true
-date: 2020-12-07T14:22:23.087Z
+date: 2020-12-07T22:57:36.942Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T09:28:37.880Z
@@ -39,58 +39,88 @@ Misskeyリバーシでは、対局を始める前に特殊ルールを決める�
 ![ai_post.png](/ja_jp/reversi/ai_post.png)
 ### 強さ
 藍の強さを指定できる。最弱は「接待」で、全力で負けようとしてくる。強さが上がるに連れ、思考時間が長くなる。もっとも強い「最強」レベルではたまに長時間考え過ぎちゃうことがある。
+
+
 # マップ
 Misskeyリバーシでは、通常のリバーシの盤面以外にも、様々な大きさ、形、初期配置の盤面を利用できる。ゲーム開始前にお互いに盤面を自由に編集することもできる。
+
 ## -Custom-
 カスタムマップ。下に表示されている盤面のマスを触るとそのマスの状態を「自分の石／相手の石／空白／壁(穴)」に変えることができる。こうやって出来たマップは `-Custom-` と表示され「カスタムマップ」として扱われる。
 ![custom.png](/ja_jp/reversi/custom.png)
+
 ## ランダム
 ここにあるマップからひとつだけランダムで選ぶ設定。Misskeyリバーシは全体的に見てやや独特なマップが多く、このオプションはギャンブル要素がややつよい。
+
 ## 4x4
 4×4マスの正方形盤を使うとても小さな盤面。主要時間はおおよそ1分なので、サクッと気軽に試合が出来る。また、三目並べ感覚で簡単に二人零和有限確定完全情報ゲームが楽しめるので、初歩的なゲーム理論の理解にも役立つかもしれない。
 ### 4x4
+フォー・バイ・フォー。
+4×4の正方形盤に交差する石が真ん中に配置されている最も基本的な盤面。
 ![char_x.png](/ja_jp/reversi/4x4.png)
 
 ## 6x6
 6×6マスの正方形盤を使用する小さな盤面。数分ぐらいで簡単な試合をすることができる。
 ### 6x6
+シックス・バイ・シックス。
+6×6の正方形盤に交差する石が真ん中に配置されている基本的な盤面。
 ![char_x.png](/ja_jp/reversi/6x6.png)
 ### 6x6 Rounded
+シックス・バイ・シックス・ラウンデッド。
+6×6の盤に交差する石が真ん中に配置されているが、各角が削られており、裏返すことの出来ない高得点地が増えているのが特徴。
 ![char_x.png](/ja_jp/reversi/6x6_rounded.png)
 ### 6x6 Rounded 2
+シックス・バイ・シックス・ラウンデッド・ツー。
+6×6の盤に交差する石が真ん中に配置されているが、各角が削られており、裏返すことの出来ない高得点地が増えているのが特徴。
 ![char_x.png](/ja_jp/reversi/6x6_rounded_2.png)
 
 ## 8x8
 8×8マスの正方形盤を使う盤面。みんな知ってる定番のリバーシ。
 ### 8x8
+スタンダード・リバーシ。（エイト・バイ・エイト）
+
 ![char_x.png](/ja_jp/reversi/8x8.png)
 ### 8x8 Handicap 1
+ハンディキャップ・ワン。
 ![char_x.png](/ja_jp/reversi/8x8_handicap_1.png)
 ### 8x8 Handicap 2
+ハンディキャップ・ツー。
 ![char_x.png](/ja_jp/reversi/8x8_handicap_2.png)
 ### 8x8 Handicap 3
+ハンディキャップ・スリー。
 ![char_x.png](/ja_jp/reversi/8x8_handicap_3.png)
 ### 8x8 Handicap 4
+ハンディキャップ・フォー。
 ![char_x.png](/ja_jp/reversi/8x8_handicap_4.png)
 ### 8x8 Handicap 28
+ハンディキャップ・トウェンティーエイト。
 ![char_x.png](/ja_jp/reversi/8x8_handicap_28.png)
 ### 8x8 with notch
+ウィズノッチ。
 ![char_x.png](/ja_jp/reversi/8x8_with_notch.png)
 ### 8x8 with some holes
+ホールズ。
 ![char_x.png](/ja_jp/reversi/8x8_with_some_holes.png)
 ### 8x8 Rounded
+ラウンデッド。
 ![char_x.png](/ja_jp/reversi/8x8_rounded.png)
 ### 8x8 Rounded 2
+ラウンデッド・ツー。
 ![char_x.png](/ja_jp/reversi/8x8_rounded_2.png)
 ### 8x8 Rounded 3
+ラウンデッド・スリー。
 ![char_x.png](/ja_jp/reversi/8x8_rounded_3.png)
 ### Circle
+サークル。
 ![char_x.png](/ja_jp/reversi/circle.png)
 ### Lack of black
+ラック・オブ・ブラック。
 ![char_x.png](/ja_jp/reversi/lack_of_black.png)
 ### Minesweeper
+マインスイーパー。
 ![char_x.png](/ja_jp/reversi/minesweeper.png)
 ### Parallel
+パラレル。
+世界遊戯法大全（1907年）に記載されている20世紀リバーシの定番配置。8×8の正方形盤に、平行に重なり合った石を2個づつ、真ん中に配置する。
 ![char_x.png](/ja_jp/reversi/parallel.png)
 ### Reserved
 ![char_x.png](/ja_jp/reversi/reserved.png)
