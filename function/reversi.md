@@ -2,7 +2,7 @@
 title: リバーシ
 description: Misskeyで利用できるゲームの一つ
 published: true
-date: 2020-12-07T02:30:43.573Z
+date: 2020-12-07T08:17:49.719Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T09:28:37.880Z
@@ -31,54 +31,88 @@ Misskeyユーザであれば誰でもプレイすることができる。ユー�
 
 # 4x4
 ## 4x4
+![char_x.png](/ja_jp/reversi/4x4.png)
 
 # 6x6
 ## 6x6
+![char_x.png](/ja_jp/reversi/6x6.png)
 ## 6x6 Rounded
+![char_x.png](/ja_jp/reversi/6x6_rounded.png)
 ## 6x6 Rounded 2
+![char_x.png](/ja_jp/reversi/6x6_rounded_2.png)
 
 # 8x8
 みんな知ってる定番のリバーシ。
-## 8x8 
+## 8x8
+![char_x.png](/ja_jp/reversi/8x8.png)
 ## 8x8 Handicap 1
+![char_x.png](/ja_jp/reversi/8x8_handicap_1.png)
 ## 8x8 Handicap 2
+![char_x.png](/ja_jp/reversi/8x8_handicap_2.png)
 ## 8x8 Handicap 3
+![char_x.png](/ja_jp/reversi/8x8_handicap_3.png)
 ## 8x8 Handicap 4
+![char_x.png](/ja_jp/reversi/8x8_handicap_4.png)
 ## 8x8 Handicap 28
+![char_x.png](/ja_jp/reversi/8x8_handicap_28.png)
 ## 8x8 with notch
+![char_x.png](/ja_jp/reversi/8x8_with_notch.png)
 ## 8x8 with some holes
+![char_x.png](/ja_jp/reversi/8x8_with_some_holes.png)
 ## 8x8 Rounded
+![char_x.png](/ja_jp/reversi/8x8_rounded.png)
 ## 8x8 Rounded 2
+![char_x.png](/ja_jp/reversi/8x8_rounded_2.png)
 ## 8x8 Rounded 3
+![char_x.png](/ja_jp/reversi/8x8_rounded_3.png)
 ## Circle
+![char_x.png](/ja_jp/reversi/circle.png)
 ## Lack of black
+![char_x.png](/ja_jp/reversi/lack_of_black.png)
 ## Minesweeper
+![char_x.png](/ja_jp/reversi/minesweeper.png)
 ## Parallel
+![char_x.png](/ja_jp/reversi/parallel.png)
 ## Reserved
+![char_x.png](/ja_jp/reversi/reserved.png)
 ## Smile
+![char_x.png](/ja_jp/reversi/smile.png)
 ## Square Party
+![char_x.png](/ja_jp/reversi/square_party.png)
 ## Window
+![char_x.png](/ja_jp/reversi/window.png)
 ## X
-
+![char_x.png](/ja_jp/reversi/x.png)
 # 10x10
 グランドリバーシ。
 ## 10x10
-
+![char_x.png](/ja_jp/reversi/10x10.png)
 ## Arena
+![char_x.png](/ja_jp/reversi/arena.png)
 アリーナマップ。
 ## Char X
-
+![char_x.png](/ja_jp/reversi/char_x.png)
 ## Char Y
+![char_x.png](/ja_jp/reversi/char_y.png)
 ## Checker
+![char_x.png](/ja_jp/reversi/checker.png)
 ## CPU
+![char_x.png](/ja_jp/reversi/cpu.png)
 ## Cross
+![char_x.png](/ja_jp/reversi/cross.png)
 アネクゼイションとも。
 ## Grid
+![char_x.png](/ja_jp/reversi/grid.png)
 ## The Hole
+![char_x.png](/ja_jp/reversi/the_hole.png)
 ## Japanese Curry
+![char_x.png](/ja_jp/reversi/japanese_curry.png)
 ## Mosaic
+![char_x.png](/ja_jp/reversi/mosaic.png)
 ## Reactor
+![char_x.png](/ja_jp/reversi/reactor.png)
 ## Walls
+![char_x.png](/ja_jp/reversi/walls.png)
 
 # Special
 ## Big Board
