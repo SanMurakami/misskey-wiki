@@ -2,7 +2,7 @@
 title: misskey.dev
 description: misskey.dev
 published: true
-date: 2020-12-11T12:31:19.562Z
+date: 2020-12-11T12:32:06.113Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-21T08:34:44.920Z
@@ -19,7 +19,7 @@ misskey.dev は、 Misskey (v11) インスタンスで、黒と緑を基調と�
 
 村上さんは、2020年11月末まで v12 へのアップデートの対応しない場合は提供終了を表明しており、今後の動向が注目されているが、12月過ぎてもなんの変化もないことはお咎めなしなのか、運営実態は不明である。
 
-# 管理者アカウントのルール
+# 管理者アカウントの特殊なルール
 
 https://misskey.dev/@cv_k のプロフィール文には
 
