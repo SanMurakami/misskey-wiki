@@ -2,7 +2,7 @@
 title: Misskey Flavored Markdown
 description: Misskeyで使えるMarkdown風の構文
 published: true
-date: 2021-02-08T04:35:08.642Z
+date: 2021-02-08T07:52:25.969Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T08:21:41.404Z
@@ -68,8 +68,7 @@ MFMといえばこれを連想する者が多い。テキストを特定の記�
 　
 ### 小さい字
 テキストを`<small>`と`</small>`で囲うと文字を <small>小さく</small> 表示させることができる。
-> へ、編集してくれたって別にあんたのコトなんて何とも思ってないんだからね！
-<small>･･････でもほんのちょっとだけ嬉しい、かも･･･</small>
+![ss_small.png](/ja_jp/mfm/ss_small.png)
 ```
 へ、編集してくれたって別にあんたのコトなんて何とも思ってないんだからね！
 <small>･･････でもほんのちょっとだけ嬉しい、かも･･･</small>
