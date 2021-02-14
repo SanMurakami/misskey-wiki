@@ -2,7 +2,7 @@
 title: 共有ページのクエリ
 description: 共有ページ（/share）のクエリ一覧
 published: false
-date: 2021-02-14T11:30:57.142Z
+date: 2021-02-14T12:54:14.803Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-14T11:30:57.142Z
@@ -29,7 +29,7 @@ dateCreated: 2021-02-14T11:30:57.142Z
 </dl>
 
 ### 公開範囲
-※specifiedに相当する値はvisibilityとvisibleAccts/visibleUserIdsで指定する
+※specifiedに相当する値はvisibility=specifiedとvisibleAccts/visibleUserIdsで指定する
 
 <dl>
 <dt>visibility</dt>
