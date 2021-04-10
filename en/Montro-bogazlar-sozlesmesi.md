@@ -2,8 +2,8 @@
 title: Montrö boğazlar sözleşmesi yararları ve zararları nelerdir 
 description: Montrö boğazlar sözleşmesi'nin Türkiye'ye sağladığı herhangi bir yarar yoktur. Türkiye, montrö sözleşmesi sayesinde yabancı savaş gemilerine bekçi görevi görür
 published: true
-date: 2021-04-10T22:09:06.725Z
-tags: montrö boğazlar sözleşmesi, montrö boğazlar sözleşmesi yararları ve zararları nelerdir, montrö boğazlar sözleşmesi maddeleri, montrö boğazlar sözleşmesi ne zaman bitiyor, montrö boğazlar sözleşmesi ne zaman sona eriyor, montrö boğazlar sözleşmesi nedir, montrö boğazlar sözleşmesi kısaca
+date: 2021-04-10T22:10:43.077Z
+tags: montrö boğazlar sözleşmesi, montrö boğazlar sözleşmesi yararları ve zararları nelerdir, montrö boğazlar sözleşmesi maddeleri, montrö boğazlar sözleşmesi ne zaman bitiyor, montrö boğazlar sözleşmesi ne zaman sona eriyor, montrö boğazlar sözleşmesi nedir, montrö boğazlar sözleşmesi kısaca, montreux boğazlar sözleşmesinin türkiye'ye sağladığı yararlar ve zararlar nelerdir, montreux boğazlar sözleşmesinin yararları
 editor: markdown
 dateCreated: 2021-04-10T22:03:35.192Z
 ---
