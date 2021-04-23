@@ -2,7 +2,7 @@
 title: Misskey
 description: 
 published: true
-date: 2020-09-20T07:58:33.606Z
+date: 2021-04-23T23:04:29.348Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T17:40:11.825Z
@@ -19,7 +19,7 @@ Misskeyという名前はMay'nの楽曲「Brain Diver」の歌詞から採られ
 Misskeyは大きなバージョンアップごとにコードネームが変わる。
 コードネームは、*aoi*、*nighthike*、*daybreak*、*indigo*のように変わってきている。現在のコードネームは*indigo*である。
 
-*2018年8月以降の出来事については[Misskeyをはじめようのブログ](https://joinmisskey.github.io/ja/blog/)を、Misskey自体の変更については[リリースノート](https://github.com/syuilo/misskey/blob/develop/CHANGELOG.md)も参照。*
+*2018年8月以降の出来事については[Misskeyをはじめようのブログ](https://joinmisskey.github.io/ja/blog/)を、Misskey自体の変更については[リリースノート](https://github.com/misskey-dev/misskey/blob/develop/CHANGELOG.md)も参照。*
 
 ## nighthike以前(swallowtail、aoi等)の時代 (2014/6~)
 - 2014年6月 開発開始と思われる
@@ -65,6 +65,7 @@ Misskeyは大きなバージョンアップごとにコードネームが変わ�
 
 ## indigo時代 (2020/2~)
 - 2020年2月6日 v12がリリースされる。コードネームをindigoとした。
+- 2021年3月24日 Misskey開発のためのorganizationアカウントとして[Misskey Development Division](https://github.com/misskey-dev)が作られ、リポジトリがsyuilo/misskeyからmisskey-dev/misskeyへ移された。
 
 # 主要なフォーク
 ## nighthikeベース
@@ -81,7 +82,7 @@ Misskeyは大きなバージョンアップごとにコードネームが変わ�
 
 
 # 外部リンク
-- [GitHub syuilo/misskey](https://github.com/syuilo/misskey)
+- [GitHub misskey-dev/misskey](https://github.com/misskey-dev/misskey)
 - [Misskeyをはじめよう](https://joinmisskey.github.io)
 
 [^1]: https://twitter.com/syuilo/status/977270402786344960
