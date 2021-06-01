@@ -1,29 +1,29 @@
 ---
-title: Misskey.wiki からの移植ガイド
-description: Misskey.wiki から情報を移植する際の注意点などをまとめています。
+title: Misskey.wiki로부터 인용 방법
+description: Misskey.wiki에서 정보를 인용할 때의 주의점 등을 정리합니다.
 published: true
-date: 2021-06-01T13:28:33.036Z
+date: 2021-06-01T13:36:07.915Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-01T13:28:33.036Z
 ---
 
-# URLの決め方
-[Misskey.wiki](https://misskey.wiki/) から情報を移植する際、URLは以下のようにしてください。
+# URL 결정 방법
+[Misskey.wiki](https://misskey.wiki/)에서 정보를 입력할 때 URL을 다음과 같이 입력합니다.
 
 
-1. `[言語]/[移植元カテゴリの英語表記]/[ページ名の英語表記]`
-2. スペースが入るページやカテゴリについてはスネークケース(アンダーバー)を使う
-	1. わからない場合は https://titlecase.com/ で`snake_case`に変換したものを貼り付け
+1. `[언어]/[작성할 카테고리의 영어 표기]/[페이지명의 영어 표기]`
+2. 공백이 있는 페이지나 카테고리는 스네이크 케이스(언더바)를 사용한다
+	1. 잘 모르겠다면 https://titlecase.com/ 에서 `snake_case`로 변환한 것을 붙여넣기
   
-**多言語対応できなくなるので、くれぐれもページパスに日本語を使わないでください**
+**다국어를 대응할 수 없게 되므로, 페이지 주소에 한국어를 사용하지 말아 주세요.**
 
 
-## 移植例
-### 移植元
+## 작성 사례
+### 전
 ![transplantation_guide_1.png](/ja_jp/wiki_guide/transplantation_guide_1.png)
 
-### 移植先
+### 후
 ![transplantation_guide_2.png](/ja_jp/wiki_guide/transplantation_guide_2.png)
 
 
