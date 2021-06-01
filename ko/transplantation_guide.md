@@ -1,18 +1,18 @@
 ---
-title: Misskey.wiki에서 작성하는 방법
-description: Misskey.wiki에서 정보를 작성할 때의 주의점 등을 정리합니다.
+title: Misskey.wiki에서 이식하는 방법
+description: Misskey.wiki에서 정보를 이식할 때의 주의점 등을 정리합니다.
 published: true
-date: 2021-06-01T13:36:27.522Z
+date: 2021-06-01T13:37:11.952Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-01T13:28:33.036Z
 ---
 
 # URL 결정 방법
-[Misskey.wiki](https://misskey.wiki/)에서 정보를 입력할 때 URL을 다음과 같이 입력합니다.
+[Misskey.wiki](https://misskey.wiki/)에서 정보를 이식할 때 URL을 다음과 같이 입력합니다.
 
 
-1. `[언어]/[작성할 카테고리의 영어 표기]/[페이지명의 영어 표기]`
+1. `[언어]/[이식할 카테고리의 영어 표기]/[페이지명의 영어 표기]`
 2. 공백이 있는 페이지나 카테고리는 스네이크 케이스(언더바)를 사용한다
 	1. 잘 모르겠다면 https://titlecase.com/ 에서 `snake_case`로 변환한 것을 붙여넣기
   
@@ -20,10 +20,10 @@ dateCreated: 2021-06-01T13:28:33.036Z
 
 
 ## 작성 사례
-### 전
+### 이식 전
 ![transplantation_guide_1.png](/ja_jp/wiki_guide/transplantation_guide_1.png)
 
-### 후
+### 이식 후
 ![transplantation_guide_2.png](/ja_jp/wiki_guide/transplantation_guide_2.png)
 
 
