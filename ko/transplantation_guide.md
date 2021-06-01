@@ -1,8 +1,8 @@
 ---
-title: Misskey.wiki로부터 인용 방법
-description: Misskey.wiki에서 정보를 인용할 때의 주의점 등을 정리합니다.
+title: Misskey.wiki에서 작성하는 방법
+description: Misskey.wiki에서 정보를 작성할 때의 주의점 등을 정리합니다.
 published: true
-date: 2021-06-01T13:36:07.915Z
+date: 2021-06-01T13:36:27.522Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-01T13:28:33.036Z
