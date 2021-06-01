@@ -2,7 +2,7 @@
 title: 홈
 description: 
 published: true
-date: 2021-06-01T13:25:35.059Z
+date: 2021-06-01T13:26:20.619Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-01T13:25:35.059Z
@@ -15,7 +15,7 @@ dateCreated: 2021-06-01T13:25:35.059Z
 
 # Misskey란
 
-**[Misskey](/ko/software/misskey)**는 2014년부터 개발되어 온 오픈소스 분산 마이크로 블로그 소프트웨어입니다. [자세히](/ja/software/misskey)
+**[Misskey](/ko/software/misskey)** 는 2014년부터 개발되어 온 오픈소스 분산 마이크로 블로그 소프트웨어입니다. [자세히](/ja/software/misskey)
 
 ---
 
