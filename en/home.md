@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2021-07-22T01:01:12.101Z
+date: 2021-07-22T01:04:32.067Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T17:59:50.456Z
@@ -19,10 +19,10 @@ You can use it to promote your instance, introduce yourself, or promote your app
 
 ---
 
-[**Introduction**](/en/first) ･ [**FAQ**](/en/help/faq) - First Steps About Misskey
-**instance** ･ [The list of instances of joinmisskey](https://join.misskey.page/en/wiki/instances/) - Let's find an instance!
-[function](/en/features) - Learn more about Misskey's features
-[version history](/en/releases)
+[**Introduction**](/en/first) ･ [**FAQ**](/en/help/faq) - First Steps/About Misskey
+[`joinmisskey` instance list](https://join.misskey.page/en/wiki/instances/) - Find an instance!
+[Features](/en/features) - Learn more about Misskey's features
+[Version History](/en/releases)
 
 ---
 
