@@ -2,7 +2,7 @@
 title: インスタンスの構築方法
 description: 自分でインスタンスを構築する方法について
 published: true
-date: 2021-03-12T17:28:02.357Z
+date: 2021-07-30T06:05:52.535Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-12T17:26:39.490Z
@@ -14,13 +14,8 @@ dateCreated: 2021-03-12T17:26:39.490Z
 
 基本的な手順は、[Misskeyリポジトリの「Misskey構築の手引き」](https://github.com/syuilo/misskey/blob/master/docs/setup.ja.md)にて解説されている。まずこの手引きを読んで、大まかな手順を理解しよう。
 
-## Misskey Site!による解説
-aqzによるブログ「Misskey Site!」にて、各種環境における詳細な構築手順書が公開されている。
-
-https://misskey-site.com/posts/tag/misskey%e3%82%a4%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%b3%e3%82%b9%e6%a7%8b%e7%af%89
-
 ## Dockerを使う
-[Misskeyリポジトリには、Dockerを使った構築方法](https://github.com/syuilo/misskey/blob/develop/docs/docker.ja.md)についても解説書がある。これは、Dockerを自前でビルドするものだ。
+[Misskeyリポジトリには、Dockerを使った構築方法](https://github.com/syuilo/misskey/blob/develop/docs/docker.ja.md)についても解説書がある。
 
 # ホスティングサービス
 misskey.ioのサーバー運用者である村上さんによって、ホスティングサービスが準備中だ。
