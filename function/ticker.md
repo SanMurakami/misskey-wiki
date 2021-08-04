@@ -2,7 +2,7 @@
 title: インスタンス情報
 description: InstanceTicker 的なもの
 published: true
-date: 2021-08-04T04:36:33.090Z
+date: 2021-08-04T05:07:58.352Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-19T10:30:41.443Z
@@ -14,7 +14,7 @@ dateCreated: 2020-11-19T10:30:41.443Z
 
 Misskey では [v12.51.0](https://github.com/syuilo/misskey/releases/tag/12.51.0) (2020/10/27) に搭載されました。 
 
-![7cd0dadc9869800993cbf6c448b9fc4.png](/7cd0dadc9869800993cbf6c448b9fc4.png)
+![InstanceTickerの表示例](/ja_jp/function/ticker/ticker-1.png)
 
 アイデアは、[weepjp](https://miyon.miyon.org/@weepjp) による Mastodon用カスタムCSS の [#InstanceTicker](https://ja.mstdn.wiki/InstanceTicker) です。
 
@@ -34,7 +34,7 @@ Misskey では [v12.51.0](https://github.com/syuilo/misskey/releases/tag/12.51.0
 
 「設定」＞「全般」＞「アピアランス」＞「ノートのインスタンス情報」から操作できます。
 
-![7cd0dadc9869800993cbf6c448b9fc49.png](/7cd0dadc9869800993cbf6c448b9fc49.png)
+![InstanceTickerを有効かする方法](/ja_jp/function/ticker/ticker-2.png)
 
 # 仕様
 
@@ -43,7 +43,7 @@ Misskey では [v12.51.0](https://github.com/syuilo/misskey/releases/tag/12.51.0
 ## 仕様の違い
 
 ### Misskey
-![7cd0dadc9869800993cbf6c448b9fc4.png](/7cd0dadc9869800993cbf6c448b9fc4.png)
+![Misskeyでの表示例](/ja_jp/function/ticker/ticker-1.png)
 
 - **背景色は、対象インスタンスのトップページのHTMLのメタタグに含まれるテーマカラーを抽出して取得している。** [[1](https://misskey.io/notes/8e6sstujc6)]
 - **アイコンは、対象インスタンスの favicon を直リンを表示。**
@@ -52,7 +52,7 @@ Misskey では [v12.51.0](https://github.com/syuilo/misskey/releases/tag/12.51.0
 - **常に表示で、同一インスタンスユーザーも表示。**
 
 ### めいすきー
-![fcc5e3f1241b190c05efd8912216449a.png](/fcc5e3f1241b190c05efd8912216449a.png)
+![めいすきーでの表示例](/ja_jp/function/ticker/ticker-3.png)
 
 - 背景色は、おそらく Misskey と同様？
 - アイコンは、favicon キャッシュ(原寸サイズ)を表示。
@@ -61,7 +61,7 @@ Misskey では [v12.51.0](https://github.com/syuilo/misskey/releases/tag/12.51.0
 - リモートユーザーのみに表示され、同一インスタンスのユーザーには表示されない仕様は、おそらく #InstanceTicker for Misskey(廃止済) と同様の振る舞いを意識している？
 
 ### #InstanceTicker
-![682009e30812ea5694a854cd519d764e.png](/682009e30812ea5694a854cd519d764e.png)
+![Mastodonでの表示例](/ja_jp/function/ticker/ticker-4.png)
 
 - 背景色はSNSソフトウェア別に分類されている。または鯖缶からの要請で変更される。
 - アイコンは、SNSロゴ(Type-0)、favicon キャッシュ(縮小サイズ)を表示(Type-1)。favicon キャッシュ(縮小サイズ)に自動で白フチをつけて表示(Type-2)。または鯖缶からの要請で変更される。
