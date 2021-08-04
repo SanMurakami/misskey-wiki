@@ -2,7 +2,7 @@
 title: よくある質問
 description: 
 published: true
-date: 2021-08-04T04:17:52.858Z
+date: 2021-08-04T04:21:02.110Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T17:30:57.943Z
@@ -22,7 +22,7 @@ dateCreated: 2020-09-19T17:30:57.943Z
 **[→ 機能: タイムライン](/ja/function/tl)**
 
 # 重い
-Misskey Webではアニメーションを多用しているが、これはそこそこのスペックがないと快適に動作しなかったり、長時間タブを開いているとフリーズしたりすることが報告されています。  
+Misskey Webではアニメーションを多用しています。Misskey Webのアニメーションはそこそこのスペックがないと快適に動作しなかったり、長時間タブを開いているとフリーズしたりすることが報告されています。  
 「UIの動きを減らす」を有効にするとそのような重いアニメーションが削減されるので、使ってみてください。
 
 # MisskeyはMastodonのインスタンスなの？
@@ -50,10 +50,10 @@ Catは設定画面から設定できます。
 # 不具合を見つけた。こんな機能がほしい。
 **Misskey.io**に登録している場合は、[Misskey Feedback Channel](https://misskey.io/channels/8b79iuz1af)を利用することができます。
 
-**GitHub**を使ったことがある方は*その内容のIssueが立っていないか確認してから*[Issue](https://github.com/syuilo/misskey/issues/new/choose)で報告をお願いしたい。  
+**GitHub**を使ったことがある方は*その内容のIssueが立っていないか確認してから*[Issue](https://github.com/syuilo/misskey/issues/new/choose)で報告をお願いします。  
 Pull Requestももちろん歓迎しています。
 
-上記のどちらも難しい場合は[@syuilo@misskey.io](https://misskey.io/@syuilo)へリプライを送ることも可能。
+上記のどちらも難しい場合は[@syuilo@misskey.io](https://misskey.io/@syuilo)へリプライを送ることも可能です。
 
 # Misskeyに寄付したい。
 ほしいものリストやPatreonのリンクなどがあるので[**joinmisskey（トップページの一番最後のセクション）**](https://join.misskey.page/ja/#section_7)を参照してください。
