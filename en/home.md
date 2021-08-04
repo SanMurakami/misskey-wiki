@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2021-08-04T04:16:40.149Z
+date: 2021-08-04T05:16:02.034Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-19T17:59:50.456Z
@@ -11,7 +11,7 @@ dateCreated: 2020-09-19T17:59:50.456Z
 Welcome to **Misskey Wiki**! Anyone is free to edit.
 You can use it to promote your app, instance, or introduce yourself.
 
-[![Ai](/ai.png =300x)](/en/ai/home)
+[![Ai](/common/ai.png =300x)](/en/ai/home)
 
 # What is Misskey?
 
