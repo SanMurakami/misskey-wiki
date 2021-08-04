@@ -2,7 +2,7 @@
 title: 村上さん
 description: AureoleArkまたは村上さんは、misskey.ioなど複数のMisskeyインスタンスへサーバー資源を提供している人物である。
 published: true
-date: 2021-08-04T03:59:56.808Z
+date: 2021-08-04T04:00:12.726Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T08:29:29.694Z
@@ -34,5 +34,3 @@ Misskeyのテーマ共有サイトである[Misskey Assets Store](/software/miss
 
 # アカウント
 - [@AureoleArk@misskey.io](https://misskey.io/@AureoleArk)
-- [Twitter @aureoleark](https://twitter.com/aureoleark)
-- [SoundCloud](https://soundcloud.com/cokram)
