@@ -2,7 +2,7 @@
 title: インスタンス情報
 description: InstanceTicker 的なもの
 published: true
-date: 2020-11-19T11:21:44.721Z
+date: 2021-08-04T04:25:37.448Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-19T10:30:41.443Z
@@ -45,7 +45,7 @@ Misskey では [v12.51.0](https://github.com/syuilo/misskey/releases/tag/12.51.0
 ### Misskey
 ![7cd0dadc9869800993cbf6c448b9fc4.png](/7cd0dadc9869800993cbf6c448b9fc4.png)
 
-- **背景色は、対象インスタンスの背景色情報を取得している。**
+- **背景色は、対象インスタンスのトップページのHTMLのメタタグに含まれるテーマカラーを抽出して取得している。** [[1](https://misskey.io/notes/8e6sstujc6)]
 - **アイコンは、対象インスタンスの favicon を直リンを表示。**
 - **表示名は、対象インスタンスの設定名を取得している。**
 - **角に丸みがある。**
@@ -54,7 +54,7 @@ Misskey では [v12.51.0](https://github.com/syuilo/misskey/releases/tag/12.51.0
 ### めいすきー
 ![fcc5e3f1241b190c05efd8912216449a.png](/fcc5e3f1241b190c05efd8912216449a.png)
 
-- 背景色は、おそらく Misskey と同様。
+- 背景色は、おそらく Misskey と同様？
 - アイコンは、favicon キャッシュ(原寸サイズ)を表示。
 - 表示名はおそらく Misskey と同様でインスタンスの設定名を取得して表示し、さらに括弧してドメイン名も表示。
 - Misskey と同様に角に丸みはあるが、控えめである。
@@ -68,18 +68,3 @@ Misskey では [v12.51.0](https://github.com/syuilo/misskey/releases/tag/12.51.0
 - 表示名は、インスタンスのドメイン名。または鯖缶からの要請で変更される。
 - 角に丸みなどはないが、表示名にはうっすら影がある。
 - #InstanceTicker for Misskey(廃止済) では、リモートユーザーのみ表示縛り且つ、一部のリプライなど表示されないケースがあった。
-
-
-# みよんみよん
-
-![miyon2.png](/miyon2.png)
-
-「みよんみよん」とは、 #InstanceTicker の看板娘である。
-
-[syuilo](/ja/persons/syuilo)氏の「[みよんみよん以外の感情がない](https://misskey.io/notes/8e43jzr6or)」の「みよんみよん」とは、こいつのことである。
-
-もともとは、weep が描いた[藍](/ja/aichan)の髪の色を変えただけの Misskey を表す代替アイコン（[藍](/ja/aichan)と同様の服を着てるのはこのため）として使用されていたが、#InstanceTicker の看板娘に昇格された。
-
-名前の由来は、#InstanceTicker での Misskey のオフセットが 4 であり、「Misskey は 4」を縮めて「みよん」と言い出したことが開発チームにウケたことと、[藍](/ja/aichan)に対して「みよん」であること（あいみょん）。
-
-みよんみよん以外の感情がないので、ついでに書きました。
