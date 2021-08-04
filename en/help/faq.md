@@ -2,7 +2,7 @@
 title: FAQ
 description: Frequently Asked Questions
 published: true
-date: 2020-09-22T12:42:57.593Z
+date: 2021-08-04T05:22:34.983Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T05:04:12.109Z
