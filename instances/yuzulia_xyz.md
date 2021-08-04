@@ -2,7 +2,7 @@
 title: Yuzulia-MisSocial
 description: ゆずりょーが運営するMisskeyインスタンス
 published: true
-date: 2020-09-20T08:44:56.116Z
+date: 2021-08-04T05:32:28.708Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T08:44:56.116Z
@@ -10,6 +10,8 @@ dateCreated: 2020-09-20T08:44:56.116Z
 
 **Yuzulia-MisSocial**は、[YuzuRyo61](/persons/yuzuryo61)が運営するMisskeyインスタンス。
 ほぼ定期的にMisskeyのバニラバージョンが更新されている。
+
+2021/06/11に運用終了。
 
 # 概要
 YuzuRyo61が運営するバニラのMisskeyインスタンス。
