@@ -2,7 +2,7 @@
 title: Groundpolis
 description: Groundpolisは、Xelticaが開発を先導するMisskeyのフォークである。
 published: true
-date: 2020-11-19T10:18:14.826Z
+date: 2021-08-04T05:10:26.757Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T05:24:35.295Z
@@ -46,7 +46,7 @@ Misskey 本家ではユーザー登録を停止した場合、招待制に変わ
 
 ノートの投稿前に見栄えを確認できる。
 
-![image.png](/image.png)
+![groundpolis-1.png](/ja_jp/software/groundpolis/groundpolis-1.png)
 
 
 ## 稼働中のインスタンス
