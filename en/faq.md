@@ -2,13 +2,11 @@
 title: FAQ
 description: Frequently Asked Questions
 published: true
-date: 2021-08-04T05:22:34.983Z
+date: 2021-08-04T05:23:23.436Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T05:04:12.109Z
 ---
-
-<!-- This translation is based on https://misskey.wiki/faq#%E8%87%AA%E5%88%86%E3%81%AB%E9%96%A2%E4%BF%82%E3%81%AE%E3%81%AA%E3%81%84%E9%80%9A%E7%9F%A5%E3%81%8C%E5%B1%8A%E3%81%8F as of Sep 20, 2020 -->
 
 # Home, Local, Social, Global: What's the difference?
 
