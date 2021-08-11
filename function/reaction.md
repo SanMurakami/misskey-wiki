@@ -2,15 +2,15 @@
 title: リアクション
 description: 投稿に対して簡単な反応を付けられる機能
 published: true
-date: 2020-09-20T08:18:40.423Z
+date: 2021-08-11T07:00:21.128Z
 tags: 
 editor: markdown
 dateCreated: 2020-09-20T08:18:40.423Z
 ---
 
-**リアクション**とは、Misskeyの機能の一つ。投稿に対して通常絵文字で表される反応をつけることができる。
+**リアクション**とは、Misskeyの機能の一つです。投稿に対して通常絵文字で表される反応をつけることができます。
 
-従来は固定された10個の絵文字のみ使用可能であったが、[バージョン10.97.0](https://github.com/syuilo/misskey/blob/develop/CHANGELOG.md#10970)より、それ以外の絵文字や、サーバ管理者が設定した[カスタム絵文字](/function/emojis)でもリアクションに追加可能になっている。
+従来は固定された10個の絵文字のみ使用可能でしたが、[バージョン10.97.0](https://github.com/syuilo/misskey/blob/develop/CHANGELOG.md#10970)より、それ以外の絵文字や、サーバ管理者が設定した[カスタム絵文字](/function/emojis)でもリアクションとして使用可能になっています。
 
 # デフォルトの絵文字一覧
 * 👍 - いいね
