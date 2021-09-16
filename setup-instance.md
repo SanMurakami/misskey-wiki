@@ -2,7 +2,7 @@
 title: インスタンスの構築方法
 description: 自分でインスタンスを構築する方法について
 published: true
-date: 2021-09-16T18:48:33.344Z
+date: 2021-09-16T18:48:51.551Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-12T17:26:39.490Z
@@ -38,7 +38,7 @@ https://portal.aws.amazon.com/billing/signup#/start へアクセスし、AWSの�
 こんな感じでようこそスクリーンが表示される。おめでとう！これで今日から君もAWSマスターだよっ！`Sign in to the Console`から早速コンソールへサインインしよう。
 
 ...っと、これは？
-## 本日の主役「AWS無料利用枠」〜Free Tier
+## 主役「AWS無料利用枠」〜Free Tier
 ![aws_free_tier_2021-01-10_19-45-19.png](/ja_jp/wiki_guide/aws/aws_free_tier_2021-01-10_19-45-19.png)
 そう、これは今回、いや、**今年**の主役：**AWSの12ヶ月無料利用枠**だ！！
 言うのを完全に忘れていたが、筆者は天下のAmazon様に一錢たりとも落とすつもりはない。つまりMisskeyのインスタンスをAWSサーバーに完全無料で建てるつもりなのだーっ。
