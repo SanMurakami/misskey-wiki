@@ -2,7 +2,7 @@
 title: インスタンスの構築方法
 description: 自分でインスタンスを構築する方法について
 published: true
-date: 2021-09-16T19:39:02.420Z
+date: 2021-09-16T20:00:09.458Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-12T17:26:39.490Z
@@ -65,8 +65,33 @@ https://aws.amazon.com/jp/getting-started/
 ![aws_ec2_console_first_2021-01-10_21-41-09.png](/ja_jp/wiki_guide/aws/aws_ec2_console_first_2021-01-10_21-41-09.png)
 なんかこんな画面になりました！
 
-ここからまず始めにするべきことは...えっと...
+ここからまず始めにするべきことは...えっと...あっ、そうだ。
+どこに自分のサーバーを置きたいか決めましょう！（大抵みんな東京に置くにゃ）
 
+## セキュリティグループの作成
+## Amazon VPC
+Virtual Private Cloud
+### CIDRの編集
+### サブネットの編集
+### Egress-Only インターネットゲートウェイの作成
+### ルートテーブルの作成
+#### ルートの編集
+
+## Amazon RDS
+### データベースの作成
+
+## Amazon ElastiCache
+
+## Amazon S3
+### バケットの作成
+
+## Amazon CloudFront
+### CloudFrontディストリビューションの作成
+
+## EC2インスタンス！
+### Amazon Machine Image
+### キーペアの作成
+### 
 
 # Raspberry Piで簡単にMisskeyインスタンスを構築する方法
 
