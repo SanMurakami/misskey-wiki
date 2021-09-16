@@ -2,7 +2,7 @@
 title: インスタンスの構築方法
 description: 自分でインスタンスを構築する方法について
 published: true
-date: 2021-09-16T20:31:01.202Z
+date: 2021-09-16T22:36:36.310Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-12T17:26:39.490Z
@@ -68,10 +68,28 @@ https://aws.amazon.com/jp/getting-started/
 ここからまず始めにするべきことは...えっと...あっ、そうだ。
 ### アベイラビリティゾーン
 どこに自分のサーバーを置きたいか決めましょう！（大抵みんな東京に置くにゃ）
-因みに筆者はアメリカのオレゴン州に置きました。えっ？どうしてっかって？そりゃ、なんか安そうだったからー。
-どこに自分のサーバーを置くのを決めるのは地味に大事です。だって例えば後に色〻作ってるときに全部別々の場所にあったら使えないから。筆者は当初東京にセキュリティグループを作ってオレゴンにインスタンスを建ててしまい失敗しました。
+どこに自分のサーバーを置くのを決めるのは地味に大事です。だって例えば後に色〻作ってるときに全部別々の場所にあったら使えないから。（[因みに筆者は当初オハイオ州にセキュリティグループを作ったりオレゴン州にインスタンスを建ててしまったりで失敗しました](htps://misskey.io/notes/8gvtqd8mf2)）
+![kawanerio_ohio_oregon_note_2021-09-17_07-28-20.png](/ja_jp/wiki_guide/aws/kawanerio_ohio_oregon_note_2021-09-17_07-28-20.png)
 
 ## セキュリティグループの作成
+セキュリティグループとは所謂ファイアーウォール的なやつです。わるいウイルスとかの侵入を防ぐそうです。EC2はデフォルトで何もしなくても必ず初期設定としてセキュリティグループがついてくるそうです。
+### アベイラビリティゾーンの再確認
+まず自分のアベイラビリティゾーン（なんか右上に出てくる地名）を再確認しましょう。例えば東京にサーバーを建てたい場合は、[EC2コンソールへサインイン](https://console.aws.amazon.com/console/home?nc2=h_ct&src=header-signin#)し、自分のアベイラビリティゾーン（右上の地名）を`アジア・パシフィック（東京）ap-northeast-1`へと変更しましょう。
+![aws_oregon_change_2021-09-17_07-05-23.png](/ja_jp/wiki_guide/aws/aws_oregon_change_2021-09-17_07-05-23.png)
+アベイラビリティゾーンをしっかりと決めたら次にセキュリティグループを作成します。左下の`ネットワーク＆セキュリティ`にある`セキュリティグループ`をクリックします。
+![aws_security_group_awrrow_2021-01-10_21-50-23.png](/ja_jp/wiki_guide/aws/aws_security_group_awrrow_2021-01-10_21-50-23.png)
+セキュリティグループのページにこれたら、右上にあるオレンジ色の`セキュリティグループを作成`と書いてあるボタンを押します。
+![aws_security_group_create_2021-01-10_21-50-23.png](/ja_jp/wiki_guide/aws/aws_security_group_create_2021-01-10_21-50-23.png)
+
+> この[リンク](https://us-west-2.console.aws.amazon.com/ec2/v2/home?region=us-west-2#SecurityGroups:)をクリックすると**オレゴン州のサーバーで**セキュリティグループを作成することができるよっ。 https://us-west-2.console.aws.amazon.com/ec2/v2/home?region=us-west-2#SecurityGroups:
+{.is-warning}
+
+> この[リンク](
+https://ap-northeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-northeast-1#CreateSecurityGroup:)をクリックすると**東京のサーバーで**セキュリティグループを作成することができるよっ。 
+https://ap-northeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-northeast-1#CreateSecurityGroup:
+{.is-warning}
+
+
 
 ## Amazon VPC 編
 Virtual Private Cloud
