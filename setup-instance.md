@@ -2,7 +2,7 @@
 title: インスタンスの構築方法
 description: 自分でインスタンスを構築する方法について
 published: true
-date: 2021-09-16T19:33:31.669Z
+date: 2021-09-16T19:39:02.420Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-12T17:26:39.490Z
@@ -64,7 +64,8 @@ https://aws.amazon.com/jp/getting-started/
 そうすると...
 ![aws_ec2_console_first_2021-01-10_21-41-09.png](/ja_jp/wiki_guide/aws/aws_ec2_console_first_2021-01-10_21-41-09.png)
 なんかこんな画面になりました！
-ここからまず始めにするべきことは...
+
+ここからまず始めにするべきことは...えっと...
 
 
 # Raspberry Piで簡単にMisskeyインスタンスを構築する方法
