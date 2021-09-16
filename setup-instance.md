@@ -2,7 +2,7 @@
 title: インスタンスの構築方法
 description: 自分でインスタンスを構築する方法について
 published: true
-date: 2021-09-16T20:00:09.458Z
+date: 2021-09-16T20:12:34.014Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-12T17:26:39.490Z
@@ -69,29 +69,55 @@ https://aws.amazon.com/jp/getting-started/
 どこに自分のサーバーを置きたいか決めましょう！（大抵みんな東京に置くにゃ）
 
 ## セキュリティグループの作成
-## Amazon VPC
-Virtual Private Cloud
-### CIDRの編集
-### サブネットの編集
-### Egress-Only インターネットゲートウェイの作成
-### ルートテーブルの作成
-#### ルートの編集
 
-## Amazon RDS
-### データベースの作成
+## Amazon VPC 編
+Virtual Private Cloud
+## CIDRの編集
+## サブネットの編集
+## Egress-Only インターネットゲートウェイの作成
+## ルートテーブルの作成
+### ルートの編集
+
+## Amazon RDS 編
+## データベースの作成
 
 ## Amazon ElastiCache
 
-## Amazon S3
-### バケットの作成
+## Amazon S3 編
+## バケットの作成
 
-## Amazon CloudFront
-### CloudFrontディストリビューションの作成
+## Amazon CloudFront 編
+## CloudFrontディストリビューションの作成
 
 ## EC2インスタンス！
-### Amazon Machine Image
-### キーペアの作成
-### 
+
+## Amazon Machine Image
+
+## キーペアの作成
+
+## IPアドレスの編集
+
+## ロードバランサーの設定
+
+## 証明書のリクエスト
+
+## ドメイン編
+### 忘れてたドメインレジストレーション
+
+## カスタムレコードの作成
+
+## 証明書ふたたび──
+
+## そしてSSHへ・・・
+### インストール祭りだぜぇ！
+#### Node.js
+#### Git
+#### ffmpeg
+
+## 無料利用枠の嘆きその一「インスタンス上でのビルドが不可能」
+### メモリが1GBしかなければ、ローカルでビルドして、成果物を送ればいいじゃない？
+
+
 
 # Raspberry Piで簡単にMisskeyインスタンスを構築する方法
 
