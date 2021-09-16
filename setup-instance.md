@@ -2,13 +2,13 @@
 title: インスタンスの構築方法
 description: 自分でインスタンスを構築する方法について
 published: true
-date: 2021-09-16T18:48:51.551Z
+date: 2021-09-16T19:33:31.669Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-12T17:26:39.490Z
 ---
 
-Misskeyにおける最大の特徴の一つが「オープンソース」ということだ。これはつまりMisskeyを構築するためのコードは[全てネット上で無償公開](https://github.com/misskey-dev/misskey)されており、<small>(やる気さえあれば)</small>**誰でも自分だけのソーシャルネットワークをゼロから構築できるということ**だ。
+Misskeyにおける最大の特徴の一つが「オープンソース」ということだ。これはつまりMisskeyを構築するための手順からソースコードまで[全てネット上で無償公開](https://github.com/misskey-dev/misskey/blob/master/docs/setup.ja.md)されており、<small>(やる気さえあれば)</small>**誰でも自分だけのソーシャルネットワークをゼロから構築できるということ**だ。
 このページでは主にAmazon Web Service(アマゾン・ウェブ・サービス、通称:AWS)を用いたMisskeyサーバーの構築方法を解説する。
 
 # AWSで自分だけのMisskeyインスタンスを構築する方法完全解説
@@ -42,9 +42,29 @@ https://portal.aws.amazon.com/billing/signup#/start へアクセスし、AWSの�
 ![aws_free_tier_2021-01-10_19-45-19.png](/ja_jp/wiki_guide/aws/aws_free_tier_2021-01-10_19-45-19.png)
 そう、これは今回、いや、**今年**の主役：**AWSの12ヶ月無料利用枠**だ！！
 言うのを完全に忘れていたが、筆者は天下のAmazon様に一錢たりとも落とすつもりはない。つまりMisskeyのインスタンスをAWSサーバーに完全無料で建てるつもりなのだーっ。
+
 > 筆者が記事を書いた2021年のAWSには「12ヶ月無料利用枠」というのがあって、はじめてのユーザーさんに限って、一番ちっちゃいサーバーなら12ヶ月だけ無料で使ってもいいよーっていうサービスがあったんだよ！
 {.is-info}
 
+ちなみにこれが今回こっち側の道具として存分使わせてもらう[無料利用枠のFAQ](https://aws.amazon.com/jp/free/free-tier-faqs/)だ。
+本解説は完全に無料で抑えようとするので、もし「お金は無いけど鯖は欲しい」って人が居れば、この[FAQ](https://aws.amazon.com/jp/free/free-tier-faqs/)をめっちゃ読もう。
+
+## ようこそAWSへ！
+<small>~~デジャヴかな？~~</small> 色々なボタンをポチポチした擧げ句、ついにこんな画面へとたどり着くことであろう。
+https://aws.amazon.com/jp/getting-started/
+![aws_getting_started_2021-01-10_21-01-58.png](/ja_jp/wiki_guide/aws/aws_getting_started_2021-01-10_21-01-58.png)
+ここからまぁすぐにサーバー作ろうぜｗｗと続けて行ってもいいのだが、初心者さんなら（たとえ理解できなくても）まず[紹介動画](https://aws.amazon.com/jp/getting-started/fundamentals-overview/?e=gs2020&p=gsrc)と[AWSの主要概念](https://aws.amazon.com/jp/getting-started/fundamentals-core-concepts/?e=gs2020&p=gsrc)に目を通しておいて損は無いだろう。そんなに長くないし、ポップコーンでもつまんで見ましょうよ。
+
+## Amazon EC2
+さっきのドキュメンテーションちゃんと目を通したー？それならこちらからもおめでとう！もう君は実質AWS完全理解者と言っても差支へないことだろうーっ。
+![aws_solution_list_2021-01-10_21-20-03.png](/ja_jp/wiki_guide/aws/aws_solution_list_2021-01-10_21-20-03.png)
+さてと、今回はそんな星の数ほどあるAWSサービスのなかでもサーバーに関するもの...そう、[Amazon Elastic Compute Cloud](https://aws.amazon.com/jp/ec2/)、通称「EC2」を使って、Amazonの仮想サーバー上にMisskeyのインスタンスを建てて、世界中どこでもだれでもアクセスできちゃうSNSを構築しようって話なのですー！
+![aws_ec2_2021-01-10_21-20-18.png](/ja_jp/wiki_guide/aws/aws_ec2_2021-01-10_21-20-18.png)
+早速「Amazon EC2の使用を開始する」を押してみましょう！
+そうすると...
+![aws_ec2_console_first_2021-01-10_21-41-09.png](/ja_jp/wiki_guide/aws/aws_ec2_console_first_2021-01-10_21-41-09.png)
+なんかこんな画面になりました！
+ここからまず始めにするべきことは...
 
 
 # Raspberry Piで簡単にMisskeyインスタンスを構築する方法
@@ -57,3 +77,10 @@ MisskeyはVPSなどのサービス利用することで簡単に構築するこ�
 # Dockerを使った構築方法の解説
 
 [Misskeyリポジトリには、Dockerを使った構築方法](https://github.com/misskey-dev/misskey/blob/develop/docs/docker.ja.md)についても解説書があります。
+
+# 参考文献
+
+AWSのサイト https://aws.amazon.com/jp/
+AWS無料利用枠に関するよくある質問 https://aws.amazon.com/jp/free/free-tier-faqs/
+AWSの基礎：紹介動画 https://aws.amazon.com/jp/getting-started/fundamentals-overview/?e=gs2020&p=gsrc
+AWSの主要概念 https://aws.amazon.com/jp/getting-started/fundamentals-core-concepts/?e=gs2020&p=fundoverview
