@@ -2,7 +2,7 @@
 title: インスタンスの構築方法
 description: 自分でインスタンスを構築する方法について
 published: true
-date: 2021-09-16T22:36:36.310Z
+date: 2021-09-17T20:37:52.024Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-12T17:26:39.490Z
@@ -81,16 +81,40 @@ https://aws.amazon.com/jp/getting-started/
 セキュリティグループのページにこれたら、右上にあるオレンジ色の`セキュリティグループを作成`と書いてあるボタンを押します。
 ![aws_security_group_create_2021-01-10_21-50-23.png](/ja_jp/wiki_guide/aws/aws_security_group_create_2021-01-10_21-50-23.png)
 
-> この[リンク](https://us-west-2.console.aws.amazon.com/ec2/v2/home?region=us-west-2#SecurityGroups:)をクリックすると**オレゴン州のサーバーで**セキュリティグループを作成することができるよっ。 https://us-west-2.console.aws.amazon.com/ec2/v2/home?region=us-west-2#SecurityGroups:
-{.is-warning}
-
 > この[リンク](
 https://ap-northeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-northeast-1#CreateSecurityGroup:)をクリックすると**東京のサーバーで**セキュリティグループを作成することができるよっ。 
 https://ap-northeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-northeast-1#CreateSecurityGroup:
 {.is-warning}
 
+そうすると「セキュリティグループを作成」の画面にこれるハズだ。AWSはかなりユーザーフレンドリーで、殆どの記入欄の隣に「情報」リンクがあり、それらをクリックすることで自分が何をしているのかの詳細を知ることができる。
 
+ここでは以下のことを記入する：
+```
+基本的な詳細
+	セキュリティグループ名：local
+	説明：local
+  VPC：vpc-fc73909a（これはなんか勝手に記入されているやつなので無視でおｋ）
+```
+次に`インバウンドルール`から`ルールを追加`し、`タイプ`を`すべてのトラフィック`、`ソース`を`カスタム`の`172.0.0.0/6`へと設定。説明はまぁなんか適当に`local_inbound`とでも名付けておく。
+![aws_securitygroup_create_2021-01-10_22-35-53.png](/ja_jp/wiki_guide/aws/aws_securitygroup_create_2021-01-10_22-35-53.png)
+それじゃあアウトバウンドはどうなのさ？って思うだろ？これに関しては全く分からなかったので筆者はMisskeyの住民に問いかけることにした。
+https://misskey.io/notes/8gvuifvotp
+![misskey_note_aws_outbound_rule_2021-09-18_05-09-05.png](/ja_jp/wiki_guide/aws/misskey_note_aws_outbound_rule_2021-09-18_05-09-05.png)
 
+> 当時はまだ[Misskey Forum](https://forum.misskey.io/)といった、便利な質問場がなかったんだよ！今ここでトラブルってる初心者さんは[Misskey Forum](https://forum.misskey.io/)で質問するか、[Misskey Discord](https://discord.com/invite/P4yYqYBjEp)等で聞いたほうが返信率があがると思うよ！
+{.is-info}
+
+そうするとなんとゐてるま氏から返信がっ!
+https://misskey.io/notes/8gvwaibbe5
+![misskey_note_aws_outbound_rule_reply_2021-09-18_05-19-04.png](/ja_jp/wiki_guide/aws/misskey_note_aws_outbound_rule_reply_2021-09-18_05-19-04.png)
+目茶苦茶難解なことを言っているように感じるが、要は「触らなくておｋ」ということらしい。セキュリティグループを新規作成する際アウトバウンドルールはデフォルトで始めから`すべてのトラフィック`の`0.0.0.0/0`になってるのでそれで良いらしい。あれだ、「触らぬアウトバウンドルールにバグはなし」ってやつだ。
+
+最後にタグをガン無視してページの一番下にある「セキュリティグループを作成」のボタンを押す。
+![aws_create_security_group_2021-09-18_05-30-19.png](/ja_jp/wiki_guide/aws/aws_create_security_group_2021-09-18_05-30-19.png)
+### おめでとう！
+![aws_security_group_complete_2021-01-11_01-51-38.png](/ja_jp/wiki_guide/aws/aws_security_group_complete_2021-01-11_01-51-38.png)
+ページ上部に「セキュリティグループが正常に作成されました」と表示されれば成功だ。おめでとう！
+今度はVPCを編集するよ！
 ## Amazon VPC 編
 Virtual Private Cloud
 ## CIDRの編集
