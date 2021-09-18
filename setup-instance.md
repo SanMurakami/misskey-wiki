@@ -2,7 +2,7 @@
 title: インスタンスの構築方法
 description: 自分でインスタンスを構築する方法について
 published: true
-date: 2021-09-18T07:09:16.640Z
+date: 2021-09-18T20:18:36.316Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-12T17:26:39.490Z
@@ -81,10 +81,11 @@ https://aws.amazon.com/jp/getting-started/
 セキュリティグループのページにこれたら、右上にあるオレンジ色の`セキュリティグループを作成`と書いてあるボタンを押します。
 ![aws_security_group_create_2021-01-10_21-50-23.png](/ja_jp/wiki_guide/aws/aws_security_group_create_2021-01-10_21-50-23.png)
 
+> 【ショートカット】
 > この[リンク](
-https://ap-northeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-northeast-1#CreateSecurityGroup:)をクリックすると**東京のサーバーで**セキュリティグループを作成することができるよっ。 
-https://ap-northeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-northeast-1#CreateSecurityGroup:
-{.is-warning}
+https://console.aws.amazon.com/ec2/v2/home?#CreateSecurityGroup:)をクリックするとセキュリティグループを作成することができるよっ。 
+> https://console.aws.amazon.com/ec2/v2/home?#CreateSecurityGroup:
+{.is-success}
 
 そうすると「セキュリティグループを作成」の画面にこれるハズだ。AWSはかなりユーザーフレンドリーで、殆どの記入欄の隣に「情報」リンクがあり、それらをクリックすることで自分が何をしているのかの詳細を知ることができる。
 
@@ -113,11 +114,23 @@ https://misskey.io/notes/8gvwaibbe5
 ![aws_create_security_group_2021-09-18_05-30-19.png](/ja_jp/wiki_guide/aws/aws_create_security_group_2021-09-18_05-30-19.png)
 ### おめでとう！
 ![aws_security_group_complete_2021-01-11_01-51-38.png](/ja_jp/wiki_guide/aws/aws_security_group_complete_2021-01-11_01-51-38.png)
-ページ上部に「セキュリティグループが正常に作成されました」と表示されれば成功だ。おめでとう！
+ページ上部に「セキュリティグループが正常に作成されました」と表示されれば成功だ。
 今度はVPCを編集するよ！
 ## Amazon VPC 編
-[Amazon Virtual Private Cloud](https://console.aws.amazon.com/vpc/)（アマゾン・バーチャル・プライベートクラウド、通称:VPC）、
+[Amazon Virtual Private Cloud](https://console.aws.amazon.com/vpc/)（アマゾン・バーチャル・プライベートクラウド、通称:VPC）とは、まぁ言わばネットワークルーターのようなものだ（たぶん）。これを設定することでネットワークをあっちに向けたりこっちに向けたりすることができるっ...らしい。
+EC2とは違うサービスなので、まずは検索してVPCのダッシュボードまで行こう。
+![aws_search_vpc_2_2021-09-18_15-05-07.png](/ja_jp/wiki_guide/aws/aws_search_vpc_2_2021-09-18_15-05-07.png)
+検索箱に`VPC`と打ち込むか、`すべてのサービス`の`セットワーキングとコンテンツ配信`のところにある`VPC`をクリックすることでVPCダッシュボードを開くことができる。
+![aws_search_vpc_2021-09-18_15-04-24.png](/ja_jp/wiki_guide/aws/aws_search_vpc_2021-09-18_15-04-24.png)
+そして左側の`VIRTUAL PRIVATE CLOUD`内にある`VPC`をクリックする。
+![aws_vpc_2021-01-11_01-53-26.png](/ja_jp/wiki_guide/aws/aws_vpc_2021-01-11_01-53-26.png)
+そこからVPCを作成をクリック...**ではなく**、すぐ隣にある**アクション**リストを開き、
+![aws_vpc_create_action_2021-01-11_01-53-26.png](/ja_jp/wiki_guide/aws/aws_vpc_create_action_2021-01-11_01-53-26.png)
+`CIDRの編集`を選ぶ。
+![aws_action_cidr_2021-01-10_23-12-46.png](/ja_jp/wiki_guide/aws/aws_action_cidr_2021-01-10_23-12-46.png)
 ## CIDRの編集
+![aws_cidr_edit_2021-01-10_23-13-18.png](/ja_jp/wiki_guide/aws/aws_cidr_edit_2021-01-10_23-13-18.png)
+
 ## サブネットの編集
 ## Egress-Only インターネットゲートウェイの作成
 ## ルートテーブルの作成
