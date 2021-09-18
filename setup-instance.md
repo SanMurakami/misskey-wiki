@@ -2,7 +2,7 @@
 title: インスタンスの構築方法
 description: 自分でインスタンスを構築する方法について
 published: true
-date: 2021-09-17T20:37:52.024Z
+date: 2021-09-18T07:09:16.640Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-12T17:26:39.490Z
@@ -116,7 +116,7 @@ https://misskey.io/notes/8gvwaibbe5
 ページ上部に「セキュリティグループが正常に作成されました」と表示されれば成功だ。おめでとう！
 今度はVPCを編集するよ！
 ## Amazon VPC 編
-Virtual Private Cloud
+[Amazon Virtual Private Cloud](https://console.aws.amazon.com/vpc/)（アマゾン・バーチャル・プライベートクラウド、通称:VPC）、
 ## CIDRの編集
 ## サブネットの編集
 ## Egress-Only インターネットゲートウェイの作成
