@@ -2,7 +2,7 @@
 title: インスタンスの構築方法
 description: 自分でインスタンスを構築する方法について
 published: true
-date: 2021-09-18T20:18:36.316Z
+date: 2021-09-18T22:09:00.047Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-12T17:26:39.490Z
@@ -127,10 +127,24 @@ EC2とは違うサービスなので、まずは検索してVPCのダッシュ�
 そこからVPCを作成をクリック...**ではなく**、すぐ隣にある**アクション**リストを開き、
 ![aws_vpc_create_action_2021-01-11_01-53-26.png](/ja_jp/wiki_guide/aws/aws_vpc_create_action_2021-01-11_01-53-26.png)
 `CIDRの編集`を選ぶ。
+> `CIDRの編集`はリストにあるVPCを選択してないと（左の青いチェックボックスが選択された状態じゃないと）クリックすることが出来ないよっ。
+{.is-info}
+
 ![aws_action_cidr_2021-01-10_23-12-46.png](/ja_jp/wiki_guide/aws/aws_action_cidr_2021-01-10_23-12-46.png)
 ## CIDRの編集
-![aws_cidr_edit_2021-01-10_23-13-18.png](/ja_jp/wiki_guide/aws/aws_cidr_edit_2021-01-10_23-13-18.png)
-
+Classless Inter-Domain Routing (クラスレス・インタードメイン・ルーティング、通称:CIDR「サイダー」)とは、256では少なすぎて65532では多すぎるクラスの概念をなくしたIPアドレスの斬新的なおいしいふりかけである^[[要出典:CIDR](https://ja.wikipedia.org/wiki/Classless_Inter-Domain_Routing)]。IPアドレスの最後に`/`がついていることで普通のIPアドレスと見分けることができる。例:`172.31.0.0/16`
+![aws_cidr_edit_2_2021-01-10_23-13-18.png](/ja_jp/wiki_guide/aws/aws_cidr_edit_2_2021-01-10_23-13-18.png)
+ここから`新しいIPv6 CIDRを追加`する。
+![aws_cidr_createnewipv6_2021-01-10_23-13-23.png](/ja_jp/wiki_guide/aws/aws_cidr_createnewipv6_2021-01-10_23-13-23.png)
+「IPv6 CIDR ブロック」は「Amazon 提供の IPv6 CIDR ブロック」に。
+「ネットワークボーダーグループ」は自分のアベイラビリティゾーン（のコードネームみたいなやつ）に設定する。例:「東京」なら`ap-northeast-1`
+選択が終わったら`CIDRを選択`する。
+### おめでとう！
+IPv6 CIDRの関連付けに成功したら、ページ上部に`IPv6 CIDRの関連付けに成功しました`というメッセージがでてくるハズだ。
+![aws_cidripv6_comp_2021-01-10_23-14-25.png](/ja_jp/wiki_guide/aws/aws_cidripv6_comp_2021-01-10_23-14-25.png)
+右下の`閉じる`を押し、`お使いのVPC`画面へと戻る。
+![aws_vpc_after_asso_2021-01-10_23-14-36.png](/ja_jp/wiki_guide/aws/aws_vpc_after_asso_2021-01-10_23-14-36.png)
+このスクリーンに表示されている情報（特に`VPC ID  vpc-fc73909a`）は後に必要となってくるので、今の内にこのウィンドウをスクショしておこう。間違ってもネットに公開しちゃダメだぞ。
 ## サブネットの編集
 ## Egress-Only インターネットゲートウェイの作成
 ## ルートテーブルの作成
@@ -194,3 +208,4 @@ AWSのサイト https://aws.amazon.com/jp/
 AWS無料利用枠に関するよくある質問 https://aws.amazon.com/jp/free/free-tier-faqs/
 AWSの基礎：紹介動画 https://aws.amazon.com/jp/getting-started/fundamentals-overview/?e=gs2020&p=gsrc
 AWSの主要概念 https://aws.amazon.com/jp/getting-started/fundamentals-core-concepts/?e=gs2020&p=fundoverview
+
