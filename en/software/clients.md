@@ -2,7 +2,7 @@
 title: Clients
 description: Misskey Client Apps
 published: true
-date: 2025-01-28T09:09:01.675Z
+date: 2025-01-28T18:25:54.162Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-01T06:24:41.855Z
@@ -15,6 +15,7 @@ Misskey has no official client application, but there are several unofficial Mis
 |Akagitsune|No|No|[Yes](https://github.com/YuzuRyo61/Akagitsune/releases/latest)|[Yes](https://github.com/YuzuRyo61/Akagitsune/releases/latest)|[Yes](https://github.com/YuzuRyo61/Akagitsune/releases/latest)|No|en-US|[YuzuRyo61/Akagitsune on GitHub](https://github.com/YuzuRyo61/Akagitsune)|
 |Aria|[Yes](https://apps.apple.com/app/aria-for-misskey/id6499410880)|[Yes](https://play.google.com/store/apps/details?id=com.poppingmoon.aria)|[Yes](https://github.com/poppingmoon/aria/releases/latest)|[Yes](https://apps.apple.com/app/aria-for-misskey/id6499410880)|[Yes](https://snapcraft.io/aria)|No|Misskey supported languages|[poppingmoon/aria on GitHub](https://github.com/poppingmoon/aria)|
 |[BaconJam](https://96enu-kuroinu.github.io/BaconJamManual/)|No|[Yes](https://play.google.com/store/apps/details?id=com.falhongcha.baconjam&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)|No|No|No|No|ja?|- ([Web Site](https://github.com/96ENU-kuroinu/BaconJamManual))|
+|[Dhaaga](https://suvam.io/jp/dhaaga)|Soon™|[Yes](https://play.google.com/store/apps/details?id=io.suvam.dhaaga)|No|No|No|No|en, ja|[suvam0451/dhaaga](https://github.com/suvam0451/dhaaga)|
 |Echo|[Yes](https://apps.apple.com/jp/app/echo/id323813244)|No|No|[Yes](https://apps.apple.com/jp/app/echo/id323813244)|No|No|ja-JP?|-|
 |[Flare](https://flareapp.moe)|[Testing](https://testflight.apple.com/join/iYP7QZME)|[Yes](https://play.google.com/store/apps/details?id=dev.dimension.flare&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)|[Work in progress](https://github.com/DimensionDev/Flare/pull/620)|[Work in progress](https://github.com/DimensionDev/Flare/pull/620)|[Work in progress](https://github.com/DimensionDev/Flare/pull/620)|No|ar, cs, da, de, el, es, fi, fr, it, ja, nl,, no, pl, pt, pt-BR, ro, ru, sv, uk, zh-CN|[DimensionDev/Flare on GitHub](https://github.com/DimensionDev/Flare)|
 |Flosskey|No|[Yes](https://github.com/ch1ak1STR/Flosskey/releases)|No|No|No|No|ja-JP|[ch1ak1STR/Flosskey on GitHub](https://github.com/ch1ak1STR/Flosskey)|
