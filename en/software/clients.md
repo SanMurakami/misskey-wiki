@@ -2,7 +2,7 @@
 title: Clients
 description: Misskey Client Apps
 published: true
-date: 2025-03-01T03:52:01.848Z
+date: 2025-03-01T03:59:58.489Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-01T06:24:41.855Z
@@ -16,7 +16,6 @@ Misskey has no official client application, but there are several unofficial Mis
 |Aria|[Yes](https://apps.apple.com/app/aria-for-misskey/id6499410880)|[Yes](https://play.google.com/store/apps/details?id=com.poppingmoon.aria)|[Yes](https://github.com/poppingmoon/aria/releases/latest)|[Yes](https://apps.apple.com/app/aria-for-misskey/id6499410880)|[Yes](https://snapcraft.io/aria)|No|Misskey supported languages|[poppingmoon/aria on GitHub](https://github.com/poppingmoon/aria)|
 |[BaconJam](https://96enu-kuroinu.github.io/BaconJamManual/)|No|[Yes](https://play.google.com/store/apps/details?id=com.falhongcha.baconjam&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)|No|No|No|No|ja?|- ([Web Site](https://github.com/96ENU-kuroinu/BaconJamManual))|
 |[Dhaaga](https://suvam.io/dhaaga)|Soon™|[Yes](https://play.google.com/store/apps/details?id=io.suvam.dhaaga)|No|No|No|No|en, ja|[suvam0451/dhaaga](https://github.com/suvam0451/dhaaga)|
-|Echo|[Yes](https://apps.apple.com/jp/app/echo/id323813244)|No|No|[Yes](https://apps.apple.com/jp/app/echo/id323813244)|No|No|ja-JP?|-|
 |[Flare](https://flareapp.moe)|[Testing](https://testflight.apple.com/join/iYP7QZME)|[Yes](https://play.google.com/store/apps/details?id=dev.dimension.flare&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)|[Work in progress](https://github.com/DimensionDev/Flare/pull/620)|[Work in progress](https://github.com/DimensionDev/Flare/pull/620)|[Work in progress](https://github.com/DimensionDev/Flare/pull/620)|No|ar, cs, da, de, el, es, fi, fr, it, ja, nl,, no, pl, pt, pt-BR, ro, ru, sv, uk, zh-CN|[DimensionDev/Flare on GitHub](https://github.com/DimensionDev/Flare)|
 |Flosskey|No|[Yes](https://github.com/ch1ak1STR/Flosskey/releases)|No|No|No|No|ja-JP|[ch1ak1STR/Flosskey on GitHub](https://github.com/ch1ak1STR/Flosskey)|
 |Kimis|[Yes](https://apps.apple.com/app/kimis-a-client-for-misskey/id1667275125)|No|No|[Yes](https://apps.apple.com/app/kimis-a-client-for-misskey/id1667275125)|No|No|en-US|[Lakr233/Kimis on GitHub](https://github.com/Lakr233/Kimis)|
@@ -32,6 +31,7 @@ Misskey has no official client application, but there are several unofficial Mis
 |MoeKey|?|[Yes](https://github.com/MoeKeyDev/MoeKey/releases)|[Yes](https://github.com/MoeKeyDev/MoeKey/releases)|[Yes](https://github.com/MoeKeyDev/MoeKey/releases)|[Yes](https://github.com/MoeKeyDev/MoeKey/releases)|?|en-US, ja-JP, zh-CN|[MoeKeyDev/MoeKey on GitHub](https://github.com/MoeKeyDev/MoeKey)|
 |MPen|[Yes](https://apps.apple.com/app/mpen/id6475402927)|No|No|[Yes](https://apps.apple.com/app/mpen/id6475402927)|No|No|ja?|-|
 |[OpenTween](https://www.opentween.org/)|No|No|[Yes](https://github.com/opentween/OpenTween/releases)|No|No|No|ja?|[opentween/OpenTween on GitHub](https://github.com/opentween/OpenTween)|
+|Ore2|[Yes](https://apps.apple.com/app/id1107176601)|No|No|[Yes](https://apps.apple.com/app/id1107176601)|No|No|ja-JP?|-|
 |[osukey](https://zenn.dev/sim1222/articles/5b289c20545817)|[Yes(osu)](https://github.com/osukey/osukey)|[Yes(osu)](https://github.com/osukey/osukey)|[Yes(osu)](https://github.com/osukey/osukey)|[Yes(osu)](https://github.com/osukey/osukey)|[Yes(osu)](https://github.com/osukey/osukey)|No|ja?| [osukey/osukey on GitHub](https://github.com/osukey/osukey)|
 |[PSkey](https://github.com/ibuki2003/pskey/wiki)|No|[Yes](https://play.google.com/store/apps/details?id=dev.fuwa.pskey)|No|No|No|No|ja-JP|[ibuki2003/pskey - GitHub](https://github.com/ibuki2003/pskey)|
 |[SoraSNS](https://smartsofuto.co.jp/apps)|[Yes](https://apps.apple.com/app/id6450969760)|No|No|[Yes](https://apps.apple.com/app/id6450969760)|No|No|fr, ja, kr, es, zh-CN, zh-TW|-|
