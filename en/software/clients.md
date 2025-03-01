@@ -2,7 +2,7 @@
 title: Clients
 description: Misskey Client Apps
 published: true
-date: 2025-03-01T03:59:58.489Z
+date: 2025-03-01T04:01:44.936Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-01T06:24:41.855Z
@@ -34,7 +34,7 @@ Misskey has no official client application, but there are several unofficial Mis
 |Ore2|[Yes](https://apps.apple.com/app/id1107176601)|No|No|[Yes](https://apps.apple.com/app/id1107176601)|No|No|ja-JP?|-|
 |[osukey](https://zenn.dev/sim1222/articles/5b289c20545817)|[Yes(osu)](https://github.com/osukey/osukey)|[Yes(osu)](https://github.com/osukey/osukey)|[Yes(osu)](https://github.com/osukey/osukey)|[Yes(osu)](https://github.com/osukey/osukey)|[Yes(osu)](https://github.com/osukey/osukey)|No|ja?| [osukey/osukey on GitHub](https://github.com/osukey/osukey)|
 |[PSkey](https://github.com/ibuki2003/pskey/wiki)|No|[Yes](https://play.google.com/store/apps/details?id=dev.fuwa.pskey)|No|No|No|No|ja-JP|[ibuki2003/pskey - GitHub](https://github.com/ibuki2003/pskey)|
-|[SoraSNS](https://smartsofuto.co.jp/apps)|[Yes](https://apps.apple.com/app/id6450969760)|No|No|[Yes](https://apps.apple.com/app/id6450969760)|No|No|fr, ja, kr, es, zh-CN, zh-TW|-|
+|[SoraSNS](https://mszpro.com/sorasns)|[Yes](https://apps.apple.com/app/id6450969760)|No|No|[Yes](https://apps.apple.com/app/id6450969760)|No|No|fr, ja, kr, es, zh-CN, zh-TW|-|
 |[Takesama](https://takesama.com)|[Yes](https://apps.apple.com/app/takesama/id1622199470)|[Yes](https://play.google.com/store/apps/details?id=com.takesama.app)|No|[Yes](https://apps.apple.com/app/takesama/id1622199470)|No|[Yes](https://app.takesama.com)|ja?|-|
 |[TheDesk](https://thedesk.top/)|No|No|[Yes](https://github.com/cutls/thedesk-next/releases)|[Yes](https://github.com/cutls/thedesk-next/releases)|[Yes](https://github.com/cutls/thedesk-next/releases)|No|ja?|[cutls/thedesk-next on GitHub](https://github.com/cutls/thedesk-next)|
 |[TidyDrive](https://96enu-kuroinu.github.io/TidyDriveManual/)|No|[Yes](https://play.google.com/store/apps/details?id=com.falhongcha.tidy_drive)|[Yes](https://96enu.booth.pm/items/6576327)|No|No|No|ja|- ([Web Site](https://github.com/96ENU-kuroinu/TidyDriveManual))|
