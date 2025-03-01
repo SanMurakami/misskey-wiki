@@ -2,7 +2,7 @@
 title: Clients
 description: Misskey Client Apps
 published: true
-date: 2025-03-01T04:01:44.936Z
+date: 2025-03-01T13:00:59.142Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-01T06:24:41.855Z
@@ -15,7 +15,7 @@ Misskey has no official client application, but there are several unofficial Mis
 |Akagitsune|No|No|[Yes](https://github.com/YuzuRyo61/Akagitsune/releases/latest)|[Yes](https://github.com/YuzuRyo61/Akagitsune/releases/latest)|[Yes](https://github.com/YuzuRyo61/Akagitsune/releases/latest)|No|en-US|[YuzuRyo61/Akagitsune on GitHub](https://github.com/YuzuRyo61/Akagitsune)|
 |Aria|[Yes](https://apps.apple.com/app/aria-for-misskey/id6499410880)|[Yes](https://play.google.com/store/apps/details?id=com.poppingmoon.aria)|[Yes](https://github.com/poppingmoon/aria/releases/latest)|[Yes](https://apps.apple.com/app/aria-for-misskey/id6499410880)|[Yes](https://snapcraft.io/aria)|No|Misskey supported languages|[poppingmoon/aria on GitHub](https://github.com/poppingmoon/aria)|
 |[BaconJam](https://96enu-kuroinu.github.io/BaconJamManual/)|No|[Yes](https://play.google.com/store/apps/details?id=com.falhongcha.baconjam&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)|No|No|No|No|ja?|- ([Web Site](https://github.com/96ENU-kuroinu/BaconJamManual))|
-|[Dhaaga](https://suvam.io/dhaaga)|Soon™|[Yes](https://play.google.com/store/apps/details?id=io.suvam.dhaaga)|No|No|No|No|en, ja|[suvam0451/dhaaga](https://github.com/suvam0451/dhaaga)|
+|[Dhaaga](https://suvam.io/dhaaga)|[Soon™](https://github.com/suvam0451/dhaaga/issues/229)|[Yes](https://play.google.com/store/apps/details?id=io.suvam.dhaaga)|No|No|No|No|en, ja|[suvam0451/dhaaga on GitHub](https://github.com/suvam0451/dhaaga)|
 |[Flare](https://flareapp.moe)|[Testing](https://testflight.apple.com/join/iYP7QZME)|[Yes](https://play.google.com/store/apps/details?id=dev.dimension.flare&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)|[Work in progress](https://github.com/DimensionDev/Flare/pull/620)|[Work in progress](https://github.com/DimensionDev/Flare/pull/620)|[Work in progress](https://github.com/DimensionDev/Flare/pull/620)|No|ar, cs, da, de, el, es, fi, fr, it, ja, nl,, no, pl, pt, pt-BR, ro, ru, sv, uk, zh-CN|[DimensionDev/Flare on GitHub](https://github.com/DimensionDev/Flare)|
 |Flosskey|No|[Yes](https://github.com/ch1ak1STR/Flosskey/releases)|No|No|No|No|ja-JP|[ch1ak1STR/Flosskey on GitHub](https://github.com/ch1ak1STR/Flosskey)|
 |Kimis|[Yes](https://apps.apple.com/app/kimis-a-client-for-misskey/id1667275125)|No|No|[Yes](https://apps.apple.com/app/kimis-a-client-for-misskey/id1667275125)|No|No|en-US|[Lakr233/Kimis on GitHub](https://github.com/Lakr233/Kimis)|
@@ -56,16 +56,17 @@ Misskey has no official client application, but there are several unofficial Mis
 ## EOS (End Of Support) for Misskey
 |App|iOS/iPadOS|Android|Windows|macOS|Linux|Web|Source Code|
 |:-:|:--|:--|:--|:--|:--|:--|:--|
-|ikuradon|[Yes](https://expo.dev/@potpro/potproject-ikuradon)|[Yes](https://expo.dev/@potpro/potproject-ikuradon)|No|No|No|No|[potproject/ikuradon on GitHub](https://github.com/potproject/ikuradon)|
+|ikuradon|~~[Yes](https://expo.dev/@potpro/potproject-ikuradon)~~|~~[Yes](https://expo.dev/@potpro/potproject-ikuradon)~~|No|No|No|No|[potproject/ikuradon on GitHub](https://github.com/potproject/ikuradon)|
 |Subway Tooter|No|[Yes](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter)|No|No|No|No|[tateisu/SubwayTooter on GitHub](https://github.com/tateisu/SubwayTooter)
 |[Whalebird](https://whalebird.social/ja)|No|No|[Yes](https://apps.microsoft.com/store/detail/whalebird/9NBW4CSDV5HC) |[Yes](https://apps.apple.com/us/app/whalebird/id6445864587)|[Yes](https://whalebird.social/ja/downloads)|No|[h3poteto/whalebird-desktop on GitHub](https://github.com/h3poteto/whalebird-desktop)|
 
 ## End of development apps 
 |App|Supported Platform|Source Code|
 |:-:|:--|:--|
-|[Kaiteki](https://kaiteki.app/)|[Android](https://kaiteki.app/get/android/), [Windows](https://kaiteki.app/get/windows/), [Linux](https://kaiteki.app/get/linux/), [Web](https://web.kaiteki.app)|[Kaiteki-Fedi/Kaiteki on GitHub](https://github.com/Kaiteki-Fedi/Kaiteki/), [TransFem-org/Kaiteki/kaiteki on ActivityPub.Software](https://activitypub.software/TransFem-org/Kaiteki/kaiteki)|
+|Echo|~~[iOS/iPadOS](https://apps.apple.com/jp/app/echo/id323813244)~~|-|
+|~~[Kaiteki](https://kaiteki.app/)~~|~~[Android](https://kaiteki.app/get/android/)~~, ~~[Windows](https://kaiteki.app/get/windows/)~~, ~~[Linux](https://kaiteki.app/get/linux/)~~, ~~[Web](https://web.kaiteki.app)~~|[Kaiteki-Fedi/Kaiteki on GitHub](https://github.com/Kaiteki-Fedi/Kaiteki/), [TransFem-org/Kaiteki/kaiteki on ActivityPub.Software](https://activitypub.software/TransFem-org/Kaiteki/kaiteki)|
 |MissRirica|~~[iOS/iPadOS](https://apps.apple.com/app/missririca/id1659214999)~~, ~~[Android](https://play.google.com/store/apps/details?id=space.riinswork.missririca)~~, [Web](http://miss-ririca.vercel.app/)|[fruitriin/missRirica-client on GitHub](https://github.com/fruitriin/missRirica-client)|
-|SocialHub|[iOS/iPadOS](https://apps.apple.com/jp/app/id1474451582)|[uakihir0/SocialHub on GitHub](https://github.com/uakihir0/SocialHub)|
+|SocialHub|~~[iOS/iPadOS](https://apps.apple.com/jp/app/id1474451582)~~|[uakihir0/SocialHub on GitHub](https://github.com/uakihir0/SocialHub)|
 |[TheDesk(~v24)](https://thedesk.top/)|~~[Windows](https://www.microsoft.com/store/productId/9P2NDNZ0GWZF)~~, [macOS](https://github.com/cutls/TheDesk/releases), [Linux](https://snapcraft.io/thedesk)|[cutls/TheDesk on GitHub](https://github.com/cutls/TheDesk)|
 
 # Extensions & Plugins
