@@ -2,7 +2,7 @@
 title: Clients
 description: Misskey Client Apps
 published: true
-date: 2025-01-28T18:26:45.551Z
+date: 2025-03-01T03:52:01.848Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-01T06:24:41.855Z
@@ -28,17 +28,16 @@ Misskey has no official client application, but there are several unofficial Mis
 |MissFARM|[Yes](https://apps.apple.com/jp/app/missfarm/id6468420277)|No|No|[Yes](https://apps.apple.com/app/missfarm/id6468420277)|No|No|en|-|
 |[Misskey.io_MultiTimeLine](https://misskey.io/@yyya_nico/pages/multi_tl) (**NOT** Misskey.io Official)|No|No|No|No|No|[Yes](https://misskeytimeline.yyya-nico.co)|ja?|[yyya-nico/Misskey.io_MultiTimeline on GitHub](https://github.com/yyya-nico/Misskey.io_MultiTimeline)|
 |MissLI|No|No|No|No|No|[Yes](https://uboar.github.io/missli/)|ja?|[uboar/missli on GitHub](https://github.com/uboar/missli)|
-|MissRirica|[Yes](https://apps.apple.com/app/missririca/id1659214999) |~~[Yes](https://play.google.com/store/apps/details?id=space.riinswork.missririca)~~ Deleted|No|No|No|[Yes](http://miss-ririca.vercel.app/)|en, ja, ko|[fruitriin/missRirica-client on GitHub](https://github.com/fruitriin/missRirica-client)|
 |[Mizuna](https://mizuna-project.blossomsarchive.com)|No|No|No|No|No|[Yes](https://mizuna.blossomsarchive.com)|ja-JP?|[MizuiMiduki/Mizuna on GitHub](https://github.com/MizuiMiduki/Mizuna)|
 |MoeKey|?|[Yes](https://github.com/MoeKeyDev/MoeKey/releases)|[Yes](https://github.com/MoeKeyDev/MoeKey/releases)|[Yes](https://github.com/MoeKeyDev/MoeKey/releases)|[Yes](https://github.com/MoeKeyDev/MoeKey/releases)|?|en-US, ja-JP, zh-CN|[MoeKeyDev/MoeKey on GitHub](https://github.com/MoeKeyDev/MoeKey)|
 |MPen|[Yes](https://apps.apple.com/app/mpen/id6475402927)|No|No|[Yes](https://apps.apple.com/app/mpen/id6475402927)|No|No|ja?|-|
 |[OpenTween](https://www.opentween.org/)|No|No|[Yes](https://github.com/opentween/OpenTween/releases)|No|No|No|ja?|[opentween/OpenTween on GitHub](https://github.com/opentween/OpenTween)|
 |[osukey](https://zenn.dev/sim1222/articles/5b289c20545817)|[Yes(osu)](https://github.com/osukey/osukey)|[Yes(osu)](https://github.com/osukey/osukey)|[Yes(osu)](https://github.com/osukey/osukey)|[Yes(osu)](https://github.com/osukey/osukey)|[Yes(osu)](https://github.com/osukey/osukey)|No|ja?| [osukey/osukey on GitHub](https://github.com/osukey/osukey)|
 |[PSkey](https://github.com/ibuki2003/pskey/wiki)|No|[Yes](https://play.google.com/store/apps/details?id=dev.fuwa.pskey)|No|No|No|No|ja-JP|[ibuki2003/pskey - GitHub](https://github.com/ibuki2003/pskey)|
-|SocialHub|[Yes](https://apps.apple.com/jp/app/id1474451582)|No|No|No|No|No|en, ja|[uakihir0/SocialHub on GitHub](https://github.com/uakihir0/SocialHub)|
 |[SoraSNS](https://smartsofuto.co.jp/apps)|[Yes](https://apps.apple.com/app/id6450969760)|No|No|[Yes](https://apps.apple.com/app/id6450969760)|No|No|fr, ja, kr, es, zh-CN, zh-TW|-|
 |[Takesama](https://takesama.com)|[Yes](https://apps.apple.com/app/takesama/id1622199470)|[Yes](https://play.google.com/store/apps/details?id=com.takesama.app)|No|[Yes](https://apps.apple.com/app/takesama/id1622199470)|No|[Yes](https://app.takesama.com)|ja?|-|
-|[TidyDrive](https://96enu-kuroinu.github.io/TidyDriveManual/)|No|Yes|No|No|No|No|ja?|- ([Web Site](https://github.com/96ENU-kuroinu/TidyDriveManual))|
+|[TheDesk](https://thedesk.top/)|No|No|[Yes](https://github.com/cutls/thedesk-next/releases)|[Yes](https://github.com/cutls/thedesk-next/releases)|[Yes](https://github.com/cutls/thedesk-next/releases)|No|ja?|[cutls/thedesk-next on GitHub](https://github.com/cutls/thedesk-next)|
+|[TidyDrive](https://96enu-kuroinu.github.io/TidyDriveManual/)|No|[Yes](https://play.google.com/store/apps/details?id=com.falhongcha.tidy_drive)|[Yes](https://96enu.booth.pm/items/6576327)|No|No|No|ja|- ([Web Site](https://github.com/96ENU-kuroinu/TidyDriveManual))|
 |[TootRain](https://b123400.net/tootrain)|No|No|[Yes](https://github.com/b123400/tootrain-qt/releases)|[Yes](https://apps.apple.com/us/app/tootrain/id1579538917)|[Yes(Beta)](https://github.com/b123400/tootrain-qt/releases)|No|en, ja|[b123400/TootRain on GitHub](https://github.com/b123400/TootRain) / [b123400/tootrain-qt on GitHub](https://github.com/b123400/tootrain-qt)|
 |[ZonePane](https://twitpane.com/)|No|[Yes](https://play.google.com/store/apps/details?id=com.zonepane)|No|No|No|No|ja-JP|-|
 
@@ -59,13 +58,15 @@ Misskey has no official client application, but there are several unofficial Mis
 |:-:|:--|:--|:--|:--|:--|:--|:--|
 |ikuradon|[Yes](https://expo.dev/@potpro/potproject-ikuradon)|[Yes](https://expo.dev/@potpro/potproject-ikuradon)|No|No|No|No|[potproject/ikuradon on GitHub](https://github.com/potproject/ikuradon)|
 |Subway Tooter|No|[Yes](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter)|No|No|No|No|[tateisu/SubwayTooter on GitHub](https://github.com/tateisu/SubwayTooter)
-|[TheDesk](https://thedesk.top/)|No|No|Yes|Yes|Yes|No|-|
 |[Whalebird](https://whalebird.social/ja)|No|No|[Yes](https://apps.microsoft.com/store/detail/whalebird/9NBW4CSDV5HC) |[Yes](https://apps.apple.com/us/app/whalebird/id6445864587)|[Yes](https://whalebird.social/ja/downloads)|No|[h3poteto/whalebird-desktop on GitHub](https://github.com/h3poteto/whalebird-desktop)|
 
 ## End of development apps 
 |App|Supported Platform|Source Code|
 |:-:|:--|:--|
 |[Kaiteki](https://kaiteki.app/)|[Android](https://kaiteki.app/get/android/), [Windows](https://kaiteki.app/get/windows/), [Linux](https://kaiteki.app/get/linux/), [Web](https://web.kaiteki.app)|[Kaiteki-Fedi/Kaiteki on GitHub](https://github.com/Kaiteki-Fedi/Kaiteki/), [TransFem-org/Kaiteki/kaiteki on ActivityPub.Software](https://activitypub.software/TransFem-org/Kaiteki/kaiteki)|
+|MissRirica|~~[iOS/iPadOS](https://apps.apple.com/app/missririca/id1659214999)~~, ~~[Android](https://play.google.com/store/apps/details?id=space.riinswork.missririca)~~, [Web](http://miss-ririca.vercel.app/)|[fruitriin/missRirica-client on GitHub](https://github.com/fruitriin/missRirica-client)|
+|SocialHub|[iOS/iPadOS](https://apps.apple.com/jp/app/id1474451582)|[uakihir0/SocialHub on GitHub](https://github.com/uakihir0/SocialHub)|
+|[TheDesk(~v24)](https://thedesk.top/)|~~[Windows](https://www.microsoft.com/store/productId/9P2NDNZ0GWZF)~~, [macOS](https://github.com/cutls/TheDesk/releases), [Linux](https://snapcraft.io/thedesk)|[cutls/TheDesk on GitHub](https://github.com/cutls/TheDesk)|
 
 # Extensions & Plugins
 |Extensions & Plugins|Supported Platform|Source Code|
