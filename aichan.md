@@ -2,7 +2,7 @@
 title: 藍
 description: Misskeyの公式キャラクター
 published: true
-date: 2021-10-14T17:46:48.818Z
+date: 2025-03-03T14:19:04.833Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-14T17:45:08.368Z
@@ -34,5 +34,6 @@ dateCreated: 2021-10-14T17:45:08.368Z
 * OS: AiOS
 * Net: Ai-Fi
 
-# 公式サイト
-[藍.moe](https://xn--931a.moe/)
+# 外部リンク
+- [藍.moe](https://xn--931a.moe/) 公式サイト
+- [syuilo/ai](https://github.com/syuilo/ai) リポジトリ
