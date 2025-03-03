@@ -2,14 +2,18 @@
 title: インスタンスの構築方法
 description: 自分でインスタンスを構築する方法について
 published: true
-date: 2021-09-24T10:16:32.440Z
+date: 2023-08-02T01:34:42.512Z
 tags: 
 editor: markdown
-dateCreated: 2021-03-12T17:26:39.490Z
+dateCreated: 2021-10-14T17:45:22.471Z
 ---
 
 Misskeyにおける最大の特徴の一つが「オープンソース」ということだ。これはつまりMisskeyを構築するための手順からソースコードまで[全てネット上で無償公開](https://github.com/misskey-dev/misskey/blob/master/docs/setup.ja.md)されており、<small>(やる気さえあれば)</small>**誰でも自分だけのソーシャルネットワークをゼロから構築できるということ**だ。
 このページでは主にAmazon Web Service(アマゾン・ウェブ・サービス、通称:AWS)を用いたMisskeyサーバーの構築方法を解説する。
+
+> このページの内容は古くなっている可能性があります。[Misskey公式ドキュメント](https://misskey-hub.net/docs/install.html)の内容も確認してからサーバーの構築をすることをオススメします。{.is-warning}
+
+> このページは書き途中の内容です。{.is-warning}
 
 # AWSで自分だけのMisskeyインスタンスを構築する方法完全解説
 まずはこのあやしいサイトを見てもらいたい：https://aws.amazon.com/jp/

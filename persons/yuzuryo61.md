@@ -2,10 +2,10 @@
 title: ゆずりょー
 description: Misskey.pyの開発者＆Yuzulia-MisSocialの管理者
 published: true
-date: 2021-08-04T05:35:37.665Z
+date: 2021-10-14T17:46:50.208Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-20T08:38:58.251Z
+dateCreated: 2021-10-14T17:46:48.842Z
 ---
 
 **ゆずりょー**(英名、ユーザーID: **YuzuRyo61**)は、Pythonライブラリ、[Misskey.py](https://github.com/YuzuRyo61/Misskey.py)の開発者であり、[Yuzulia-MisSocial](/instances/yuzulia_xyz)の管理者であった（運用終了）。6月11日生まれ。

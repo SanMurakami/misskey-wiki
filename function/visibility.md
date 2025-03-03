@@ -2,10 +2,10 @@
 title: 投稿の公開範囲
 description: 公開範囲とは、ノートを公開する範囲の設定である。
 published: true
-date: 2021-08-11T06:55:44.795Z
+date: 2021-10-14T17:46:19.839Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-20T02:55:34.920Z
+dateCreated: 2021-10-14T17:46:18.477Z
 ---
 
 **公開範囲**とは、[ノート](/ja/function/note)を公開する範囲の設定する機能です。

@@ -1,14 +1,14 @@
 ---
-title: Misskey Flavored Markdown
+title: Markup language For Misskey
 description: Misskeyで使えるMarkdown風の構文
 published: true
-date: 2021-02-08T07:52:25.969Z
+date: 2023-08-06T15:42:56.655Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-20T08:21:41.404Z
+dateCreated: 2021-10-14T17:45:53.627Z
 ---
 
-**Misskey Flavored Markdown**または**MFM**とは、Misskey内の様々な場所で使用できる専用のマークアップ言語だ。ここでは、Misskeyで使用可能なMFM構文の一覧が確認できる。
+**Markup language For Misskey**または**MFM**とは、Misskey内の様々な場所で使用できる専用のマークアップ言語だ。ここでは、Misskeyで使用可能なMFM構文の一覧が確認できる。
 
 # MFMが適用される部分
 - [ノート](/function/note)
@@ -25,16 +25,16 @@ dateCreated: 2020-09-20T08:21:41.404Z
 実はこのMFM、メンションやハッシュタグといったMisskeyの身近なところでも使われている。
 ## メンション
 アットマーク`@` + ユーザー名で、特定のユーザーにメンションを送ることができる。
-![mention.png](/ja_jp/mfm/mention.png)
+![藍をメンションしているノート](https://media.misskeyusercontent.com/io/72381d73-c38e-44ca-a97d-534ec72fab7d.webp) 
 ```
 @ai
 ```
 
 ## ハッシュタグ
 ナンバーサイン`#` + タグ名で、ハッシュタグを付けることができる。
-![ss_hashtag.png](/ja_jp/mfm/ss_hashtag.png)
+![Misskeyへの愛を伝えているノート](https://media.misskeyusercontent.com/io/c41fc245-a335-4270-8c25-0804f55671e8.png)
 ```
-#Misskey自己紹介部
+#I❤Misskey
 ```
 > アットマーク`@`やナンバーサイン`#`の後に文字を入力すると候補リストが出現する。 このリストは文字を入力していくにつれて絞り込まれていくので、もし探しているユーザーやハッシュタグがリスト内に見つかったら、矢印キーやTabを使って選択し、`Enter`キーで入力を完了することもできるぞ。さすがMisskey！
 {.is-info}
@@ -54,7 +54,7 @@ MFMといえばこれを連想する者が多い。テキストを特定の記�
 　
 ### 斜体
 テキストを`<i>`と`</i>`で囲むと、文字を *斜体* にすることができる。
-![ss_italic.png](/ss_italic.png)
+![MisskeyについてWindowsのフォント](https://media.misskeyusercontent.com/io/26dc84a0-f9ae-459b-92ba-9aef47c55376.webp)
 ```
 <i>Misskey</i>で<i>Fediverse</i>の世界が広がります。
 ```
@@ -88,62 +88,62 @@ MFMといえばこれを連想する者が多い。テキストを特定の記�
 ### 文字反転
 テキストを反転させることができる。角括弧とコマンドを使用するMisskey.v12の新機能らしい。
 #### 左右反転
-テキストを`[flip.h ` と`]`で囲うことによって左右反転表示させることができる。
+テキストを`$[flip.h ` と`]`で囲うことによって左右反転表示させることができる。
 ちなみにこの`.h`は "horizontal(ly)"（水平方向に）の略字である。
 ![ss_flip.png](/ja_jp/mfm/ss_flip.png)
 ```
 牛耕式（ぎゅうこうしき）とは
-[flip.h 主に古代ギリシアなどでの写本]
+$[flip.h 主に古代ギリシアなどでの写本]
 や銘文に用いられた書記方式の
-[flip.h 一種である。　　　　　　　　]
+$[flip.h 一種である。　　　　　　　　]
 
 ギリシア語ではβουστροφηδόν
-[flip.h （ボウストロフェードン）と　　]
+$[flip.h （ボウストロフェードン）と　　]
 　　呼ばれ、語源は："βοῦς"（ボウス、牛）＋
-[flip.h "στροφή"（ストローフェ、引き返す）に　　　]
+$[flip.h "στροφή"（ストローフェ、引き返す）に　　　]
 　　　副詞化接尾辞の "-δόν"（〜のようなさま）
-[flip.h が加わり「（畑などを耕す）牛が　　　　　　]
+$[flip.h が加わり「（畑などを耕す）牛が　　　　　　]
 　　　　　　引き返すさま」という意から来ている。
 ```
 #### 上下反転
-テキストを`[flip.v ` と`]`で囲うことによって上下反転表示させることができる。
+テキストを`$[flip.v ` と`]`で囲うことによって上下反転表示させることができる。
 ちなみにこの`.v`は "vertical(ly)"（垂直方向に）の略字である。
 ![ss_flip_v.png](/ja_jp/mfm/ss_flip_v.png)
 ```
 水面を　反射するのが　ヴァーティカル。
-[flip.v 水面を　反射するのが　ヴァーティカル。]
+$[flip.v 水面を　反射するのが　ヴァーティカル。]
 ```
 #### 上下左右反転（180度回転）
-テキストを`[flip.h,v ` と`]`で囲うことによって上下左右反転表示（180度回転）させることができる。
+テキストを`$[flip.h,v ` と`]`で囲うことによって上下左右反転表示（180度回転）させることができる。
 ![ss_fliphv.png](/ja_jp/mfm/ss_fliphv.png)
 ```
 かの有名なラパ・ヌイの
-[flip.h,v 未解読古代文字「ロンゴ]
+$[flip.h,v 未解読古代文字「ロンゴ]
 ロンゴ」はなんと逆牛耕
-[flip.h,v 式（リバース・ブストロ]
+$[flip.h,v 式（リバース・ブストロ]
 フェドン）で書かれている。
 ```
-> もし`[flip`の後に続く`.h`や`.v`を省略した場合は自動的に左右反転（`.h`）扱いとなる。
+> もし`$[flip`の後に続く`.h`や`.v`を省略した場合は自動的に左右反転（`.h`）扱いとなる。
 {.is-info}
 
 ![ss_flip_ex.png](/ja_jp/mfm/ss_flip_ex.png)
 ```
-[flip 救急車(AMBULANCE) ]
+$[flip 救急車(AMBULANCE) ]
 ```
 
 ## テキストの引用
 行頭に`> `を付けると内容が引用であることを示すことができる。
-![ss_quote.png](/ja_jp/mfm/ss_quote.png)
+![Android vs iPhoneの戦いを起こそうとするノート](https://media.misskeyusercontent.com/io/e957abf8-6e06-4894-a87c-7e802c3a738a.png)
 ```
-> シャミ子が悪いんだよ
-↑言ってない
+> iPhone最高!
+↑Androidのほうがいいに決まってる
 ```
 また、`>> `で二重引用を示すこともできる。
-![ss_doublequote.png](/ja_jp/mfm/ss_doublequote.png)
+![Ubuntu Touchを間に置いて戦いを止めようとするノート](https://media.misskeyusercontent.com/io/0b02808c-d189-4049-a65d-ee079b32761b.webp)
 ```
->> シャミ子が悪いんだよ
-> ↑言ってない
-たまたまそういうとこが描かれてないだけで普通に言ってるんだよなぁ
+>> iPhone最高!
+>↑Androidのほうがいいに決まってる
+↑Ubuntu Touchで:hunsou_wo_kaihi:
 ```
 
 # 高度なMFM
@@ -166,16 +166,16 @@ What is a Miskist? [Search]
 
 ## URL
 URLを貼ると自動的にリンク付けされる。
-![ss_link.png](/ja_jp/mfm/ss_link.png)
+![Misskey HubのURLを貼ったノート](https://media.misskeyusercontent.com/io/3abe23c5-9c80-49d9-b22a-5b47437abfaa.webp)
 ```
-https://misskey.io/mfm-cheat-sheet
+https://misskey-hub.net/docs/apps
 ```
 　
 ## リンク
 リンクにしたいテキストを角括弧`[` `]`で囲い、そのすぐ隣に丸括弧`(` `)`で囲んだURLを書き足すことにより、角括弧内の文を丸括弧内のURLに紐づけることが出来る。
-![ss_link2.png](/ja_jp/mfm/ss_link2.png)
+![ケータイWatchのリンクを貼ったノート](https://media.misskeyusercontent.com/io/e9ce37f3-e74a-4f38-99fe-dd07545aee94.webp)
 ```
-[省略しています。全て読むにはこのリンクをクリック！](https://dic.nicovideo.jp/a/%E5%85%A8%E3%81%A6%E8%AA%AD%E3%82%80%E3%81%AB%E3%81%AF%E3%81%93%E3%81%AE%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%21)
+[Misskey記事](https://k-tai.watch.impress.co.jp/docs/column/minna/1474357.html)
 ```
 
 > 角括弧の手前に疑問符`?`を追加するとリンクカードを隠すことができる。一つのノート内に非常な多くのリンクを書く時やネタバレ防止機能としては重宝すると同時に、リンク先の内容を隠蔽する目的で使うこともできる。Misskeyに限った話ではないが、ネットで見かける「いますぐアクセス！」などと書かれたあやしいリンクには要注意だ！
@@ -211,7 +211,7 @@ https://misskey.io/mfm-cheat-sheet
 複数行のコード等をシンタックスハイライトしたい場合、三連グレイヴアクセント` ``` `と` ``` `で囲むとコードブロックを作成することができる。どうやら[Prism.js](https://prismjs.com/)を使用しているらしく<small>[要検証]</small> 、もしそうであればなんと**236言語**のシンタックスハイライティングに対応していることとなる。ヤバいぞMisskey！
 ![ss_blockcode.png](/ja_jp/mfm/ss_blockcode.png)
 ``````
-```
+```行頭
 ~ (#i, 100) {
 	<: ? ((i % 15) = 0) "FizzBuzz"
 		.? ((i % 3) = 0) "Fizz"
@@ -231,41 +231,41 @@ MFM最大の特徴と言っても過言ではないのがこのアニメーシ�
 
 
 ## びよんびよん（ゼリー）
-テキストを`[jelly`と`]`で囲うと、ゼリーのような『びよんびよん』アニメーションを加えることができる。
+テキストを`$[jelly`と`]`で囲うと、ゼリーのような『びよんびよん』アニメーションを加えることができる。
 ![ss_jelly.gif](/ja_jp/mfm/ss_jelly.gif)
 ```
-[jelly ﾌﾟﾙﾌﾟﾙ]
-　[jelly 🍮]
+$[jelly ﾌﾟﾙﾌﾟﾙ]
+　$[jelly 🍮]
 ```
 
 ## ジャーン（ファンファーレ）
-テキストを`[tada`と`]`で囲うと、なんかすごい『ジャーン！』みたいなアニメーションを加えることができる。
+テキストを`$[tada`と`]`で囲うと、なんかすごい『ジャーン！』みたいなアニメーションを加えることができる。
 ![ss_tada3.gif](/ja_jp/mfm/ss_tada3.gif)
 ```
-[tada \ﾍｲﾗｯｼｬｲ/]
-[tada SUSHI][tada 🍣][tada 食べたい][tada 🙏] [tada この世][tada 🌏]の[tada 終わり][tada 👋]の[tada 日]は [tada SUSHI][tada 🍣][tada 食べたい][tada 🙏] [tada 最後][tada 💥💣]の[tada 晩餐][tada 🍴]に[tada 😇][tada SUSHI][tada 🍣][tada 食べたい][tada 🙏] [tada 特別][tada 🎂🎉🏆💏]な[tada あの日][tada 📆]には [tada SUSHI][tada 🍣][tada 食べたい][tada 🙏🙏] [tada トロ🐟][tada タコ🐙][tada ウニ✳︎][tada いくら💰] [tada 🔊][tada ﾃｰﾚｰﾚｰ↑][tada (セ〜〜〜ル)][tada (都会のオアスシ)]
+$[tada \ﾍｲﾗｯｼｬｲ/]
+$[tada SUSHI]$[tada 🍣]$[tada 食べたい]$[tada 🙏] $[tada この世]$[tada 🌏]の$[tada 終わり]$[tada 👋]の$[tada 日]は $[tada SUSHI]$[tada 🍣]$[tada 食べたい]$[tada 🙏] $[tada 最後]$[tada 💥💣]の$[tada 晩餐]$[tada 🍴]に$[tada 😇]$[tada SUSHI]$[tada 🍣]$[tada 食べたい]$[tada 🙏] $[tada 特別]$[tada 🎂🎉🏆💏]な$[tada あの日]$[tada 📆]には $[tada SUSHI]$[tada 🍣]$[tada 食べたい]$[tada 🙏🙏] $[tada トロ🐟]$[tada タコ🐙]$[tada ウニ✳︎]$[tada いくら💰] $[tada 🔊]$[tada ﾃｰﾚｰﾚｰ↑]$[tada (セ〜〜〜ル)]$[tada (都会のオアスシ)]
 ```
 
 
 ## ジャンプ
 
 ```
-[jump ]
+$[jump ]
 ```
 
 ## バウンス
-テキストを`[bounce`と`]`で囲うことで、ボールのような『ぽよんぽよん』アニメーション加えることができる。
+テキストを`$[bounce`と`]`で囲うことで、ボールのような『ぽよんぽよん』アニメーション加えることができる。
 ![ss_bounce.gif](/ja_jp/mfm/ss_bounce.gif)
 ```
-[bounce 🏈]　[bounce 🏀]　[bounce 🤢]　[bounce ⚾]　[bounce 🧶]
+$[bounce 🏈]　$[bounce 🏀]　$[bounce 🤢]　$[bounce ⚾]　$[bounce 🧶]
 ```
 
 
 ## ぶるぶる（シェイク）
-テキストを`[shake`と`]`で囲うと、その場で震える『ぶるぶる』アニメーションを加えることができる。
+テキストを`$[shake`と`]`で囲うと、その場で震える『ぶるぶる』アニメーションを加えることができる。
 ![ss_shake.gif](/ja_jp/mfm/ss_shake.gif)
 ```
-[shake 🥶]「寒すぎてサムになったわ」
+$[shake 🥶]「寒すぎてサムになったわ」
 ```
  ---
 > 長い文字列を一緒くたにしちゃうと中心を起点としてアニメーション化されてしまう。
@@ -273,95 +273,95 @@ MFM最大の特徴と言っても過言ではないのがこのアニメーシ�
 
 🍮🍮🍮🍮🍮🍮🍮🍮
 ```
-[jelly 🍮🍮🍮🍮🍮🍮🍮🍮]
+$[jelly 🍮🍮🍮🍮🍮🍮🍮🍮]
 ```
 > そういうときは個別に書くと、意外と思ったような動きになるかもしれない。
 {.is-success}
 
 🍮🍮🍮🍮🍮🍮🍮🍮
 ```
-[jelly 🍮][jelly 🍮][jelly 🍮][jelly 🍮][jelly 🍮][jelly 🍮][jelly 🍮][jelly 🍮]
+$[jelly 🍮]$[jelly 🍮]$[jelly 🍮]$[jelly 🍮]$[jelly 🍮]$[jelly 🍮]$[jelly 🍮]$[jelly 🍮]
 ```
 
 
 ## ブレ（ツイッチ）
-テキストを`[twitch`と`]`で囲うと、激しい動きの『ブレ』アニメーションを加えることができる。 ~~（めっちゃ荒ぶるよｗ）~~
+テキストを`$[twitch`と`]`で囲うと、激しい動きの『ブレ』アニメーションを加えることができる。 ~~（めっちゃ荒ぶるよｗ）~~
 🕴🏡🕴🏢
 ```
-[twitch 🕴🏡🕴🏢]
+$[twitch 🕴🏡🕴🏢]
 ```
 > 【『ブレ（ツイッチ）』と『ぶるぶる（シェイク）』の違い】
 > 『ブレ』は全てのテキストが等しく動くのに対し、『ぶるぶる』は中心を起点として端っこの最も移動が多く、真ん中の移動距離が少ない動きをする。
 {.is-info}
 
 # アニメーション（回転）
-回転するアニメーションを与えることができる。もっとも基本的な回転は`[spin `と`]`に囲うことで使用できるZ軸右回転だが、最新版でパラメータの指定ができるようになり、非常に高度な設定ができるようになった。
+回転するアニメーションを与えることができる。もっとも基本的な回転は`$[spin `と`]`に囲うことで使用できるZ軸右回転だが、最新版でパラメータの指定ができるようになり、非常に高度な設定ができるようになった。
 
 ## Z軸回転
 Z軸（モニターからみて中心の点）を起点に回転を行います。
 ### Z軸右回転（時計回り）
-`[spin.z,right`と`]`で囲うと時計回りに回転します。
+`$[spin.z,right`と`]`で囲うと時計回りに回転します。
 ```
-[spin.z,right 🕒🕕🕘]
+$[spin.z,right 🕒🕕🕘]
 ```
 ### Z軸左回転（反時計回り）
-`[spin.z,left`と`]`で囲うと反時計回りに回転します。
+`$[spin.z,left`と`]`で囲うと反時計回りに回転します。
 ```
-[spin.z,left 🌏🌀🌍]
+$[spin.z,left 🌏🌀🌍]
 ```
 ### Z軸交互回転
-`[spin.z,alternate`と`]`で囲うと時計回りと反時計回りを交互に繰り返します。
+`$[spin.z,alternate`と`]`で囲うと時計回りと反時計回りを交互に繰り返します。
 ```
-[spin.z,alternate 📀⚙💿]
+$[spin.z,alternate 📀⚙💿]
 ```
 
 ## X軸回転
 X軸（モニターからみて横軸）を起点に回転を行います。
 ### X軸右回転
-`[spin.x,right`と`]`
+`$[spin.x,right`と`]`
 ```
-[spin.x,right 🍮]
+$[spin.x,right 🍮]
 ```
 ### X軸左回転
 ```
-[spin.x,left 🍮]
+$[spin.x,left 🍮]
 ```
 ### X軸交互回転
 ```
-[spin.x,alternate 🍮]
+$[spin.x,alternate 🍮]
 ```
 
 ## Y軸回転
 Y軸（モニターからみて縦軸）を起点に回転を行います。
 ### Y軸右回転
 ```
-[spin.y,right 🍮]
+$[spin.y,right 🍮]
 ```
 ### Y軸左回転
 ```
-[spin.y,left 🍮]
+$[spin.y,left 🍮]
 ```
 ### Y軸交互回転
 ```
-[spin.y,alternate ]
+$[spin.y,alternate ]
 ```
  ---
-> もし`[spin`の後に続く軸指定子を省略した場合は自動的にZ軸回転（`.z`）扱いとなる。また、`,`の後に続く回転方向指定子を省略した場合は自動的に右回転（`right`）扱いとなる。
+> もし`$[spin`の後に続く軸指定子を省略した場合は自動的にZ軸回転（`.z`）扱いとなる。また、`,`の後に続く回転方向指定子を省略した場合は自動的に右回転（`right`）扱いとなる。
 {.is-info}
 ```
-ㅤ　[spin.z 🍮] = [spin.z,right 🍮]
-　[spin.right 🍮] = [spin.z,right 🍮]
-∴[spin 🍮] = [spin.z,right 🍮]
+ㅤ　$[spin.z 🍮] = $[spin.z,right 🍮]
+　$[spin.right 🍮] = $[spin.z,right 🍮]
+∴$[spin 🍮] = $[spin.z,right 🍮]
 ```
 
 ## 回転速度
-`[spin`等の構文に`,speed=`を書き足すことで回転速度を指定することができる。
+`$[spin`等の構文に`,speed=`を書き足すことで回転速度を指定することができる。
 ```
-[spin.y,left,speed=12s 🌓　　　☀　　　🌏]
+$[spin.y,left,speed=12s 🌓　　　☀　　　🌏]
 ```
 また、`ms`でミリ秒指定も可能。
 ```
-[spin.y,left,speed=100ms 🌓　　　☀　　　🌏]
+$[spin.y,left,speed=100ms 🌓　　　☀　　　🌏]
 ```
 # LaTeX表現
 Misskeyが最強のSNSサイトと呼ばれる理由の一つがこのLaTeXだ。
@@ -369,6 +369,9 @@ Misskeyが最強のSNSサイトと呼ばれる理由の一つがこのLaTeXだ�
 
 > LaTeXは非常に多くの関数があり、ここで紹介されているものはごく一部に過ぎない。関数の完全なリストは[公式ドキュメント](https://katex.org/docs/supported.html)からチェックできる。
 {.is-info}
+
+> LaTeXは**v13から非対応になりました**。
+{.is-warning}
 
 ## フォント
 
@@ -438,11 +441,11 @@ Misskeyが最強のSNSサイトと呼ばれる理由の一つがこのLaTeXだ�
 `\boxed{`と`}`でボックスを作ることができる。
 
 # 外部リンク
-- https://yuzulia.xyz/@aqz/pages/mfm 
-[Yuzulia-MisSocial](/ja/instances/yuzulia_xyz)の@aqz氏によって書かれたMFM一覧表。かなり昔からある一覧表であり、また [ページ](/function/page)で書かれているのでソースを簡単に見ることができる。
+- ~~https://yuzulia.xyz/@aqz/pages/mfm~~
+~~[Yuzulia-MisSocial](/ja/instances/yuzulia_xyz)の@aqz氏によって書かれたMFM一覧表。かなり昔からある一覧表であり、また [ページ](/function/page)で書かれているのでソースを簡単に見ることができる。~~(リンク切れ)
 
-- https://misskey.io/mfm-cheat-sheet
-Misskey.io公式のチートシート。最新のMFMが実例ともに記載されている。
+- ~~https://misskey.io/mfm-cheat-sheet~~
+~~Misskey.io公式のチートシート。最新のMFMが実例ともに記載されている。~~(リンク切れ)
 
 - https://katex.org/docs/support_table.html
 アルファベット順にソートされたTeX関数の一覧。

@@ -2,7 +2,7 @@
 title: はなみすきー
 description: Kanaru が運営する、いわゆる「バスキー後継鯖」。
 published: true
-date: 2025-01-29T10:54:02.659Z
+date: 2025-01-29T10:54:04.653Z
 tags: server
 editor: markdown
 dateCreated: 2025-01-29T10:54:02.659Z

@@ -2,10 +2,10 @@
 title: AiScript
 description: Misskeyで使えるプログラミング言語
 published: true
-date: 2021-02-12T15:39:45.168Z
+date: 2021-10-14T17:45:30.148Z
 tags: 
 editor: markdown
-dateCreated: 2021-02-12T15:39:45.168Z
+dateCreated: 2021-10-14T17:45:28.675Z
 ---
 
 # AiScript

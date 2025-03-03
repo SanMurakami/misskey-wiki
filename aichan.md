@@ -2,10 +2,10 @@
 title: 藍
 description: Misskeyの公式キャラクター
 published: true
-date: 2021-08-04T04:49:02.615Z
+date: 2021-10-14T17:46:48.818Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-19T18:17:06.616Z
+dateCreated: 2021-10-14T17:45:08.368Z
 ---
 
 藍(あい)は、[syuilo](/ja/persons/syuilo)により開発されたMisskey用のBotで、かつMisskeyの看板娘。

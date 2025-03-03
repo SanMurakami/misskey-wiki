@@ -2,10 +2,10 @@
 title: タイムライン
 description: 投稿が時系列で表示される機能
 published: true
-date: 2021-08-11T07:14:30.858Z
+date: 2021-10-14T17:46:20.465Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-20T02:53:30.319Z
+dateCreated: 2021-10-14T17:46:12.473Z
 ---
 
 **タイムライン**には[ノート(投稿)](/ja/function/note)が時系列で表示されます。

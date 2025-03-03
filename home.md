@@ -2,10 +2,10 @@
 title: ホーム
 description: 
 published: true
-date: 2021-08-04T04:45:20.965Z
+date: 2021-12-20T11:02:20.687Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-19T16:49:55.936Z
+dateCreated: 2021-10-14T17:45:14.387Z
 ---
 
 **Misskey Wiki**へようこそ！どなたの編集も歓迎です。
@@ -20,7 +20,7 @@ dateCreated: 2020-09-19T16:49:55.936Z
 ---
 
 [**はじめに**](/ja/introduction) ･ [**よくある質問**](/ja/faq) - Misskeyについての第一歩
-**インスタンス** ･ [joinmisskeyのインスタンスリスト](https://joinmisskey.github.io/ja/wiki/instances/) - インスタンスを探そう
+**インスタンス** ･ [joinmisskeyのインスタンスリスト](https://join.misskey.page/ja-JP/instances) - インスタンスを探そう
 [機能](/ja/function) - Misskeyの機能についての詳細
 [バージョン履歴](https://github.com/misskey-dev/misskey/releases)
 

@@ -2,10 +2,10 @@
 title: Profile
 description: Set your profile & bio to let others know about you.
 published: true
-date: 2020-09-22T13:00:19.950Z
+date: 2021-10-14T17:47:10.763Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-22T13:00:19.950Z
+dateCreated: 2021-10-14T17:47:09.343Z
 ---
 
 <!-- This translation is based on https://wiki.misskey.io/ja/function/user_profile as of Sep 22, 2020 -->

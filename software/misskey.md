@@ -2,10 +2,10 @@
 title: Misskey
 description: 
 published: true
-date: 2021-04-23T23:04:29.348Z
+date: 2024-01-06T09:43:47.981Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-19T17:40:11.825Z
+dateCreated: 2021-10-14T17:46:56.895Z
 ---
 
 **Misskey**は、2014年から[syuilo](/persons/syuilo)により開発されているオープンソースの[分散マイクロブログソフトウェア](/decentralized-social-networking-service#%E5%88%86%E6%95%A3%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%96%E3%83%AD%E3%82%B0%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2)である。***A forever evolving, sophisticated microblogging platform.***（いつまでも進化する、洗練されたマイクロブログSNS）をスローガンにしている。
@@ -17,9 +17,9 @@ Misskeyという名前はMay'nの楽曲「Brain Diver」の歌詞から採られ
 
 # 歴史
 Misskeyは大きなバージョンアップごとにコードネームが変わる。
-コードネームは、*aoi*、*nighthike*、*daybreak*、*indigo*のように変わってきている。現在のコードネームは*indigo*である。
+コードネームは、*aoi*、*nighthike*(v10)、*daybreak*(v11)、*indigo*(v12)、*nasubi*(v13)のように変わってきている。現在のコードネームは*nasubi*である。
 
-*2018年8月以降の出来事については[Misskeyをはじめようのブログ](https://joinmisskey.github.io/ja/blog/)を、Misskey自体の変更については[リリースノート](https://github.com/misskey-dev/misskey/blob/develop/CHANGELOG.md)も参照。*
+*2018年8月以降の出来事については[Misskeyをはじめようのブログ(Githubリポジトリ)](https://github.com/tamaina/joinmisskey.github.io/tree/pages/ja/blog)を、Misskey自体の変更については[リリースノート](https://misskey-hub.net/docs/releases.html)も参照。*
 
 ## nighthike以前(swallowtail、aoi等)の時代 (2014/6~)
 - 2014年6月 開発開始と思われる
@@ -67,23 +67,33 @@ Misskeyは大きなバージョンアップごとにコードネームが変わ�
 - 2020年2月6日 v12がリリースされる。コードネームをindigoとした。
 - 2021年3月24日 Misskey開発のためのorganizationアカウントとして[Misskey Development Division](https://github.com/misskey-dev)が作られ、リポジトリがsyuilo/misskeyからmisskey-dev/misskeyへ移された。
 
+## nasubi時代 (2023/1~)
+- 2023年1月16日 v13がリリースされる。コードネームをnasubiとした。
+- 2023年9月24日 v2023.9.0がリリースされる。カレンダーバージョニングに変更された。
 # 主要なフォーク
-## nighthikeベース
+## nighthike(v10) ベース
 - [めいすきー](/ja/software/meisskey)
 - [twista](/ja/software/twista)
 
-## daybreakベース
+## daybreak(v11) ベース
 
 - [Groundpolis (~v2)](/ja/software/groundpolis)
 
-## indigoベース
+## indigo(v12) ベース
 
 - [Groundpolis (v3~)](/ja/software/groundpolis)
+- [Foundkey](/ja/software/foundkey)
+- [Firefish](/ja/software/firefish)(旧Calckey)
 
+## nasubi(v13-) ベース
+
+- [Cherrypick](/ja/software/cherrypick)
+- [Sharkey](/ja/software/sharkey)
+- [Ebisskey](/ja/instances/shrimpia)
 
 # 外部リンク
+- [Misskey Hub](https://misskey-hub.net/)
 - [GitHub misskey-dev/misskey](https://github.com/misskey-dev/misskey)
-- [Misskeyをはじめよう](https://joinmisskey.github.io)
 
 [^1]: https://twitter.com/syuilo/status/977270402786344960
 [^2]: https://twitter.com/misskey_io/status/982910410461343745

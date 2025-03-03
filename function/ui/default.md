@@ -2,10 +2,10 @@
 title: デフォルト
 description: 
 published: true
-date: 2020-11-19T07:30:22.055Z
+date: 2021-10-14T17:47:14.789Z
 tags: 
 editor: markdown
-dateCreated: 2020-11-19T07:30:22.055Z
+dateCreated: 2021-10-14T17:47:13.427Z
 ---
 
 ![screenshot_from_2020-11-19_16-24-36.png](/ja_jp/function/ui_/screenshot_from_2020-11-19_16-24-36.png)

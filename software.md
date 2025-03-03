@@ -2,10 +2,10 @@
 title: ソフトウェア
 description: 
 published: true
-date: 2020-09-20T01:41:29.051Z
+date: 2023-05-05T19:25:59.735Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-19T17:36:49.471Z
+dateCreated: 2021-10-14T17:45:24.652Z
 ---
 
-[Misskey](/ja/software/misskey)
+[Misskey](/ja/software/misskey) 本体及びそのフォーク(第三者によって改良・改造された実装)や、クライアントアプリをまとめています。

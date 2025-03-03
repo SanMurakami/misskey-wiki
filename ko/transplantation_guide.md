@@ -2,10 +2,10 @@
 title: Misskey.wiki에서 이식하는 방법
 description: Misskey.wiki에서 정보를 이식할 때의 주의점 등을 정리합니다.
 published: true
-date: 2021-06-01T13:37:11.952Z
+date: 2021-10-14T17:46:42.085Z
 tags: 
 editor: markdown
-dateCreated: 2021-06-01T13:28:33.036Z
+dateCreated: 2021-10-14T17:46:40.660Z
 ---
 
 # URL 결정 방법

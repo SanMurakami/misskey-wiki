@@ -2,10 +2,11 @@
 title: 機能
 description: 
 published: true
-date: 2021-02-12T15:34:44.475Z
+date: 2022-05-01T02:25:50.571Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-20T02:44:55.321Z
+dateCreated: 2021-10-14T17:45:12.459Z
 ---
 
-左のメニューから選択してください
+Misskey の各機能についてまとめています。
+左（スマホでは左下のボタン）から項目を選択してください。

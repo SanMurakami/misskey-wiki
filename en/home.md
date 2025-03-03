@@ -2,10 +2,10 @@
 title: Home
 description: 
 published: true
-date: 2021-08-04T05:16:02.034Z
+date: 2023-06-01T05:18:44.167Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-19T17:59:50.456Z
+dateCreated: 2021-10-14T17:45:39.190Z
 ---
 
 Welcome to **Misskey Wiki**! Anyone is free to edit.
@@ -19,7 +19,7 @@ You can use it to promote your app, instance, or introduce yourself.
 
 ---
 
-[**Introduction**](/en/first) ･ [**FAQ**](/en/help/faq) - First Steps/About Misskey
+[**Introduction**](/en/first) ･ [**FAQ**](/en/faq) - First Steps/About Misskey
 [**Instance list**](https://join.misskey.page/en/wiki/instances/) - Find an instance!
 [**Features**](/en/features) - Learn more about Misskey's features
 [**Version History**](/en/releases)

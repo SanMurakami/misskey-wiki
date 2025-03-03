@@ -2,10 +2,10 @@
 title: リアクション
 description: 投稿に対して簡単な反応を付けられる機能
 published: true
-date: 2021-08-11T07:00:21.128Z
+date: 2021-10-14T17:46:05.417Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-20T08:18:40.423Z
+dateCreated: 2021-10-14T17:46:04.061Z
 ---
 
 **リアクション**とは、Misskeyの機能の一つです。投稿に対して通常絵文字で表される反応をつけることができます。

@@ -2,10 +2,10 @@
 title: Yuzulia-MisSocial
 description: ゆずりょーが運営するMisskeyインスタンス
 published: true
-date: 2021-08-04T05:32:28.708Z
+date: 2021-10-14T17:46:50.843Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-20T08:44:56.116Z
+dateCreated: 2021-10-14T17:46:28.567Z
 ---
 
 **Yuzulia-MisSocial**は、[YuzuRyo61](/persons/yuzuryo61)が運営するMisskeyインスタンス。

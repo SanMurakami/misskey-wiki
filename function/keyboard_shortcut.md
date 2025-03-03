@@ -2,10 +2,10 @@
 title: キーボードショートカット
 description: 
 published: true
-date: 2021-08-11T07:18:36.419Z
+date: 2021-10-14T17:45:50.922Z
 tags: 
 editor: markdown
-dateCreated: 2020-11-19T08:24:16.062Z
+dateCreated: 2021-10-14T17:45:49.462Z
 ---
 
 misskeyはショートカットを利用することによって、ポインティングデバイス（マウス、パッドなど）を**ほとんど**使わずにキーボードのみで操作できます。  

@@ -2,10 +2,10 @@
 title: Misskey 入门
 description: 
 published: true
-date: 2021-02-12T14:10:22.833Z
+date: 2021-10-14T17:47:02.470Z
 tags: 
 editor: markdown
-dateCreated: 2021-02-12T14:10:22.833Z
+dateCreated: 2021-10-14T17:47:01.105Z
 ---
 
 # 基本概念・基本用语

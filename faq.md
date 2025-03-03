@@ -2,10 +2,10 @@
 title: よくある質問
 description: 
 published: true
-date: 2021-08-04T04:21:02.110Z
+date: 2023-08-02T01:39:22.253Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-19T17:30:57.943Z
+dateCreated: 2021-10-14T17:45:10.418Z
 ---
 
 # ホーム、ローカル、ソーシャル、グローバル 違いは？
@@ -37,8 +37,8 @@ MisskeyからMastodonのユーザーをフォローでき、逆にMastodonから
 MisskeyやMastodonは、別のソフトウェアの他のインスタンスのユーザーとも、同じサービスであるかのように交流できます。
 
 # 文字装飾、検索窓や文字のアニメーションはどうやるのか？
-Misskey独自の構文「Misskey Flavored Markdown (MFM)」を使うことで表現できます。  
-**[→ 機能: Misskey Flavored Markdown)](/ja/function/mfm)**
+Misskey独自の構文「Markup language For Misskey(MFM)」を使うことで表現できます。  
+**[→ 機能: Markup language For Misskey(MFM)](/ja/function/mfm)**
 
 # 猫耳生えてにゃって言ってるけどにゃに？　Catって？
 **Cat**はMisskeyの謎機能のひとつ。  

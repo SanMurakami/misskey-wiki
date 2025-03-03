@@ -2,10 +2,11 @@
 title: ユーザー
 description: 
 published: true
-date: 2020-09-19T18:10:29.300Z
+date: 2021-12-19T18:21:25.307Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-19T18:10:29.300Z
+dateCreated: 2021-10-14T17:45:20.537Z
 ---
 
-[syuilo](/ja/persons/syuilo)
+Misskey のユーザーについてまとめています。
+左（スマホでは左下のボタン）から項目を選択してください。

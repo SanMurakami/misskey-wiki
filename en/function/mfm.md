@@ -1,14 +1,14 @@
 ---
-title: Misskey Flavored Markdown
+title: Markup language For Misskey
 description: Extended Markdown syntax for Misskey
 published: true
-date: 2020-09-21T06:14:36.979Z
+date: 2023-06-01T05:03:43.092Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-21T06:14:36.978Z
+dateCreated: 2021-10-14T17:47:03.184Z
 ---
 
-**Misskey Flavored Markdown (MFM)** is a Markdown-based syntax to format your notes, pages, or whatever.
+**Markup language For Misskey (MFM)** is a Markdown-based syntax to format your notes, pages, or whatever.
 
 A text with MFM should be displayed in the same way on any Misskey instance, while other ActivityPub-compatible services may display it differently since they do not understand MFM.
 

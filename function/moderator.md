@@ -2,10 +2,10 @@
 title: モデレーター
 description: インスタンスの運営情報を閲覧・操作することができる権限を付与されたユーザー。adminについても説明。
 published: true
-date: 2021-08-11T07:01:35.315Z
+date: 2021-10-14T17:45:57.385Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-20T09:16:57.641Z
+dateCreated: 2021-10-14T17:45:56.008Z
 ---
 
 **モデレーター**（英:**moderator**）とは、[インスタンス](/instances)の運営情報を閲覧および操作できる権限を持つユーザーのことです。権限が同じである **admin（管理者）** についても説明します。

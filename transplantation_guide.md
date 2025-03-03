@@ -2,10 +2,10 @@
 title: Misskey.wiki からの移植ガイド
 description: Misskey.wiki から情報を移植する際の注意点などをまとめています。
 published: true
-date: 2020-09-20T02:49:58.995Z
+date: 2021-10-14T17:46:00.062Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-20T01:32:29.340Z
+dateCreated: 2021-10-14T17:45:26.630Z
 ---
 
 # URLの決め方

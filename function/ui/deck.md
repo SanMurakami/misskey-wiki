@@ -2,10 +2,10 @@
 title: デッキ
 description: 
 published: true
-date: 2020-11-19T07:41:03.653Z
+date: 2021-10-14T17:47:12.756Z
 tags: 
 editor: markdown
-dateCreated: 2020-11-19T07:41:03.653Z
+dateCreated: 2021-10-14T17:47:11.412Z
 ---
 
 ![Deck](/ja_jp/function/ui_/deck/screenshot_from_2020-11-19_16-32-53.png)

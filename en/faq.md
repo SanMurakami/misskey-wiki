@@ -2,10 +2,10 @@
 title: FAQ
 description: Frequently Asked Questions
 published: true
-date: 2021-08-04T05:23:23.436Z
+date: 2021-10-14T17:45:36.514Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-20T05:04:12.109Z
+dateCreated: 2021-10-14T17:45:35.073Z
 ---
 
 # Home, Local, Social, Global: What's the difference?

@@ -2,10 +2,10 @@
 title: NSFW
 description: NSFW flags can be set to files on the drive.
 published: true
-date: 2020-09-22T12:22:01.345Z
+date: 2021-10-14T17:47:08.687Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-22T12:22:01.345Z
+dateCreated: 2021-10-14T17:47:07.284Z
 ---
 
 <!-- This translation is based on the Japanese version of this article as of Sep 22, 2020. -->

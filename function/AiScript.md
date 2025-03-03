@@ -2,10 +2,10 @@
 title: AiScript
 description: Misskeyで使えるプログラミング言語
 published: true
-date: 2021-01-25T13:07:44.524Z
+date: 2022-05-01T03:31:57.057Z
 tags: 
 editor: markdown
-dateCreated: 2021-01-25T13:07:44.524Z
+dateCreated: 2021-10-14T17:45:41.373Z
 ---
 
 # AiScript
@@ -249,3 +249,8 @@ AiScriptファイルにメタデータを埋め込める機能です。
 		. i
 }
 ```
+
+# リンク
+- [GitHub](https://github.com/syuilo/aiscript)
+  - ただし、Misskey で採用されているバージョンと構文が大きく異なっている。
+- [組み込み関数の一覧（GitHub）](https://github.com/syuilo/aiscript/blob/master/docs/std.md)

@@ -2,10 +2,10 @@
 title: Moderator
 description: Moderators/Admins are in charge of managing their instances using their authorities.
 published: true
-date: 2020-09-21T06:45:54.182Z
+date: 2021-10-14T17:47:06.599Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-21T06:45:54.182Z
+dateCreated: 2021-10-14T17:47:05.185Z
 ---
 
 <!-- This translation is based on the Japanese version as of Sep 21, 2020 -->

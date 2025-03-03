@@ -2,10 +2,10 @@
 title: 村上さん
 description: AureoleArkまたは村上さんは、misskey.ioなど複数のMisskeyインスタンスへサーバー資源を提供している人物である。
 published: true
-date: 2021-08-04T04:00:12.726Z
+date: 2021-10-14T17:46:48.818Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-20T08:29:29.694Z
+dateCreated: 2021-10-14T17:46:42.739Z
 ---
 
 **AureoleArk**または**村上さん**は、[misskey.io](/instances/misskey_io)など複数のMisskeyインスタンスへサーバーを提供している人物。札幌市在住、男性。

@@ -2,10 +2,10 @@
 title: /info
 description: phpinfo?
 published: true
-date: 2020-12-02T07:25:44.634Z
+date: 2021-12-19T17:03:26.029Z
 tags: 
 editor: markdown
-dateCreated: 2020-12-02T06:46:54.262Z
+dateCreated: 2021-10-14T17:46:08.271Z
 ---
 
 **/info** とは、Misskey のステータス表示である。
@@ -25,6 +25,10 @@ dateCreated: 2020-12-02T06:46:54.262Z
 
 Misskey 派生でもおそらく見ることができる。
 
+Misskey v12.96.0にて、Misskey Hub に埋め込むための情報ページ「/\_info\_card\_」に置き換わる形で**廃止**された。
+/\_info\_card\_ では /info に比べ提供される情報は少ないが、代わりに従来の/info と同様の情報を提供するAPIエンドポイントが存在する（ただし重たい）。
+
+
 # 画像
 
 <!-- 画像アップロードできなくなったので、imgur 使うことにした。はよう直せ。 -->
@@ -32,5 +36,5 @@ Misskey 派生でもおそらく見ることができる。
 ## v11 以前
 ![https://i.imgur.com/dPeeseN.png](https://i.imgur.com/dPeeseN.png)
 
-## v12～
+## v12
 ![https://i.imgur.com/bm0B5t7.png](https://i.imgur.com/bm0B5t7.png)

@@ -2,10 +2,10 @@
 title: インスタンスの構築方法
 description: 自分でインスタンスを構築する方法について
 published: true
-date: 2021-06-01T13:29:03.934Z
+date: 2021-10-14T17:46:40.012Z
 tags: 
 editor: markdown
-dateCreated: 2021-06-01T13:29:03.934Z
+dateCreated: 2021-10-14T17:46:38.671Z
 ---
 
 # 自分のサーバーにインストールする

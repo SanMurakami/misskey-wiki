@@ -2,10 +2,10 @@
 title: めいすきー
 description: めいめいによるMisskeyフォーク
 published: true
-date: 2020-09-21T01:50:43.011Z
+date: 2024-03-02T04:14:05.507Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-21T01:50:43.011Z
+dateCreated: 2021-10-14T17:46:52.899Z
 ---
 
 **めいすきー** は[めいめい](/persons/mei23)が[Misskey](/software/misskey) v10をフォークし、独自に開発を行っているオープンソースソフトウェアである。
@@ -25,7 +25,7 @@ dateCreated: 2020-09-21T01:50:43.011Z
 
 # 関連リンク
 
-- [リポジトリ](https://github.com/mei23/misskey/tree/mei-m544)
+- [mei23/misskey (mei-m544) - GitHub](https://github.com/mei23/misskey/tree/mei-m544) リポジトリ
 
 - [めいすきー](https://misskey.m544.net/)
 

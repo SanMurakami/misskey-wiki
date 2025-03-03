@@ -2,10 +2,10 @@
 title: めいめい
 description: めいめい（mei23）は、Misskeyの開発者（Collaborator）。friends.nicoの人気ユーザーであり、複数のMisskeyインスタンスを運営している。
 published: true
-date: 2020-09-21T01:53:15.687Z
+date: 2021-10-14T17:46:59.058Z
 tags: 
 editor: markdown
-dateCreated: 2020-09-21T01:31:47.180Z
+dateCreated: 2021-10-14T17:46:44.780Z
 ---
 
 **めいめい（mei23）** は、[Misskey](/software/misskey)の開発者（Collaborator）。friends.nicoの人気ユーザーであり、複数のMisskeyインスタンスを運営している。
