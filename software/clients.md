@@ -2,7 +2,7 @@
 title: クライアント
 description: 投稿したりタイムラインを表示したりできるアプリ・ソフトウェア
 published: true
-date: 2025-03-03T14:40:48.293Z
+date: 2025-03-03T14:41:16.949Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T06:30:29.644Z
@@ -33,6 +33,7 @@ Windows版及びLinux（Snapパッケージ）版は[GitHub Releases](https://gi
 ### Aria
 - OS: Android, iOS, macOS, Windows, Linux
 - Flutter
+
 [poppingmoon](https://github.com/poppingmoon)氏によって開発されているMiriaからフォークされたMisskeyクライアント。
 
 公式以外のクライアントでは数少ない[AiScript](/function/AiScript) (Misskey Play)を利用することができるクライアントの一つ。
