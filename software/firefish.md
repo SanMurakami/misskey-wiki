@@ -2,7 +2,7 @@
 title: Firefish
 description: Misskeyのフォークプロジェクトのひとつ
 published: true
-date: 2024-09-09T08:28:50.641Z
+date: 2025-03-03T14:09:14.047Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-20T00:20:58.844Z
@@ -15,5 +15,5 @@ dateCreated: 2023-07-20T00:20:58.844Z
 
 # 関連リンク
 [Firefish公式サイト](https://joinfirefish.org)
-[firefish/firefish - firefish.dev](https://firefish.dev/firefish/firefish) リポジトリ
+[firefish/firefish - firefish.dev](https://firefish.dev/firefish/firefish) リポジトリ (閉鎖済み)
 [Announcement: Firefish will enter maintenance mode - info.firefish.dev](https://info.firefish.dev/notes/9xsukr38m3komd63)
