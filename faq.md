@@ -2,7 +2,7 @@
 title: よくある質問
 description: 
 published: true
-date: 2023-08-02T01:39:22.253Z
+date: 2025-03-03T14:29:32.927Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-14T17:45:10.418Z
@@ -48,7 +48,7 @@ Catは設定画面から設定できます。
 にゃお、リモートにも反映されます。
 
 # 不具合を見つけた。こんな機能がほしい。
-**Misskey.io**に登録している場合は、[Misskey Feedback Channel](https://misskey.io/channels/8b79iuz1af)を利用することができます。
+~~**Misskey.io**に登録している場合は、[Misskey Feedback Channel](https://misskey.io/channels/8b79iuz1af)を利用することができます。~~ このチャンネルの運用は終了しています。
 
 **GitHub**を使ったことがある方は*その内容のIssueが立っていないか確認してから*[Issue](https://github.com/syuilo/misskey/issues/new/choose)で報告をお願いします。  
 Pull Requestももちろん歓迎しています。
@@ -56,7 +56,7 @@ Pull Requestももちろん歓迎しています。
 上記のどちらも難しい場合は[@syuilo@misskey.io](https://misskey.io/@syuilo)へリプライを送ることも可能です。
 
 # Misskeyに寄付したい。
-ほしいものリストやPatreonのリンクなどがあるので[**joinmisskey（トップページの一番最後のセクション）**](https://join.misskey.page/ja/#section_7)を参照してください。
+ほしいものリストやPatreonのリンクなどがあるので[**Misskey Hubのページ**](https://misskey-hub.net/ja/docs/donate/)を参照してください。
 
 # パスワードを忘れた
 メールで連絡するか新しいアカウントを作成するなどして、インスタンスの管理者（admin）に相談してください。
