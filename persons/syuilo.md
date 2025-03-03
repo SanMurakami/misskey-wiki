@@ -2,7 +2,7 @@
 title: syuilo
 description: syuiloは、Misskeyの作者である。
 published: true
-date: 2023-05-05T19:32:22.769Z
+date: 2025-03-03T14:14:30.891Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-14T17:46:46.803Z
@@ -19,9 +19,9 @@ dateCreated: 2021-10-14T17:46:46.803Z
 # 主な作品
 - [Misskey](/ja/software/misskey)
 - [Ai](/ja/aichan)
-- [Kiwi](/ja/software/kiwi)
+- [Kiwi](https://github.com/syuilo/kiwi)
 
 # アカウント
 - [@syuilo@misskey.io](https://misskey.io/@syuilo)
 - [Twitter @syuilo](https://twitter.com/syuilo)
-- [GitHub @syuilo](https://github.io/syuilo)
+- [GitHub @syuilo](https://github.com/syuilo)
