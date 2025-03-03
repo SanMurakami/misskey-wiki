@@ -2,7 +2,7 @@
 title: 藍
 description: Misskeyの公式キャラクター
 published: true
-date: 2025-03-03T14:19:04.833Z
+date: 2025-03-03T14:20:41.385Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-14T17:45:08.368Z
