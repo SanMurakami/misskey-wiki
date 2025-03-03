@@ -2,7 +2,7 @@
 title: クライアント
 description: 投稿したりタイムラインを表示したりできるアプリ・ソフトウェア
 published: true
-date: 2025-03-03T14:39:48.815Z
+date: 2025-03-03T14:40:48.293Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T06:30:29.644Z
@@ -38,8 +38,11 @@ Windows版及びLinux（Snapパッケージ）版は[GitHub Releases](https://gi
 公式以外のクライアントでは数少ない[AiScript](/function/AiScript) (Misskey Play)を利用することができるクライアントの一つ。
 
 **[公式アカウント](https://misskey.io/@aria_app)**
+
 **[Google Play](https://play.google.com/store/apps/details?id=com.poppingmoon.aria)**
 **[App Store](https://apps.apple.com/app/aria-for-misskey/id6499410880)**
+**[Snap](https://snapcraft.io/aria)**
+
 **[GitHub](https://github.com/poppingmoon/aria)**
 
 
