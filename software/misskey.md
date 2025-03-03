@@ -2,7 +2,7 @@
 title: Misskey
 description: 
 published: true
-date: 2024-01-06T09:43:47.981Z
+date: 2025-03-03T14:07:51.439Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-14T17:46:56.895Z
@@ -83,7 +83,7 @@ Misskeyは大きなバージョンアップごとにコードネームが変わ�
 
 - [Groundpolis (v3~)](/ja/software/groundpolis)
 - [Foundkey](/ja/software/foundkey)
-- [Firefish](/ja/software/firefish)(旧Calckey)
+- [Firefish](/ja/software/firefish)(旧Calckey) **(サポート終了)**
 
 ## nasubi(v13-) ベース
 
