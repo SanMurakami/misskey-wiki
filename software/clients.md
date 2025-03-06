@@ -2,7 +2,7 @@
 title: クライアント
 description: 投稿したりタイムラインを表示したりできるアプリ・ソフトウェア
 published: true
-date: 2025-03-03T14:41:16.949Z
+date: 2025-03-06T00:39:01.246Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T06:30:29.644Z
@@ -32,19 +32,17 @@ Windows版及びLinux（Snapパッケージ）版は[GitHub Releases](https://gi
 
 ### Aria
 - OS: Android, iOS, macOS, Windows, Linux
-- Flutter
+- Flutter, Rust
 
-[poppingmoon](https://github.com/poppingmoon)氏によって開発されているMiriaからフォークされたMisskeyクライアント。
+[poppingmoon](https://github.com/poppingmoon)氏によって開発されているMiriaからフォークされた無料のMisskeyクライアント。
 
-公式以外のクライアントでは数少ない[AiScript](/function/AiScript) (Misskey Play)を利用することができるクライアントの一つ。
+Miriaに搭載された機能の他、Rustで実装された[AiScript](/function/AiScript) (Misskey Play)をアプリ上で利用することができるクライアントである。
 
-**[公式アカウント](https://misskey.io/@aria_app)**
-
-**[Google Play](https://play.google.com/store/apps/details?id=com.poppingmoon.aria)**
-**[App Store](https://apps.apple.com/app/aria-for-misskey/id6499410880)**
-**[Snap](https://snapcraft.io/aria)**
-
-**[GitHub](https://github.com/poppingmoon/aria)**
+**[Aria公式アカウント](https://misskey.io/@aria_app)**
+**[AriaをAppStoreでインストール🍎](https://apps.apple.com/app/aria-for-misskey/id6499410880)**
+**[AriaをGooglePlayでインストール🤖](https://play.google.com/store/apps/details?id=com.poppingmoon.aria)**
+**[AriaをSnapStoreでインストール🐧](https://snapcraft.io/aria)**
+[poppingmoon/aria on GitHub](https://github.com/poppingmoon/aria)
 
 
 
