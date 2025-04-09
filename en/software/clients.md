@@ -2,7 +2,7 @@
 title: Clients
 description: Misskey Client Apps
 published: true
-date: 2025-04-09T01:04:40.971Z
+date: 2025-04-09T01:08:48.062Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-01T06:24:41.855Z
@@ -59,12 +59,12 @@ Misskey has no official client application, but there are several unofficial Mis
 |Subway Tooter|No|[Yes](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter)|No|No|No|No|[tateisu/SubwayTooter on GitHub](https://github.com/tateisu/SubwayTooter)
 |[Whalebird](https://whalebird.social/ja)|No|No|[Yes](https://apps.microsoft.com/store/detail/whalebird/9NBW4CSDV5HC) |[Yes](https://apps.apple.com/us/app/whalebird/id6445864587)|[Yes](https://whalebird.social/ja/downloads)|No|[h3poteto/whalebird-desktop on GitHub](https://github.com/h3poteto/whalebird-desktop)|
 
-## End of development apps 
+## EOL (End Of Life) apps 
 |App|Supported Platform|Ended Reason|Source Code|
 |:-:|:--|:--|:--|
 |Echo|~~[iOS/iPadOS](https://apps.apple.com/jp/app/echo/id323813244)~~|Deleted silently|-|
 |Flosskey|[Android](https://github.com/ch1ak1STR/Flosskey/releases)|No longer maintained (2 years), Deleted silently|[ch1ak1STR/Flosskey on GitHub](https://github.com/ch1ak1STR/Flosskey)|
-|~~[Kaiteki](https://kaiteki.app/)~~|~~[Android](https://kaiteki.app/get/android/)~~, ~~[Windows](https://kaiteki.app/get/windows/)~~, ~~[Linux](https://kaiteki.app/get/linux/)~~, ~~[Web](https://web.kaiteki.app)~~|Project ending announced (Already lost the note, [Translated Quote](https://misskey.io/notes/9xz0xbq2k47b03n3))|[Kaiteki-Fedi/Kaiteki on GitHub](https://github.com/Kaiteki-Fedi/Kaiteki/), [TransFem-org/Kaiteki/kaiteki on ActivityPub.Software](https://activitypub.software/TransFem-org/Kaiteki/kaiteki)|
+|~~[Kaiteki](https://kaiteki.app/)~~|~~[Android](https://kaiteki.app/get/android/)~~, ~~[Windows](https://kaiteki.app/get/windows/)~~, ~~[Linux](https://kaiteki.app/get/linux/)~~, ~~[Web](https://web.kaiteki.app)~~|EOL announced (Already lost the note, [Translated Quote](https://misskey.io/notes/9xz0xbq2k47b03n3))|[Kaiteki-Fedi/Kaiteki on GitHub](https://github.com/Kaiteki-Fedi/Kaiteki/), [TransFem-org/Kaiteki/kaiteki on ActivityPub.Software](https://activitypub.software/TransFem-org/Kaiteki/kaiteki)|
 |MissRirica|~~[iOS/iPadOS](https://apps.apple.com/app/missririca/id1659214999)~~, ~~[Android](https://play.google.com/store/apps/details?id=space.riinswork.missririca)~~, [Web](http://miss-ririca.vercel.app/)|[Project code is broken](https://misskey.systems/notes/a3z77ukchr)|[fruitriin/missRirica-client on GitHub](https://github.com/fruitriin/missRirica-client)|
 |SocialHub|~~[iOS/iPadOS](https://apps.apple.com/jp/app/id1474451582)~~|Deleted silently|[uakihir0/SocialHub on GitHub](https://github.com/uakihir0/SocialHub)|
 |[TheDesk(~v24)](https://thedesk.top/)|~~[Windows](https://www.microsoft.com/store/productId/9P2NDNZ0GWZF)~~, [macOS](https://github.com/cutls/TheDesk/releases), [Linux](https://snapcraft.io/thedesk)|[New version](https://github.com/cutls/thedesk-next) released|[cutls/TheDesk on GitHub](https://github.com/cutls/TheDesk)|
