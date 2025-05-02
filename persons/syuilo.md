@@ -2,7 +2,7 @@
 title: syuilo
 description: syuiloは、Misskeyの作者である。
 published: true
-date: 2025-03-03T14:14:30.891Z
+date: 2025-05-02T02:47:14.674Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-14T17:46:46.803Z
@@ -25,3 +25,4 @@ dateCreated: 2021-10-14T17:46:46.803Z
 - [@syuilo@misskey.io](https://misskey.io/@syuilo)
 - [Twitter @syuilo](https://twitter.com/syuilo)
 - [GitHub @syuilo](https://github.com/syuilo)
+- [Pixiv Fanbox syuilo](https://syuilo.fanbox.cc)
