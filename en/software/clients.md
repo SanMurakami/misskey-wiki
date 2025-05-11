@@ -2,7 +2,7 @@
 title: Clients
 description: Misskey Client Apps
 published: true
-date: 2025-05-11T02:48:28.276Z
+date: 2025-05-11T06:01:27.707Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-01T06:24:41.855Z
@@ -21,7 +21,7 @@ Misskey has no official client application, but there are several unofficial Mis
 |Milktea|No|[Yes](https://play.google.com/store/apps/details?id=jp.panta.misskeyandroidclient)|No|No|No|No|en-US, ja-JP, zh-CN ([Translate](https://github.com/pantasystem/Milktea/tree/develop/modules))|[pantasystem/Milktea on GitHub](https://github.com/pantasystem/Milktea)|
 |[minskey](https://minskey.dyama.net/about/)|No|No|No|No|No|[Yes](https://minskey.dyama.net/)|ja?|[yamader/minskey on GitHub](https://github.com/yamader/minskey)|
 |Mint|No|[Testing](https://github.com/sanao1006/Mint/releases)|No|No|No|No|ja-JP|[sanao1006/Mint on GitHub](https://github.com/sanao1006/Mint)|
-|[Miria](https://shiosyakeyakini.info/miria_web/index.html)|[Yes](https://apps.apple.com/app/miria/id6449201469)|[Yes](https://play.google.com/store/apps/details?id=info.shiosyakeyakini.miria)|[Yes](https://github.com/shiosyakeyakini-info/miria/releases)|[Yes](https://apps.apple.com/app/miria/id6449201469)|[Yes](https://github.com/shiosyakeyakini-info/miria/releases)|No|ja-KS, ja-OJ ([Translate](https://github.com/shiosyakeyakini-info/miria/issues/164))|[shiosyakeyakini-info/miria on GitHub](https://github.com/shiosyakeyakini-info/miria)
+|[Miria](https://shiosyakeyakini.info/miria_web/index.html)|[Yes](https://apps.apple.com/app/miria/id6449201469)|[Yes](https://play.google.com/store/apps/details?id=info.shiosyakeyakini.miria)|[Yes](https://github.com/shiosyakeyakini-info/miria/releases)|[Yes](https://apps.apple.com/app/miria/id6449201469)|[Yes](https://github.com/shiosyakeyakini-info/miria/releases)|No|ja-KS, ja-OJ, zh, zh-CN ([Translate](https://github.com/shiosyakeyakini-info/miria/issues/164))|[shiosyakeyakini-info/miria on GitHub](https://github.com/shiosyakeyakini-info/miria)
 |MissFARM|[Yes](https://apps.apple.com/jp/app/missfarm/id6468420277)|No|No|[Yes](https://apps.apple.com/app/missfarm/id6468420277)|No|No|en|-|
 |[Misskey.io_MultiTimeLine](https://misskey.io/@yyya_nico/pages/multi_tl) (**NOT** Misskey.io Official)|No|No|No|No|No|[Yes](https://misskeytimeline.yyya-nico.co)|ja?|[yyya-nico/Misskey.io_MultiTimeline on GitHub](https://github.com/yyya-nico/Misskey.io_MultiTimeline)|
 |MissLI|No|No|No|No|No|[Yes](https://uboar.github.io/missli/)|ja?|[uboar/missli on GitHub](https://github.com/uboar/missli)|
@@ -38,7 +38,7 @@ Misskey has no official client application, but there are several unofficial Mis
 |[TheDesk](https://thedesk.top/)|No|No|[Yes](https://github.com/cutls/thedesk-next/releases)|[Yes](https://github.com/cutls/thedesk-next/releases)|[Yes](https://github.com/cutls/thedesk-next/releases)|No|en, ja ([Translate](https://github.com/cutls/thedesk-next/tree/main/locales))|[cutls/thedesk-next on GitHub](https://github.com/cutls/thedesk-next)|
 |[TidyDrive](https://96enu-kuroinu.github.io/TidyDriveManual/)|No|[Yes](https://play.google.com/store/apps/details?id=com.falhongcha.tidy_drive)|[Yes](https://96enu.booth.pm/items/6576327)|No|No|No|ja|- ([Web Site](https://github.com/96ENU-kuroinu/TidyDriveManual))|
 |[TootRain](https://b123400.net/tootrain)|No|No|[Yes](https://github.com/b123400/tootrain-qt/releases)|[Yes](https://apps.apple.com/us/app/tootrain/id1579538917)|[Yes(Beta)](https://github.com/b123400/tootrain-qt/releases)|No|en, ja ([Translate](https://github.com/b123400/TootRain/tree/master/TweetRain))|[b123400/TootRain on GitHub](https://github.com/b123400/TootRain) / [b123400/tootrain-qt on GitHub](https://github.com/b123400/tootrain-qt)|
-|[ZonePane](https://twitpane.com/)|No|[Yes](https://play.google.com/store/apps/details?id=com.zonepane)|No|No|No|No|en, es, ja, ko, zh-rHK, zh-rTW, zh ([Translate](https://github.com/takke/TwitPanePublicResource/tree/main/src/main/res))|-|
+|[ZonePane](https://twitpane.com/)|No|[Yes](https://play.google.com/store/apps/details?id=com.zonepane)|No|No|No|No|en, es, ja, ko, zh, zh-rHK, zh-rTW ([Translate](https://github.com/takke/TwitPanePublicResource/tree/main/src/main/res))|-|
 
 ## Other Platforms
 |Name|Supported Platforms|Source Code|
