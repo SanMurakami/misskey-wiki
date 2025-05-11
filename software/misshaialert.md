@@ -2,7 +2,7 @@
 title: Misskey Tools
 description: 
 published: true
-date: 2025-05-11T03:11:31.967Z
+date: 2025-05-11T03:12:13.540Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-14T17:46:54.878Z
@@ -31,5 +31,5 @@ dateCreated: 2021-10-14T17:46:54.878Z
 # リンク
 - ~~https://misskey.tools~~
   - [shrimpia/misskey-tools on GitHub](https://github.com/shrimpia/misskey-tools) : パブリックアーカイブ
-- ~~https://tools.mnijimiss.app~~ : [Nijimiss Project](../instances/nijimiss_moe)によりホストされたもの 2024年10月31日に提供終了
+- ~~https://tools.mnijimiss.app~~ : [Nijimiss Project](../instances/nijimiss_moe)によりホストされたもの 2024年10月31日に[提供終了](https://note.com/nijimiss_project/n/n044671a260b6)
 - https://t.psec.dev
