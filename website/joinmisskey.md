@@ -2,7 +2,7 @@
 title: Misskeyをはじめよう
 description: Misskey の紹介ページ
 published: true
-date: 2024-03-02T03:57:03.264Z
+date: 2025-05-11T05:40:18.919Z
 tags: 
 editor: markdown
 dateCreated: 2021-12-19T18:18:49.099Z
@@ -28,4 +28,4 @@ wikiの大半の内容は 旧misskey.wiki に引き継がれたのち、当wiki�
 また、廃止以前のコンテンツのすべては [GitHub](https://github.com/tamaina/joinmisskey.github.io/tree/pages/ja) で見ることができる。
 
 # 関連リンク
-- 公式アカウント [@joinmisskey@misskey.io](https://misskey.io/@joinmisskey)
+- 公式アカウント [@joinmisskey@0key.dev](https://0key.dev/@joinmisskey)
