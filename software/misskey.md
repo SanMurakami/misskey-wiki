@@ -2,7 +2,7 @@
 title: Misskey
 description: 
 published: true
-date: 2025-03-03T14:07:51.439Z
+date: 2025-05-11T05:19:42.779Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-14T17:46:56.895Z
@@ -19,7 +19,7 @@ Misskeyという名前はMay'nの楽曲「Brain Diver」の歌詞から採られ
 Misskeyは大きなバージョンアップごとにコードネームが変わる。
 コードネームは、*aoi*、*nighthike*(v10)、*daybreak*(v11)、*indigo*(v12)、*nasubi*(v13)のように変わってきている。現在のコードネームは*nasubi*である。
 
-*2018年8月以降の出来事については[Misskeyをはじめようのブログ(Githubリポジトリ)](https://github.com/tamaina/joinmisskey.github.io/tree/pages/ja/blog)を、Misskey自体の変更については[リリースノート](https://misskey-hub.net/docs/releases.html)も参照。*
+*2018年8月以降の出来事については[Misskeyをはじめようのブログ(GitHubリポジトリ)](https://github.com/tamaina/joinmisskey.github.io/tree/pages/ja/blog)を、Misskey自体の変更については[リリースノート](https://misskey-hub.net/docs/releases.html)も参照。*
 
 ## nighthike以前(swallowtail、aoi等)の時代 (2014/6~)
 - 2014年6月 開発開始と思われる
@@ -52,14 +52,14 @@ Misskeyは大きなバージョンアップごとにコードネームが変わ�
   - ~~[OpenCollective](https://opencollective.com/misskey)~~ と[Patreon](https://www.patreon.com/syuilo)のアカウント開設。
   - misskey.wtf開設
     * Knzk.me氏によって開設→現在は閉鎖
-- 2018年7月10日 [joinmisskey](/ja/software/joinmisskey)がaqzにより開設される。
-- 2018年8月11日 Hostdonのベータプログラムとして、初のMisskeyホスティングサービスの募集申込みが始まる [記事](https://joinmisskey.github.io/ja/blog/2018/08/12_3_hostdon/)
+- 2018年7月10日 [joinmisskey](/ja/website/joinmisskey)がaqzにより開設される。
+- 2018年8月11日 Hostdonのベータプログラムとして、初のMisskeyホスティングサービスの募集申込みが始まる [^4]
 - 2018年8月12日 Wiki機能をzawazawaからjoinmisskeyに移管。zawazawaは閉鎖。
-- 2018年8月20日 misskey.xyzが数時間ダウンするものの、村上さんの手により蘇生。 [^4]
+- 2018年8月20日 misskey.xyzが数時間ダウンするものの、村上さんの手により蘇生。 [^5]
 
 ## daybreak時代 (2019/4~)
 - 2019年4月14日 データベースソフトウェアにPostgreSQLを採用したv11がリリースされる。コードネームをdaybreakとした。
-- 2019年4月15日 v11移行に伴い、データの移行が難しいと判断されたため、misskey.xyzから[misskey.io](/ja/instances/misskey-io)への引っ越しが決定された。misskey.ioが新規に作られ、misskey.xyzの新規登録が停止した。
+- 2019年4月15日 v11移行に伴い、データの移行が難しいと判断されたため、misskey.xyzから[misskey.io](/ja/instances/misskey_io)への引っ越しが決定された。misskey.ioが新規に作られ、misskey.xyzの新規登録が停止した。
 - 2019年5月31日 この日を以てmisskey.xyzが閉鎖された。
 - 2019年6月3日 Misskey Wikiが開設される。joinmisskeyからWiki機能を移動開始。
 
@@ -93,9 +93,10 @@ Misskeyは大きなバージョンアップごとにコードネームが変わ�
 
 # 外部リンク
 - [Misskey Hub](https://misskey-hub.net/)
-- [GitHub misskey-dev/misskey](https://github.com/misskey-dev/misskey)
+- [misskey-dev/misskey on GitHub](https://github.com/misskey-dev/misskey)
 
 [^1]: https://twitter.com/syuilo/status/977270402786344960
 [^2]: https://twitter.com/misskey_io/status/982910410461343745
 [^3]: https://twitter.com/syuilo/status/983634753977909253
-[^4]: https://joinmisskey.github.io/ja/blog/2018/08/20_2_ddos/
+[^4]: https://github.com/tamaina/joinmisskey.github.io/blob/pages/ja/blog/2018/08/12_3_hostdon.md
+[^5]: https://github.com/tamaina/joinmisskey.github.io/blob/pages/ja/blog/2018/08/20_2_ddos.md
