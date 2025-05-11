@@ -2,7 +2,7 @@
 title: Groundpolis
 description: Groundpolisは、Xelticaが開発を先導するMisskeyのフォークである。
 published: true
-date: 2023-01-11T13:32:28.965Z
+date: 2025-05-11T05:48:13.007Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-14T17:46:50.859Z
@@ -55,7 +55,7 @@ Misskey 本家ではユーザー登録を停止した場合、招待制に変わ
 ### Groundpolis v3
 
 <!-- - [えびぽりす™](https://groundpolis.app) -->
-- [うほうほ](https://uhouho.xyz)
+<!-- - [うほうほ](https://uhouho.xyz) -->
 <!-- - [ネコミミヨコハマ](https://nekomimi.yokohama/) -->
 <!-- - [月ミの会](https://gp.tsukimi.club/) -->
 - [milkey.homes](https://milkey.homes/) (さらに独自の改造が施されている)
