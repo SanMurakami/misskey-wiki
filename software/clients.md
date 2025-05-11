@@ -2,7 +2,7 @@
 title: クライアント
 description: 投稿したりタイムラインを表示したりできるアプリ・ソフトウェア
 published: true
-date: 2025-03-06T00:39:01.246Z
+date: 2025-05-11T02:54:14.095Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T06:30:29.644Z
@@ -29,7 +29,6 @@ Windows版及びLinux（Snapパッケージ）版は[GitHub Releases](https://gi
 **[MiriaをPlayStoreでインストール🤖](https://play.google.com/store/apps/details?id=info.shiosyakeyakini.miria)**
 [shiosyakeyakini-info/miria on GitHub](https://github.com/shiosyakeyakini-info/miria)
 
-
 ### Aria
 - OS: Android, iOS, macOS, Windows, Linux
 - Flutter, Rust
@@ -43,8 +42,6 @@ Miriaに搭載された機能の他、Rustで実装された[AiScript](/function
 **[AriaをGooglePlayでインストール🤖](https://play.google.com/store/apps/details?id=com.poppingmoon.aria)**
 **[AriaをSnapStoreでインストール🐧](https://snapcraft.io/aria)**
 [poppingmoon/aria on GitHub](https://github.com/poppingmoon/aria)
-
-
 
 ### TheDesk
 - OS: Windows, macOS, Linux  
@@ -62,20 +59,19 @@ v25から[Fedistar](https://fedistar.net)をベースとして再構築されて
 [cutls/thedesk-next on GitHub](https://github.com/cutls/thedesk-next)
 
 ## iOS/iPadOS
-### MissCat
-[wada](https://misskey.io/@wada)氏が開発している無料のiPhone・iPad向けMisskeyクライアント。2020年4月3日にβ版が[リリースされた](https://misskey.io/notes/85nl8qgjsf)。
-
-> 2023年2月以降、アプリの更新が行われておらず、認証が正常に行われないなどの不具合がレビューにて報告されている。{.is-warning}
-
-**[MissCat公式サイト](https://yuiga.dev/misscat/)**  
-**[MissCatをAppStoreでインストール🍎](https://apps.apple.com/jp/app/id1505059993)**
-[YuigaWada/MissCat on GitHub](https://github.com/YuigaWada/MissCat)
-
 ### MissFARM
 [高橋牧場](https://misskey.io/@SvEzs)氏が開発している無料のMisskeyクライアント。
 Twitterアプリに近い操作感でMisskeyを利用することができる。
 
 **[MissFARMをAppStoreでインストール🍎](https://apps.apple.com/jp/app/id6468420277)**
+
+### SocialHub
+[akihiro（うるし）](https://misskey.io/@U_Akihir0)氏が開発している有料のiPhone向けマルチSNSクライアント。v1.5（2020年4月27日リリース）よりMisskeyに対応。  
+akihiro氏は、かつて人気を博したTwitterクライアント『TheWorld』の作者であり、SocialHubは、TheWorldの後継アプリとして開発されている。  
+複数のSNSをひとつのアプリで操作できることが最大の特徴であり、2023年7月19日時点で𝕏, Mastodon, Slack, Tumblr, Pleroma, Pixelfed, Bluesky,そしてMisskeyの8種をサポートしている。
+
+**[SocialHubをAppStoreでインストール🍎](https://apps.apple.com/jp/app/id1474451582)**
+[uakihir0/SocialHub on GitHub](https://github.com/uakihir0/SocialHub)
 
 ## Android
 ### MilkTea
@@ -87,7 +83,7 @@ Twitterアプリに近い操作感でMisskeyを利用することができる。
 **[MilkTeaをPlayStoreでインストール🤖](https://play.google.com/store/apps/details?id=jp.panta.misskeyandroidclient)**
 [pantasystem/Milktea on GitHub](https://github.com/pantasystem/Milktea)
 
-### ZonePane
+### ぞーぺん(ZonePane)
 [たけうちひろあき](https://fedibird.com/@takke)氏が開発している無料のAndroid用Mastodon・Misskey・Blueskyクライアント。
 ZonePaneは、Twitterの人気クライアント『TwitPane』の後継アプリであり、TwitPaneと同じUIで利用することができる。
 アプリ内広告は広告解除パックの定期購入により削除可能。
@@ -98,15 +94,14 @@ ZonePaneは、Twitterの人気クライアント『TwitPane』の後継アプリ
 
 ## Misskeyのサポートを終了したアプリ
 > ここでは、2025年3月現在Misskeyのサポートを終了したアプリについて解説しています。これらのアプリでは一部Misskeyの機能が正常に動作しない可能性があります。{.is-warning}
-### SocialHub
-[akihiro（うるし）](https://misskey.io/@U_Akihir0)氏が開発している有料のiPhone向けマルチSNSクライアント。v1.5（2020年4月27日リリース）よりMisskeyに対応。  
-akihiro氏は、かつて人気を博したTwitterクライアント『TheWorld』の作者であり、SocialHubは、TheWorldの後継アプリとして開発されている。  
-複数のSNSをひとつのアプリで操作できることが最大の特徴であり、2023年7月19日時点で𝕏, Mastodon, Slack, Tumblr, Pleroma, Pixelfed, Bluesky,そしてMisskeyの8種をサポートしている。
+### MissCat
+[wada](https://misskey.io/@wada)氏が開発している無料のiPhone・iPad向けMisskeyクライアント。2020年4月3日にβ版が[リリースされた](https://misskey.io/notes/85nl8qgjsf)。
 
-2025年1月頃にアプリストアからアプリが削除された。
+2025年5月頃、App Storeから削除された。
 
-~~**[SocialHubをAppStoreでインストール🍎](https://apps.apple.com/jp/app/id1474451582)**~~
-[uakihir0/SocialHub on GitHub](https://github.com/uakihir0/SocialHub)
+**[MissCat公式サイト](https://yuiga.dev/misscat/)**  
+~~**[MissCatをAppStoreでインストール🍎](https://apps.apple.com/jp/app/id1505059993)**~~
+[YuigaWada/MissCat on GitHub](https://github.com/YuigaWada/MissCat)
 
 ### Subway Tooter
 [tateisu](https://mastodon.juggler.jp/@tateisu)氏が開発している無料のAndroid向けMastodonクライアント。現在はMisskeyはサポート外となっている。2.7.0よりMisskeyに対応していたが、5.519にて[サポートを終了](https://github.com/tateisu/SubwayTooter/releases/tag/v5.519)している。
