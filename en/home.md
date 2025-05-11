@@ -2,14 +2,14 @@
 title: Home
 description: 
 published: true
-date: 2023-06-01T05:18:44.167Z
+date: 2025-05-11T03:54:29.887Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-14T17:45:39.190Z
 ---
 
-Welcome to **Misskey Wiki**! Anyone is free to edit.
-You can use it to promote your app, instance, or introduce yourself.
+Welcome to **MisskeyHQ Wiki**! Anyone is free to edit.
+You can use it to promote your app, server, or introduce yourself.
 
 [![Ai](/common/ai.png =300x)](/en/ai/home)
 
@@ -20,11 +20,11 @@ You can use it to promote your app, instance, or introduce yourself.
 ---
 
 [**Introduction**](/en/first) ･ [**FAQ**](/en/faq) - First Steps/About Misskey
-[**Instance list**](https://join.misskey.page/en/wiki/instances/) - Find an instance!
+[**Server list**](https://misskey-hub.net/en/servers/) - Find an instance!
 [**Features**](/en/features) - Learn more about Misskey's features
-[**Version History**](/en/releases)
+[**Version History**](https://github.com/misskey-dev/misskey/releases)
 
 ---
 
 # How to Edit
-You need to register for an account to edit. You can create an account from the Create Account menu.
+You need to login with Misskey.io account to edit. You can create an account by authenticating at Misskey.io from the Login menu.
