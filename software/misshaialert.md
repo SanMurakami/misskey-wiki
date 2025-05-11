@@ -2,19 +2,19 @@
 title: Misskey Tools
 description: 
 published: true
-date: 2023-11-02T13:53:31.366Z
+date: 2025-05-11T03:11:31.967Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-14T17:46:54.878Z
 ---
 
 
-**Misskey Tools**（https://misskey.tools）は、 Shrimpia Network によって開発・管理されている、 Misskey をより楽しめる機能を搭載した外部アプリケーションである。
+**Misskey Tools** (MissHaiAlert)は、 Shrimpia Network によって開発・管理されている、 Misskey をより楽しめる機能を搭載した外部アプリケーションである。
 多言語に対応している。
 
-# 機能
+オリジナルのソースは2024年1月22日にパブリックアーカイブとなっており、有志によるフォークのホストのみが利用可能となっている。
 
-機能は今後も追加予定である。
+# 機能
 
 ## ミス廃アラート
 
@@ -29,4 +29,7 @@ dateCreated: 2021-10-14T17:46:54.878Z
 アイコンを [Cat モード](/function/cat)の猫耳に合わせてトリミングできる。
 
 # リンク
-- [shrimpia/misskey-tools - GitHub](https://github.com/shrimpia/misskey-tools)
+- ~~https://misskey.tools~~
+  - [shrimpia/misskey-tools on GitHub](https://github.com/shrimpia/misskey-tools) : パブリックアーカイブ
+- ~~https://tools.mnijimiss.app~~ : [Nijimiss Project](../instances/nijimiss_moe)によりホストされたもの 2024年10月31日に提供終了
+- https://t.psec.dev
