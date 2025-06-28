@@ -2,7 +2,7 @@
 title: クライアント
 description: 投稿したりタイムラインを表示したりできるアプリ・ソフトウェア
 published: true
-date: 2025-05-11T02:54:14.095Z
+date: 2025-06-28T13:49:00.751Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-03T06:30:29.644Z
@@ -22,7 +22,7 @@ Misskeyの機能をひととおり利用できる、いわゆる「クライア�
 [そらいろ](https://misskey.io/@shiosyakeyakini)氏による無料のMisskeyクライアント。
 複数アカウントでログイン可能であり、タブ移動がしやすいのが特徴的である。また、WebViewを使わずに[MFM](../function/mfm)表示が可能な数少ないクライアントでもある。Misskeyの大幅な機能更新に積極的に追従している。
 Flutterベースのため、FlutterがサポートするWeb以外の環境すべてで動作する。
-Windows版及びLinux（Snapパッケージ）版は[GitHub Releases](https://github.com/shiosyakeyakini-info/miria/releases)からダウンロードできる。
+Windows版及びLinux（Snapパッケージとamd64向けdebパッケージ）版は[GitHub Releases](https://github.com/shiosyakeyakini-info/miria/releases)からダウンロードできる。
 
 **[Miria公式サイト](https://shiosyakeyakini.info/miria_web/index.html)**
 **[MiriaをAppStoreでインストール🍎](https://apps.apple.com/jp/app/miria/id6449201469)**
@@ -87,6 +87,8 @@ akihiro氏は、かつて人気を博したTwitterクライアント『TheWorld�
 [たけうちひろあき](https://fedibird.com/@takke)氏が開発している無料のAndroid用Mastodon・Misskey・Blueskyクライアント。
 ZonePaneは、Twitterの人気クライアント『TwitPane』の後継アプリであり、TwitPaneと同じUIで利用することができる。
 アプリ内広告は広告解除パックの定期購入により削除可能。
+
+2025年6月、開発者がiOS版の作成を予定した[投稿](https://fedibird.com/@takke/114670933317751525)を行っている。
 
 **[ZonePane公式アカウント](https://fedibird.com/@zonepane)**
 **[ZonePaneをPlayStoreでインストール🤖](https://play.google.com/store/apps/details?id=com.zonepane)**
