@@ -2,7 +2,7 @@
 title: Clients
 description: Misskey Client Apps
 published: true
-date: 2025-05-11T06:01:27.707Z
+date: 2025-06-28T13:51:23.642Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-01T06:24:41.855Z
@@ -38,7 +38,7 @@ Misskey has no official client application, but there are several unofficial Mis
 |[TheDesk](https://thedesk.top/)|No|No|[Yes](https://github.com/cutls/thedesk-next/releases)|[Yes](https://github.com/cutls/thedesk-next/releases)|[Yes](https://github.com/cutls/thedesk-next/releases)|No|en, ja ([Translate](https://github.com/cutls/thedesk-next/tree/main/locales))|[cutls/thedesk-next on GitHub](https://github.com/cutls/thedesk-next)|
 |[TidyDrive](https://96enu-kuroinu.github.io/TidyDriveManual/)|No|[Yes](https://play.google.com/store/apps/details?id=com.falhongcha.tidy_drive)|[Yes](https://96enu.booth.pm/items/6576327)|No|No|No|ja|- ([Web Site](https://github.com/96ENU-kuroinu/TidyDriveManual))|
 |[TootRain](https://b123400.net/tootrain)|No|No|[Yes](https://github.com/b123400/tootrain-qt/releases)|[Yes](https://apps.apple.com/us/app/tootrain/id1579538917)|[Yes(Beta)](https://github.com/b123400/tootrain-qt/releases)|No|en, ja ([Translate](https://github.com/b123400/TootRain/tree/master/TweetRain))|[b123400/TootRain on GitHub](https://github.com/b123400/TootRain) / [b123400/tootrain-qt on GitHub](https://github.com/b123400/tootrain-qt)|
-|[ZonePane](https://twitpane.com/)|No|[Yes](https://play.google.com/store/apps/details?id=com.zonepane)|No|No|No|No|en, es, ja, ko, zh, zh-rHK, zh-rTW ([Translate](https://github.com/takke/TwitPanePublicResource/tree/main/src/main/res))|-|
+|[ZonePane](https://twitpane.com/)|[Work in progress](https://fedibird.com/@takke/114670933317751525)|[Yes](https://play.google.com/store/apps/details?id=com.zonepane)|No|No|No|No|en, es, ja, ko, zh, zh-rHK, zh-rTW ([Translate](https://github.com/takke/TwitPanePublicResource/tree/main/src/main/res))|-|
 
 ## Other Platforms
 |Name|Supported Platforms|Source Code|
