@@ -2,7 +2,7 @@
 title: Clients
 description: Misskey Client Apps
 published: true
-date: 2025-06-28T13:51:23.642Z
+date: 2025-07-17T04:24:52.542Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-01T06:24:41.855Z
@@ -15,6 +15,7 @@ Misskey has no official client application, but there are several unofficial Mis
 |Akagitsune|No|No|[Yes](https://github.com/YuzuRyo61/Akagitsune/releases/latest)|[Yes](https://github.com/YuzuRyo61/Akagitsune/releases/latest)|[Yes](https://github.com/YuzuRyo61/Akagitsune/releases/latest)|No|en-US|[YuzuRyo61/Akagitsune on GitHub](https://github.com/YuzuRyo61/Akagitsune)|
 |Aria|[Yes](https://apps.apple.com/app/aria-for-misskey/id6499410880)|[Yes](https://play.google.com/store/apps/details?id=com.poppingmoon.aria)|[Yes](https://github.com/poppingmoon/aria/releases/latest)|[Yes](https://apps.apple.com/app/aria-for-misskey/id6499410880)|[Yes](https://snapcraft.io/aria)|No|Based on Misskey supported languages ([Translate](https://crowdin.com/project/aria-for-misskey))|[poppingmoon/aria on GitHub](https://github.com/poppingmoon/aria)|
 |[BaconJam](https://96enu-kuroinu.github.io/BaconJamManual/)|No|[Yes](https://play.google.com/store/apps/details?id=com.falhongcha.baconjam&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)|No|No|No|No|ja?|- ([Web Site](https://github.com/96ENU-kuroinu/BaconJamManual))|
+|Catkeys|No|~~[Yes](https://play.google.com/store/apps/details?id=com.catpawz.catkeys)~~ [alpha](https://github.com/catpawzz/Catkeys/releases)|No|No|No|No|en?|[catpawzz/Catkeys on GitHub](https://github.com/catpawzz/Catkeys)|
 |[Dhaaga](https://suvam.io/dhaaga)|[Soon™](https://github.com/suvam0451/dhaaga/issues/229)|[Yes](https://play.google.com/store/apps/details?id=io.suvam.dhaaga)|No|No|No|No|de, en, id, jp, pl ([Translate](https://github.com/suvam0451/dhaaga/tree/main/apps/mobile/i18n/locales))|[suvam0451/dhaaga on GitHub](https://github.com/suvam0451/dhaaga)|
 |[Flare](https://flareapp.moe)|[Testing](https://testflight.apple.com/join/iYP7QZME)|[Yes](https://play.google.com/store/apps/details?id=dev.dimension.flare&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)|[Work in progress](https://github.com/DimensionDev/Flare/pull/620)|[Work in progress](https://github.com/DimensionDev/Flare/pull/620)|No|No|ar, cs, da, de, el, es, fi, fr, it, ja, nl,, no, pl, pt, pt-BR, ro, ru, sv, uk, zh-CN ([Translate](https://crowdin.com/project/flareapp))|[DimensionDev/Flare on GitHub](https://github.com/DimensionDev/Flare)|
 |Kimis|[Yes](https://apps.apple.com/app/kimis-a-client-for-misskey/id1667275125)|No|No|[Yes](https://apps.apple.com/app/kimis-a-client-for-misskey/id1667275125)|No|No|en-US|[Lakr233/Kimis on GitHub](https://github.com/Lakr233/Kimis)|
@@ -38,7 +39,7 @@ Misskey has no official client application, but there are several unofficial Mis
 |[TheDesk](https://thedesk.top/)|No|No|[Yes](https://github.com/cutls/thedesk-next/releases)|[Yes](https://github.com/cutls/thedesk-next/releases)|[Yes](https://github.com/cutls/thedesk-next/releases)|No|en, ja ([Translate](https://github.com/cutls/thedesk-next/tree/main/locales))|[cutls/thedesk-next on GitHub](https://github.com/cutls/thedesk-next)|
 |[TidyDrive](https://96enu-kuroinu.github.io/TidyDriveManual/)|No|[Yes](https://play.google.com/store/apps/details?id=com.falhongcha.tidy_drive)|[Yes](https://96enu.booth.pm/items/6576327)|No|No|No|ja|- ([Web Site](https://github.com/96ENU-kuroinu/TidyDriveManual))|
 |[TootRain](https://b123400.net/tootrain)|No|No|[Yes](https://github.com/b123400/tootrain-qt/releases)|[Yes](https://apps.apple.com/us/app/tootrain/id1579538917)|[Yes(Beta)](https://github.com/b123400/tootrain-qt/releases)|No|en, ja ([Translate](https://github.com/b123400/TootRain/tree/master/TweetRain))|[b123400/TootRain on GitHub](https://github.com/b123400/TootRain) / [b123400/tootrain-qt on GitHub](https://github.com/b123400/tootrain-qt)|
-|[ZonePane](https://twitpane.com/)|[Work in progress](https://fedibird.com/@takke/114670933317751525)|[Yes](https://play.google.com/store/apps/details?id=com.zonepane)|No|No|No|No|en, es, ja, ko, zh, zh-rHK, zh-rTW ([Translate](https://github.com/takke/TwitPanePublicResource/tree/main/src/main/res))|-|
+|[ZonePane](https://twitpane.com/)|[Work in progress](https://fedibird.com/@takke/114778242057408696)|[Yes](https://play.google.com/store/apps/details?id=com.zonepane)|No|No|No|No|en, es, ja, ko, zh, zh-rHK, zh-rTW ([Translate](https://github.com/takke/TwitPanePublicResource/tree/main/src/main/res))|-|
 
 ## Other Platforms
 |Name|Supported Platforms|Source Code|
@@ -65,7 +66,7 @@ Misskey has no official client application, but there are several unofficial Mis
 |Echo|~~[iOS/iPadOS](https://apps.apple.com/jp/app/echo/id323813244)~~|Deleted silently|-|
 |Flosskey|[Android](https://github.com/ch1ak1STR/Flosskey/releases)|No longer maintained (2 years), Deleted silently|[ch1ak1STR/Flosskey on GitHub](https://github.com/ch1ak1STR/Flosskey)|
 |~~[Kaiteki](https://kaiteki.app/)~~|~~[Android](https://kaiteki.app/get/android/)~~, ~~[Windows](https://kaiteki.app/get/windows/)~~, ~~[Linux](https://kaiteki.app/get/linux/)~~, ~~[Web](https://web.kaiteki.app)~~|EOL announced (Already lost the note, [Translated Quote](https://misskey.io/notes/9xz0xbq2k47b03n3))|[Kaiteki-Fedi/Kaiteki on GitHub](https://github.com/Kaiteki-Fedi/Kaiteki/), [TransFem-org/Kaiteki/kaiteki on ActivityPub.Software](https://activitypub.software/TransFem-org/Kaiteki/kaiteki)|
-|[MissCat](https://yuiga.dev/misscat/)|[iOS/iPadOS](https://apps.apple.com/app/id1505059993)|No longer maintained(2 years), Deleted silently|[YuigaWada/MissCat on GitHub](https://github.com/YuigaWada/MissCat)|
+|[MissCat](https://yuiga.dev/misscat/)|~~[iOS/iPadOS](https://apps.apple.com/app/id1505059993)~~|No longer maintained(2 years), Deleted silently|[YuigaWada/MissCat on GitHub](https://github.com/YuigaWada/MissCat)|
 |MissRirica|~~[iOS/iPadOS](https://apps.apple.com/app/missririca/id1659214999)~~, ~~[Android](https://play.google.com/store/apps/details?id=space.riinswork.missririca)~~, [Web](http://miss-ririca.vercel.app/)|[Project code is broken](https://misskey.systems/notes/a3z77ukchr)|[fruitriin/missRirica-client on GitHub](https://github.com/fruitriin/missRirica-client)|
 |[TheDesk(~v24)](https://thedesk.top/)|~~[Windows](https://www.microsoft.com/store/productId/9P2NDNZ0GWZF)~~, [macOS](https://github.com/cutls/TheDesk/releases), [Linux](https://snapcraft.io/thedesk)|[New version](https://github.com/cutls/thedesk-next) released|[cutls/TheDesk on GitHub](https://github.com/cutls/TheDesk)|
 
