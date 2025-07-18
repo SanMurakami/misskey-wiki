@@ -2,7 +2,7 @@
 title: Clients
 description: Misskey Client Apps
 published: true
-date: 2025-07-17T04:24:52.542Z
+date: 2025-07-18T16:36:30.354Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-01T06:24:41.855Z
@@ -17,6 +17,7 @@ Misskey has no official client application, but there are several unofficial Mis
 |[BaconJam](https://96enu-kuroinu.github.io/BaconJamManual/)|No|[Yes](https://play.google.com/store/apps/details?id=com.falhongcha.baconjam&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)|No|No|No|No|ja?|- ([Web Site](https://github.com/96ENU-kuroinu/BaconJamManual))|
 |Catkeys|No|~~[Yes](https://play.google.com/store/apps/details?id=com.catpawz.catkeys)~~ [alpha](https://github.com/catpawzz/Catkeys/releases)|No|No|No|No|en?|[catpawzz/Catkeys on GitHub](https://github.com/catpawzz/Catkeys)|
 |[Dhaaga](https://suvam.io/dhaaga)|[Soon™](https://github.com/suvam0451/dhaaga/issues/229)|[Yes](https://play.google.com/store/apps/details?id=io.suvam.dhaaga)|No|No|No|No|de, en, id, jp, pl ([Translate](https://github.com/suvam0451/dhaaga/tree/main/apps/mobile/i18n/locales))|[suvam0451/dhaaga on GitHub](https://github.com/suvam0451/dhaaga)|
+|DotE|No|No|[Work in Progress](https://github.com/nekobato/DotE?tab=readme-ov-file#windows-1)|[Yes](https://github.com/nekobato/DotE/releases)|No|No|en?|[nekobato/DotE on GitHub](https://github.com/nekobato/DotE)|
 |[Flare](https://flareapp.moe)|[Testing](https://testflight.apple.com/join/iYP7QZME)|[Yes](https://play.google.com/store/apps/details?id=dev.dimension.flare&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)|[Work in progress](https://github.com/DimensionDev/Flare/pull/620)|[Work in progress](https://github.com/DimensionDev/Flare/pull/620)|No|No|ar, cs, da, de, el, es, fi, fr, it, ja, nl,, no, pl, pt, pt-BR, ro, ru, sv, uk, zh-CN ([Translate](https://crowdin.com/project/flareapp))|[DimensionDev/Flare on GitHub](https://github.com/DimensionDev/Flare)|
 |Kimis|[Yes](https://apps.apple.com/app/kimis-a-client-for-misskey/id1667275125)|No|No|[Yes](https://apps.apple.com/app/kimis-a-client-for-misskey/id1667275125)|No|No|en-US|[Lakr233/Kimis on GitHub](https://github.com/Lakr233/Kimis)|
 |Milktea|No|[Yes](https://play.google.com/store/apps/details?id=jp.panta.misskeyandroidclient)|No|No|No|No|en-US, ja-JP, zh-CN ([Translate](https://github.com/pantasystem/Milktea/tree/develop/modules))|[pantasystem/Milktea on GitHub](https://github.com/pantasystem/Milktea)|
@@ -27,6 +28,7 @@ Misskey has no official client application, but there are several unofficial Mis
 |[Misskey.io_MultiTimeLine](https://misskey.io/@yyya_nico/pages/multi_tl) (**NOT** Misskey.io Official)|No|No|No|No|No|[Yes](https://misskeytimeline.yyya-nico.co)|ja?|[yyya-nico/Misskey.io_MultiTimeline on GitHub](https://github.com/yyya-nico/Misskey.io_MultiTimeline)|
 |MissLI|No|No|No|No|No|[Yes](https://uboar.github.io/missli/)|ja?|[uboar/missli on GitHub](https://github.com/uboar/missli)|
 |[Mizuna](https://mizuna-project.blossomsarchive.com)|No|No|No|No|No|[Yes](https://mizuna.blossomsarchive.com)|ja-JP?|[MizuiMiduki/Mizuna on GitHub](https://github.com/MizuiMiduki/Mizuna)|
+|mnotify|No|No|Yes|Yes|Yes|No|en|[sharl/mnotify on GitHub](https://github.com/sharl/mnotify)|
 |MoeKey|[Yes](https://github.com/MoeKeyDev/MoeKey/releases)|[Yes](https://github.com/MoeKeyDev/MoeKey/releases)|[Yes](https://github.com/MoeKeyDev/MoeKey/releases)|[Yes](https://github.com/MoeKeyDev/MoeKey/releases)|[Yes](https://github.com/MoeKeyDev/MoeKey/releases)|?|en-US, ja-JP, zh-CN ([Translate](https://crowdin.com/project/moekey))|[MoeKeyDev/MoeKey on GitHub](https://github.com/MoeKeyDev/MoeKey)|
 |MPen|[Yes](https://apps.apple.com/jp/app/mpen/id6475402927)|No|No|[Yes](https://apps.apple.com/jp/app/mpen/id6475402927)|No|No|ja?|-|
 |[OpenTween](https://www.opentween.org/)|No|No|[Yes](https://github.com/opentween/OpenTween/releases)|No|No|No|ja?|[opentween/OpenTween on GitHub](https://github.com/opentween/OpenTween)|
@@ -48,6 +50,7 @@ Misskey has no official client application, but there are several unofficial Mis
 |[misskey-cli](https://mikuta0407.net/wordpress/index.php/2022/12/16/misskey-cli/)|CLI System (Go)|[mikuta0407/misskey-cli on GitHub](https://github.com/mikuta0407/misskey-cli)|
 |MisT|CLI System (Python)|[35enidoi/MisT on GitHub](https://github.com/35enidoi/MisT)|
 |mist|host server: Running Node.js, client: Web Browser|[marihachi/mist on GitHub](https://github.com/marihachi/mist)|
+|PuffyHub|watchOS|[alikia2x/PuffyHub on GitHub](https://github.com/alikia2x/PuffyHub)|
 |sayaka|CLI System (C)|[isaki68k/sayaka on GitHub](https://github.com/isaki68k/sayaka)|
 |Teramisu|host server: Running Node.js, client: Telnet Client|[castella-cake/teramisu-server on GitHub](https://github.com/castella-cake/teramisu-server)|
 |[もふきー](http://win2k.org/blog/2023/05/26/2031656/)|Windows 95+|-|
