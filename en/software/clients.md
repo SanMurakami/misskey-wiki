@@ -2,7 +2,7 @@
 title: Clients
 description: Misskey Client Apps
 published: true
-date: 2025-07-18T16:42:08.515Z
+date: 2025-07-19T04:56:58.248Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-01T06:24:41.855Z
@@ -15,7 +15,7 @@ Misskey has no official client application, but there are several unofficial Mis
 |Akagitsune|No|No|[Yes](https://github.com/YuzuRyo61/Akagitsune/releases/latest)|[Yes](https://github.com/YuzuRyo61/Akagitsune/releases/latest)|[Yes](https://github.com/YuzuRyo61/Akagitsune/releases/latest)|No|en-US|[YuzuRyo61/Akagitsune on GitHub](https://github.com/YuzuRyo61/Akagitsune)|
 |Aria|[Yes](https://apps.apple.com/app/aria-for-misskey/id6499410880)|[Yes](https://play.google.com/store/apps/details?id=com.poppingmoon.aria)|[Yes](https://github.com/poppingmoon/aria/releases/latest)|[Yes](https://apps.apple.com/app/aria-for-misskey/id6499410880)|[Yes](https://snapcraft.io/aria)|No|Based on Misskey supported languages ([Translate](https://crowdin.com/project/aria-for-misskey))|[poppingmoon/aria on GitHub](https://github.com/poppingmoon/aria)|
 |[BaconJam](https://96enu-kuroinu.github.io/BaconJamManual/)|No|[Yes](https://play.google.com/store/apps/details?id=com.falhongcha.baconjam&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)|No|No|No|No|ja?|- ([Web Site](https://github.com/96ENU-kuroinu/BaconJamManual))|
-|Catkeys|No|~~[Yes](https://play.google.com/store/apps/details?id=com.catpawz.catkeys)~~ [alpha](https://github.com/catpawzz/Catkeys/releases)|No|No|No|No|en?|[catpawzz/Catkeys on GitHub](https://github.com/catpawzz/Catkeys)|
+|[Catkeys](https://catpawz.net/projects)|No|~~[Yes](https://play.google.com/store/apps/details?id=com.catpawz.catkeys)~~ [alpha](https://github.com/catpawzz/Catkeys/releases)|No|No|No|No|en?|[catpawzz/Catkeys on GitHub](https://github.com/catpawzz/Catkeys)|
 |[Dhaaga](https://suvam.io/dhaaga)|[Soon™](https://github.com/suvam0451/dhaaga/issues/229)|[Yes](https://play.google.com/store/apps/details?id=io.suvam.dhaaga)|No|No|No|No|de, en, id, jp, pl ([Translate](https://github.com/suvam0451/dhaaga/tree/main/apps/mobile/i18n/locales))|[suvam0451/dhaaga on GitHub](https://github.com/suvam0451/dhaaga)|
 |DotE|No|No|[Work in Progress](https://github.com/nekobato/DotE?tab=readme-ov-file#windows-1)|[Yes](https://github.com/nekobato/DotE/releases)|No|No|en?|[nekobato/DotE on GitHub](https://github.com/nekobato/DotE)|
 |[Flare](https://flareapp.moe)|[Testing](https://testflight.apple.com/join/iYP7QZME)|[Yes](https://play.google.com/store/apps/details?id=dev.dimension.flare&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)|[Work in progress](https://github.com/DimensionDev/Flare/pull/620)|[Work in progress](https://github.com/DimensionDev/Flare/pull/620)|No|No|ar, cs, da, de, el, es, fi, fr, it, ja, nl,, no, pl, pt, pt-BR, ro, ru, sv, uk, zh-CN ([Translate](https://crowdin.com/project/flareapp))|[DimensionDev/Flare on GitHub](https://github.com/DimensionDev/Flare)|
@@ -27,7 +27,7 @@ Misskey has no official client application, but there are several unofficial Mis
 |MissFARM|[Yes](https://apps.apple.com/jp/app/missfarm/id6468420277)|No|No|[Yes](https://apps.apple.com/app/missfarm/id6468420277)|No|No|en|-|
 |[Misskey.io_MultiTimeLine](https://misskey.io/@yyya_nico/pages/multi_tl) (**NOT** Misskey.io Official)|No|No|No|No|No|[Yes](https://misskeytimeline.yyya-nico.co)|ja?|[yyya-nico/Misskey.io_MultiTimeline on GitHub](https://github.com/yyya-nico/Misskey.io_MultiTimeline)|
 |MissLI|No|No|No|No|No|[Yes](https://uboar.github.io/missli/)|ja?|[uboar/missli on GitHub](https://github.com/uboar/missli)|
-|MiView|No|No|[Yes](https://github.com/Manche/MiView/releases)|No|[Work in Progress](https://github.com/Manche/MiView/pull/10)|No|ja?|[Manche/MiView on GitHub](https://github.com/Manche/MiView)|
+|[MiView](https://manche.sakura.ne.jp/archives/category/tech/misskey/miview)|No|No|[Yes](https://github.com/Manche/MiView/releases)|No|[Work in Progress](https://github.com/Manche/MiView/pull/10)|No|ja?|[Manche/MiView on GitHub](https://github.com/Manche/MiView)|
 |[Mizuna](https://mizuna-project.blossomsarchive.com)|No|No|No|No|No|[Yes](https://mizuna.blossomsarchive.com)|ja-JP?|[MizuiMiduki/Mizuna on GitHub](https://github.com/MizuiMiduki/Mizuna)|
 |mnotify|No|No|Yes|Yes|Yes|No|en|[sharl/mnotify on GitHub](https://github.com/sharl/mnotify)|
 |MoeKey|[Yes](https://github.com/MoeKeyDev/MoeKey/releases)|[Yes](https://github.com/MoeKeyDev/MoeKey/releases)|[Yes](https://github.com/MoeKeyDev/MoeKey/releases)|[Yes](https://github.com/MoeKeyDev/MoeKey/releases)|[Yes](https://github.com/MoeKeyDev/MoeKey/releases)|?|en-US, ja-JP, zh-CN ([Translate](https://crowdin.com/project/moekey))|[MoeKeyDev/MoeKey on GitHub](https://github.com/MoeKeyDev/MoeKey)|
