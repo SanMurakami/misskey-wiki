@@ -2,7 +2,7 @@
 title: Clients
 description: Misskey Client Apps
 published: true
-date: 2025-08-28T03:25:41.563Z
+date: 2025-08-28T03:31:38.858Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-01T06:24:41.855Z
@@ -28,7 +28,7 @@ Misskey has no official client application, but there are several unofficial Mis
 |[Misskey.io_MultiTimeLine](https://misskey.io/@yyya_nico/pages/multi_tl) (**NOT** Misskey.io Official)|No|No|No|No|No|[Yes](https://misskeytimeline.yyya-nico.co)|ja?|[yyya-nico/Misskey.io_MultiTimeline on GitHub](https://github.com/yyya-nico/Misskey.io_MultiTimeline)|
 |MissLI|No|No|No|No|No|[Yes](https://uboar.github.io/missli/)|ja?|[uboar/missli on GitHub](https://github.com/uboar/missli)|
 |mist|No|No|No|No|No|Yes|en, ja|[marihachi/mist on GitHub](https://github.com/marihachi/mist)|
-|Mistdon|No|No|[Yes](https://github.com/tizerm/Mistdon/releases)|[Yes](https://github.com/tizerm/Mistdon/releases)|Buildable|No|ja|[tizerm/Mistdon on GitHub](https://github.com/tizerm/Mistdon)|
+|Mistdon|No|No|[Yes](https://github.com/tizerm/Mistdon/releases)|[Yes](https://github.com/tizerm/Mistdon/releases)|No|No|ja|[tizerm/Mistdon on GitHub](https://github.com/tizerm/Mistdon)|
 |[MiView](https://manche.sakura.ne.jp/archives/category/tech/misskey/miview)|No|No|[Yes](https://github.com/Manche/MiView/releases)|[Yes](https://github.com/Manche/MiView/releases)|[Yes](https://github.com/Manche/MiView/releases)|No|ja|[Manche/MiView on GitHub](https://github.com/Manche/MiView)|
 |[Mizuna](https://mizuna-project.blossomsarchive.com)|No|No|No|No|No|[Yes](https://mizuna.blossomsarchive.com)|ja-JP?|[MizuiMiduki/Mizuna on GitHub](https://github.com/MizuiMiduki/Mizuna)|
 |mnotify|No|No|Yes|Yes|Yes|No|en|[sharl/mnotify on GitHub](https://github.com/sharl/mnotify)|
