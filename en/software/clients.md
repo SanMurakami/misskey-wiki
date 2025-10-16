@@ -2,7 +2,7 @@
 title: Clients
 description: Misskey Client Apps
 published: true
-date: 2025-10-15T11:19:24.318Z
+date: 2025-10-16T13:48:27.202Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-01T06:24:41.855Z
@@ -38,6 +38,7 @@ Misskey has no official client application, but there are several unofficial Mis
 |Myo|[Yes](https://apps.apple.com/app/id6742869552)|No|No|[Yes](https://apps.apple.com/app/id6742869552)|No|No|de, en, fr, it, ja, ko, pt|-|
 |[OpenTween](https://www.opentween.org/)|No|No|[Yes](https://github.com/opentween/OpenTween/releases)|No|No|No|ja?|[opentween/OpenTween on GitHub](https://github.com/opentween/OpenTween)|
 |Ore2|[Yes](https://apps.apple.com/app/id1107176601)|No|No|[Yes](https://apps.apple.com/app/id1107176601)|No|No|ja-JP?|-|
+|Papilio|No|No|No|No|No|[Yes](https://papilio-ochre.vercel.app)|Based on Misskey supported languages ([Translate](https://github.com/Lhcfl/papilio/tree/main/locales-source))|[Lhcfl/papilio on GitHub](https://github.com/Lhcfl/papilio)|
 |[PSkey](https://github.com/ibuki2003/pskey/wiki)|No|[Yes](https://play.google.com/store/apps/details?id=dev.fuwa.pskey)|No|No|No|No|ja-JP|[ibuki2003/pskey - GitHub](https://github.com/ibuki2003/pskey)|
 |[SocialHub](https://uakihir0.github.io/socialhub/)|[Yes](https://apps.apple.com/jp/app/id1474451582)|No|No|No|No|No|ja?|[uakihir0/SocialHub on GitHub](https://github.com/uakihir0/SocialHub)|
 |[SoraSNS](https://mszpro.com/sorasns)|[Yes](https://apps.apple.com/app/id6450969760)|No|No|[Yes](https://apps.apple.com/app/id6450969760)|No|No|de, es, fr, ja, kr, pt, vi, zh-CN, zh-TW|-|
