@@ -2,7 +2,7 @@
 title: Clients
 description: Misskey Client Apps
 published: true
-date: 2025-10-16T13:48:27.202Z
+date: 2025-10-21T09:20:46.934Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-01T06:24:41.855Z
@@ -30,7 +30,7 @@ Misskey has no official client application, but there are several unofficial Mis
 |MissLI|No|No|No|No|No|[Yes](https://uboar.github.io/missli/)|ja|[uboar/missli on GitHub](https://github.com/uboar/missli)|
 |mist|No|No|No|No|No|Yes|en, ja|[marihachi/mist on GitHub](https://github.com/marihachi/mist)|
 |Mistdon|No|No|[Yes](https://github.com/tizerm/Mistdon/releases)|[Yes](https://github.com/tizerm/Mistdon/releases)|No|No|ja|[tizerm/Mistdon on GitHub](https://github.com/tizerm/Mistdon)|
-|[MiView](https://manche.sakura.ne.jp/archives/category/tech/misskey/miview)|No|No|[Yes](https://github.com/Manche/MiView/releases)|[Yes](https://github.com/Manche/MiView/releases)|[Yes](https://github.com/Manche/MiView/releases)|No|ja|[Manche/MiView on GitHub](https://github.com/Manche/MiView)|
+|[MiView](https://manche.sakura.ne.jp/archives/category/tech/misskey/miview)|No|No|[Yes](https://github.com/Manche/MiView/releases)|No|No|No|ja|[Manche/MiView on GitHub](https://github.com/Manche/MiView)|
 |[Mizuna](https://mizuna-project.blossomsarchive.com)|No|No|No|No|No|[Yes](https://mizuna.blossomsarchive.com)|ja-JP?|[MizuiMiduki/Mizuna on GitHub](https://github.com/MizuiMiduki/Mizuna)|
 |mnotify|No|No|Yes|Yes|Yes|No|en|[sharl/mnotify on GitHub](https://github.com/sharl/mnotify)|
 |MoeKey|[Yes](https://github.com/MoeKeyDev/MoeKey/releases)|[Yes](https://github.com/MoeKeyDev/MoeKey/releases)|[Yes](https://github.com/MoeKeyDev/MoeKey/releases)|[Yes](https://github.com/MoeKeyDev/MoeKey/releases)|[Yes](https://github.com/MoeKeyDev/MoeKey/releases)|No|en-US, ja-JP, zh-CN ([Translate](https://crowdin.com/project/moekey))|[MoeKeyDev/MoeKey on GitHub](https://github.com/MoeKeyDev/MoeKey)|
@@ -46,7 +46,7 @@ Misskey has no official client application, but there are several unofficial Mis
 |[TheDesk](https://thedesk.top/)|No|No|[Yes](https://github.com/cutls/thedesk-next/releases)|[Yes](https://github.com/cutls/thedesk-next/releases)|[Yes](https://github.com/cutls/thedesk-next/releases)|No|en, ja ([Translate](https://github.com/cutls/thedesk-next/tree/main/locales))|[cutls/thedesk-next on GitHub](https://github.com/cutls/thedesk-next)|
 |[TidyDrive](https://96enu-kuroinu.github.io/TidyDriveManual/)|No|[Yes](https://play.google.com/store/apps/details?id=com.falhongcha.tidy_drive)|[Yes](https://96enu.booth.pm/items/6576327)|No|No|No|ja|- ([Web Site](https://github.com/96ENU-kuroinu/TidyDriveManual))|
 |[TootRain](https://b123400.net/tootrain)|No|No|[Yes](https://github.com/b123400/tootrain-qt/releases)|[Yes](https://apps.apple.com/us/app/tootrain/id1579538917)|[Yes(Beta)](https://github.com/b123400/tootrain-qt/releases)|No|en, ja ([Translate](https://github.com/b123400/TootRain/tree/master/TweetRain))|[b123400/TootRain on GitHub](https://github.com/b123400/TootRain) / [b123400/tootrain-qt on GitHub](https://github.com/b123400/tootrain-qt)|
-|[ZonePane](https://twitpane.com/)|[Work in progress](https://fedibird.com/@takke/114778242057408696)|[Yes](https://play.google.com/store/apps/details?id=com.zonepane)|No|No|No|No|en, es, ja, ko, zh, zh-rHK, zh-rTW ([Translate](https://github.com/takke/TwitPanePublicResource/tree/main/src/main/res))|-|
+|[ZonePane](https://twitpane.com/)|[Work in progress](https://fedibird.com/@takke/114778242057408696)<!--[Yes](https://apps.apple.com/app/id6747976082)-->|[Yes](https://play.google.com/store/apps/details?id=com.zonepane)|No|No|No|No|en, es, ja, ko, zh, zh-rHK, zh-rTW ([Translate](https://github.com/takke/TwitPanePublicResource/tree/main/src/main/res))|-|
 
 ## Other Platforms
 |Name|Supported Platforms|Source Code|
