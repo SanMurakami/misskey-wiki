@@ -2,7 +2,7 @@
 title: Markup language For Misskey
 description: Misskeyで使えるMarkdown風の構文
 published: true
-date: 2025-11-28T16:39:08.350Z
+date: 2025-11-28T16:44:00.723Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-14T17:45:53.627Z
@@ -369,6 +369,9 @@ $[spin.y,left,speed=100ms 🌓　　　☀　　　🌏]
 ## UNIX時間
 任意の数字を`$[unixtime`と`]`で囲うと、UNIX時間で絶対時間・相対時間を表示することができる。イベントの開始時刻を秒単位で表現できて便利…かも？
 ![UNIX時間0を示したノート](https://media.misskeyusercontent.jp/io/ee34bb05-dc3e-4fbd-b899-95e8aeedeead.png)
+```
+はじまりの地、$[unixtime 0]…
+```
 
 # LaTeX表現
 Misskeyが最強のSNSサイトと呼ばれる理由の一つがこのLaTeXだ。
