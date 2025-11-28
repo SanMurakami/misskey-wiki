@@ -2,7 +2,7 @@
 title: AiScript
 description: Misskeyで使えるプログラミング言語
 published: true
-date: 2025-11-28T14:33:30.723Z
+date: 2025-11-28T14:37:49.918Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-14T17:45:28.675Z
@@ -254,10 +254,13 @@ AiScriptファイルにメタデータを埋め込める機能です。
 ```
 
 # リンク
-- [aiscript-dev/aiscript on GitHub](https://github.com/aiscript-dev/aiscript) 公式リポジトリ
 - [AiScript公式サイト](https://aiscript-dev.github.io/ja/)
 	- [ガイド](https://aiscript-dev.github.io/ja/guides/get-started.html)
 	- [リファレンス](https://aiscript-dev.github.io/ja/references/syntax.html)
   - [プレイグラウンド](https://aiscript-dev.github.io/ja/playground.html)
+- [aiscript-dev/aiscript on GitHub](https://github.com/aiscript-dev/aiscript) 公式リポジトリ
 - [AiScript - Misskey Hub](https://misskey-hub.net/ja/docs/for-developers/aiscript/) Misskey内で利用可能なAiScriptについての解説
-	- [AiScript Misskey拡張API リファレンス - Misskey Hub](https://misskey-hub.net/ja/docs/for-developers/plugin/plugin-api-reference/)
+	- [AiScript Misskey拡張API リファレンス](https://misskey-hub.net/ja/docs/for-developers/plugin/plugin-api-reference/)
+  
+- [aiscript-version-transpiler](https://takejohn.github.io/aiscript-version-transpiler/) バージョン`0.19.0`から`1.1.0`までの破壊的変更を解消するための支援ツール
+	- [takejohn/aiscript-version-transpiler on GitHub](https://github.com/takejohn/aiscript-version-transpiler) ソースコード
