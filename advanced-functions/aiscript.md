@@ -2,7 +2,7 @@
 title: AiScript
 description: Misskeyで使えるプログラミング言語
 published: true
-date: 2021-10-14T17:45:30.148Z
+date: 2025-11-28T14:33:30.723Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-14T17:45:28.675Z
@@ -13,6 +13,9 @@ dateCreated: 2021-10-14T17:45:28.675Z
 AiScript(あいすくりぷと)は、プログラミング言語です。
 このドキュメントでは、既にある程度のプログラミングの知識があることを前提にしています。
 したがってAiScriptの構文、仕様などについてだけ書き、プログラミング自体についての説明は省きます。
+
+> 2025年11月現在最新のAiScriptのバージョンは26日にリリースされた`1.2.0`ですが、この記事は2021年時点のものであるため、内容が非常に古い可能性があります。[各種リンク](#リンク)を参考に、最新の情報を入手してください。
+{.is-warning}
 
 ## Hello, world!
 AiScriptでは、次のように書きます:
@@ -249,3 +252,12 @@ AiScriptファイルにメタデータを埋め込める機能です。
 		. i
 }
 ```
+
+# リンク
+- [aiscript-dev/aiscript on GitHub](https://github.com/aiscript-dev/aiscript) 公式リポジトリ
+- [AiScript公式サイト](https://aiscript-dev.github.io/ja/)
+	- [ガイド](https://aiscript-dev.github.io/ja/guides/get-started.html)
+	- [リファレンス](https://aiscript-dev.github.io/ja/references/syntax.html)
+  - [プレイグラウンド](https://aiscript-dev.github.io/ja/playground.html)
+- [AiScript - Misskey Hub](https://misskey-hub.net/ja/docs/for-developers/aiscript/) Misskey内で利用可能なAiScriptについての解説
+	- [AiScript Misskey拡張API リファレンス - Misskey Hub](https://misskey-hub.net/ja/docs/for-developers/plugin/plugin-api-reference/)
