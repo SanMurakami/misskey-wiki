@@ -2,7 +2,7 @@
 title: AiScript
 description: Misskeyで使えるプログラミング言語
 published: true
-date: 2025-11-28T14:37:49.918Z
+date: 2025-11-29T06:38:31.437Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-14T17:45:28.675Z
@@ -264,3 +264,7 @@ AiScriptファイルにメタデータを埋め込める機能です。
   
 - [aiscript-version-transpiler](https://takejohn.github.io/aiscript-version-transpiler/) バージョン`0.19.0`から`1.1.0`までの破壊的変更を解消するための支援ツール
 	- [takejohn/aiscript-version-transpiler on GitHub](https://github.com/takejohn/aiscript-version-transpiler) ソースコード
+- [AiScript Syntax](https://marketplace.visualstudio.com/items?itemName=tubone24.aiscript-syntax) VScodeで利用可能なシンタックスハイライト
+	- `.is`ファイルで有効
+  - 2025年11月現在の最新版は2023年4月16日のバージョン`0.2.1`
+  - [tubone24/aiscript-syntax-vscode on GitHub](https://github.com/tubone24/aiscript-syntax-vscode) ソースコード
