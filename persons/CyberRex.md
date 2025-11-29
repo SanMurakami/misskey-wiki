@@ -2,7 +2,7 @@
 title: CyberRex
 description: CyberRexとは、日本在住の学生である。
 published: true
-date: 2022-11-02T23:33:30.921Z
+date: 2025-11-29T06:56:49.542Z
 tags: ユーザー
 editor: markdown
 dateCreated: 2022-11-02T15:49:53.349Z
@@ -22,12 +22,13 @@ Misskeyへの機能提案とコントリビューションも行なっている�
 趣味はプログラミングと音楽を聴くこと、動画と写真撮影。好きなものはウマ娘と楽しい友達。
 ウマ娘の推しはトウカイテイオー。
 
-# 運営インスタンス
+# 運営サーバー
 - さいばれすきー　(https://mi.cbrx.io/)
 
 # アカウント
-- Twitter [@subrex0](https://twitter.com/subrex0)
-- GitHub [CyberRex0](https://github.com/CyberRex0)
 - Fediverse
   - [@cyberrex_v2@misskey.io](https://misskey.io/@cyberrex_v2) (メイン)
   - [@cyberrex@mi.cbrx.io](https://mi.cbrx.io/@cyberrex) (さいばれすきー)
+- [@cyberrex_v2](https://x.com/cyberrex_v2) - X
+- [CyberRex0](https://github.com/CyberRex0) - GitHub
+- [ホームページ](https://cyberrex.jp)
