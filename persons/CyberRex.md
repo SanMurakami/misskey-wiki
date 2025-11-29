@@ -2,13 +2,13 @@
 title: CyberRex
 description: CyberRexとは、日本在住の学生である。
 published: true
-date: 2025-11-29T06:56:49.542Z
+date: 2025-11-29T06:57:43.379Z
 tags: ユーザー
 editor: markdown
 dateCreated: 2022-11-02T15:49:53.349Z
 ---
 
-**CyberRex** は [Misskey](/ja/software/Misskey) のコントリビューターで、学生である。2004年8月11日生まれ、宮城県在住、男性。
+**CyberRex** は [Misskey](../software/misskey) のコントリビューターで、学生である。2004年8月11日生まれ、宮城県在住、男性。
 
 # 概要
 2021年にTwitterからmisskey.ioへ事実上の移住。
@@ -17,7 +17,7 @@ dateCreated: 2022-11-02T15:49:53.349Z
 言語はPythonを主とし、Webサービス、Discordボットなどの開発を行なっている。
 Misskeyへの機能提案とコントリビューションも行なっている。
 
-[村上さん](/ja/persons/aureoleark)からよくいじられる。
+[村上さん](./aureoleark)からよくいじられる。
 
 趣味はプログラミングと音楽を聴くこと、動画と写真撮影。好きなものはウマ娘と楽しい友達。
 ウマ娘の推しはトウカイテイオー。
