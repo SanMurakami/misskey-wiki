@@ -2,7 +2,7 @@
 title: Clients
 description: Misskey Client Apps
 published: true
-date: 2025-10-21T09:20:46.934Z
+date: 2025-12-18T11:46:29.336Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-01T06:24:41.855Z
@@ -83,7 +83,9 @@ Misskey has no official client application, but there are several unofficial Mis
 # Extensions & Plugins
 |Extensions & Plugins|Supported Platform|Source Code|
 |:-:|:-:|:-:|
+|cider2misskey|[Cider Collective](https://cider.sh)|[lqvp/cider2misskey on GitHub](https://github.com/lqvp/cider2misskey)|
 |[Misskey Client for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=mikankari.msky4vscode)|Visual Studio Code|[mikankari/msky4vscode on GitHub](https://github.com/mikankari/msky4vscode)|
+|NowPlayingForMisskey|[MusicBee](https://getmusicbee.com)|[amanami-takumi/NowPlayingForMisskey on GitHub](https://github.com/amanami-takumi/NowPlayingForMisskey)|
 |[Obsidian plugin for Misskey](https://obsidian.md/plugins?search=Misskey%20Connector)|Obsidian|[minimarimo3/Obsidian-plugin-for-Misskeyon GitHub](https://github.com/minimarimo3/Obsidian-plugin-for-Misskey)
 |vimskey|vim/neovim|[Allianaab2m/vimskey on GitHub](https://github.com/Allianaab2m/vimskey)
 
