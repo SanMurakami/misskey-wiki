@@ -2,7 +2,7 @@
 title: Clients
 description: Misskey Client Apps
 published: true
-date: 2025-12-18T11:46:29.336Z
+date: 2025-12-29T07:39:17.344Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-01T06:24:41.855Z
@@ -17,7 +17,7 @@ Misskey has no official client application, but there are several unofficial Mis
 |[Catkeys](https://catpawz.net/projects)|No|[Yes](https://play.google.com/store/apps/details?id=com.catpawz.catkeys)<!--[alpha](https://github.com/catpawzz/Catkeys/releases)-->|No|No|No|No|en?|[catpawzz/Catkeys on GitHub](https://github.com/catpawzz/Catkeys)|
 |[Dhaaga](https://suvam.io/dhaaga)|[Work in progress](https://github.com/suvam0451/dhaaga/issues/229)|[Yes](https://play.google.com/store/apps/details?id=io.suvam.dhaaga)|No|No|No|No|de, en, id, jp, pl ([Translate](https://github.com/suvam0451/dhaaga/tree/main/apps/mobile/i18n/locales))|[suvam0451/dhaaga on GitHub](https://github.com/suvam0451/dhaaga)|
 |DotE|No|No|[Work in Progress](https://github.com/nekobato/DotE?tab=readme-ov-file#windows-1)|[Yes](https://github.com/nekobato/DotE/releases)|No|No|ja|[nekobato/DotE on GitHub](https://github.com/nekobato/DotE)|
-|[Flare](https://flareapp.moe)|[Testing](https://testflight.apple.com/join/iYP7QZME)|[Yes](https://play.google.com/store/apps/details?id=dev.dimension.flare)|[Yes](https://apps.microsoft.com/detail/9NLRN0BKZ357)|[Testing](https://testflight.apple.com/join/iYP7QZME)|No|No|ar, cs, da, de, el, es, fi, fr, it, ja, nl,, no, pl, pt, pt-BR, ro, ru, sv, uk, zh-CN ([Translate](https://crowdin.com/project/flareapp))|[DimensionDev/Flare on GitHub](https://github.com/DimensionDev/Flare)|
+|[Flare](https://flareapp.moe)|[Yes](https://apps.apple.com/app/id6476077738)|[Yes](https://play.google.com/store/apps/details?id=dev.dimension.flare)|[Yes](https://apps.microsoft.com/detail/9NLRN0BKZ357)|[Testing](https://testflight.apple.com/join/iYP7QZME)|No|No|ar, cs, da, de, el, es, fi, fr, it, ja, nl,, no, pl, pt, pt-BR, ro, ru, sv, uk, zh-CN ([Translate](https://crowdin.com/project/flareapp))|[DimensionDev/Flare on GitHub](https://github.com/DimensionDev/Flare)|
 |Illustail|[Yes](https://apps.apple.com/app/id375749531)|No|No|[Yes](https://apps.apple.com/app/id375749531)|No|No|en|-|
 |Kimis|[Yes](https://apps.apple.com/app/id1667275125)|No|No|[Yes](https://apps.apple.com/app/kimis-a-client-for-misskey/id1667275125)|No|No|en-US|[Lakr233/Kimis on GitHub](https://github.com/Lakr233/Kimis)|
 |MiKey|[Yes](https://apps.apple.com/app/id6747246021)|No|No|[Yes](https://apps.apple.com/app/id6747246021)|No|No|ko?|-|
