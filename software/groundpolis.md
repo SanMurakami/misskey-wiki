@@ -2,7 +2,7 @@
 title: Groundpolis
 description: Groundpolisは、Xelticaが開発を先導するMisskeyのフォークである。
 published: true
-date: 2025-05-11T05:48:13.007Z
+date: 2026-01-22T13:07:57.655Z
 tags: 
 editor: markdown
 dateCreated: 2021-10-14T17:46:50.859Z
@@ -11,7 +11,7 @@ dateCreated: 2021-10-14T17:46:50.859Z
 # Groundpolis
 
 **Groundpolis**は、2019年から[xeltica](/persons/xeltica)により開発されていた、[Misskey](/software/misskey)をベースに独自機能の追加や細部の改善などを施した[分散マイクロブログソフトウェア](/decentralized-social-networking-service#%E5%88%86%E6%95%A3%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%96%E3%83%AD%E3%82%B0%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2)である。
-現在は開発が終了している。
+現在は**開発が終了している**。
 
 ## バージョン
 
@@ -61,3 +61,7 @@ Misskey 本家ではユーザー登録を停止した場合、招待制に変わ
 - [milkey.homes](https://milkey.homes/) (さらに独自の改造が施されている)
 <!-- ### Groundpolis v2 -->
 <!-- - [Groundpolis on GCP](https://groundpolis.nokotaro.com) -->
+
+## 外部リンク
+[Groundpolis/Groundpolis(develop branch) on GitHub](https://github.com/Groundpolis/Groundpolis/tree/develop) Groundpolisのソースコード
+[sakura-tel/milkey on GitHub](https://github.com/sakura-tel/milkey) milkey.homesのソースコード
